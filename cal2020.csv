@@ -1,0 +1,657 @@
+,School,Locale,Entry,Code,Status,Event
+0,Albuquerque Academy,NM/US,Lily Nakakura,Albuquerque LN,In,Varsity LD
+1,Albuquerque Academy,NM/US,Sierra Romero,Albuquerque SR,In,Varsity LD
+2,Anderson High School,TX/US,Aseel Rawashdeh,Anderson AR,In,Varsity LD
+3,Anderson High School,TX/US,Brett Cryan,Anderson BC,In,Varsity LD
+4,Anderson High School,TX/US,Malik Rawashdeh,Anderson MR,In,Varsity LD
+5,Archbishop Mitty High School,CA/US,Arnav Simha,Archbishop Mitty AS,In,Varsity LD
+6,Archbishop Mitty High School,CA/US,Jessica Hsu,Archbishop Mitty JH,In,Varsity LD
+7,Archbishop Mitty High School,CA/US,John Lee,Archbishop Mitty JL,In,Varsity LD
+8,Archbishop Mitty High School,CA/US,Joanne Park,Archbishop Mitty JP,In,Varsity LD
+9,Archbishop Mitty High School,CA/US,Lukas Krause,Archbishop Mitty LK,In,Varsity LD
+10,Archbishop Mitty High School,CA/US,Priscilla Kim,Archbishop Mitty PK,In,Varsity LD
+11,BASIS Phoenix HS,AZ/US,Zachary Jones,BASIS Phoenix ZJ,In,Varsity LD
+12,BASIS San Antonio Shavano,TX/,Pranavkrishna Kandikayala,BASIS San Antonio Shavano PK,In,Varsity LD
+13,Beaver HS,UT/US,Annie McNeill,Beaver AM,In,Varsity LD
+14,Beckman HS,CA/US,Bryan Choi,Beckman BC,In,Varsity LD
+15,Beckman HS,CA/US,Cookie Kim,Beckman CK,In,Varsity LD
+16,Beckman HS,CA/US,Vincent Smith,Beckman VS,In,Varsity LD
+17,Bellarmine College Preparatory,CA/US,Eric Gottlieb,Bellarmine  EG,In,Varsity LD
+18,Bellarmine College Preparatory,CA/US,Keshav Singh,Bellarmine  KS,In,Varsity LD
+19,Bishop's,CA/US,Advay Chandra,Bishop's Independent AC,In,Varsity LD
+20,Brentwood School,CA/US,Dylan Liu,Brentwood DL,In,Varsity LD
+21,Brentwood School,CA/US,Harper Green,Brentwood HG,In,Varsity LD
+22,Brentwood School,CA/US,Hannah Taheri,Brentwood HT,In,Varsity LD
+23,Brentwood School,CA/US,John Chung,Brentwood JC,In,Varsity LD
+24,Brentwood School,CA/US,Jessica Korobkin,Brentwood JK,In,Varsity LD
+25,Brentwood School,CA/US,Linus Epstein,Brentwood LE,In,Varsity LD
+26,Brentwood School,CA/US,Mika McCaffrey,Brentwood MM,In,Varsity LD
+27,Brentwood School,CA/US,Rahul Yates,Brentwood RY,In,Varsity LD
+28,Brentwood School,CA/US,Samantha Ho,Brentwood SH,In,Varsity LD
+29,Brentwood School,CA/US,Sophie Rubin,Brentwood SR,In,Varsity LD
+30,Brophy College Prep,AZ/US,Bennett Fees,Brophy  BF,In,Varsity LD
+31,Brophy College Prep,AZ/US,Calvin Tyler,Brophy  CT,In,Varsity LD
+32,Brophy College Prep,AZ/US,Saif Agha,Brophy  SA,In,Varsity LD
+33,Buhach Colony HS,CA/,Michael Goodwyn,Buhach Colony MG,In,Varsity LD
+34,Carter HS,CA/,Katelyn Miller,Carter KM,In,Varsity LD
+35,Chaminade College Prep,CA/US,Dylan Vergara,Chaminade  DV,In,Varsity LD
+36,Cherry Creek HS,CO/US,Sonya Zakarian,Cherry Creek SZ,In,Varsity LD
+37,Clovis North High School,CA/US,Cole Hesterberg,Clovis North CH,In,Varsity LD
+38,Coeur D'Alene HS,ID/US,Caelan Brewer,Coeur D'Alene CB,In,Varsity LD
+39,Crescenta Valley HS,CA/US,Asher Towner,Crescenta Valley AT,In,Varsity LD
+40,Cristo Rey High School,CA/US,Mateo Diaz,Cristo Rey MD,In,Varsity LD
+41,Cypress Bay HS,FL/US,Garrett Bishop,Cypress Bay GB,In,Varsity LD
+42,Cypress Bay HS,FL/US,Haziq Latif-Jangda,Cypress Bay HL,In,Varsity LD
+43,Cypress Bay HS,FL/US,Isabella Mason,Cypress Bay IM,In,Varsity LD
+44,Cypress Bay HS,FL/US,Nicole Buckley,Cypress Bay NB,In,Varsity LD
+45,Cypress Bay HS,FL/US,Octavio Brugo,Cypress Bay OBr,In,Varsity LD
+46,Cypress Bay HS,FL/US,Pranav Sattaraju,Cypress Bay PS,In,Varsity LD
+47,Damien HS,CA/US,Nolan De Jesus,Damien ND,In,Varsity LD
+48,Davis Senior HS,CA/US,Charissa Ziegler,Davis Senior CZ,In,Varsity LD
+49,Denver East HS,CO/US,Talia Hart,Denver East TH,In,Varsity LD
+50,Dougherty Valley High School,CA/US,Arjun Garg,Dougherty Valley AG,In,Varsity LD
+51,Dougherty Valley High School,CA/US,Arya Goel,Dougherty Valley AGo,In,Varsity LD
+52,Dougherty Valley High School,CA/US,Aditya Madaraju,Dougherty Valley AM,In,Varsity LD
+53,Dougherty Valley High School,CA/US,Anish Maram,Dougherty Valley AMa,In,Varsity LD
+54,Dougherty Valley High School,CA/US,Aayush Patel,Dougherty Valley AP,In,Varsity LD
+55,Dougherty Valley High School,CA/US,Anurag Rao,Dougherty Valley AR,In,Varsity LD
+56,Dougherty Valley High School,CA/US,Kabir Dubey,Dougherty Valley KD,In,Varsity LD
+57,Dougherty Valley High School,CA/US,Krish Kapoor,Dougherty Valley KK,In,Varsity LD
+58,Dougherty Valley High School,CA/US,Neda Bahrani,Dougherty Valley NB,In,Varsity LD
+59,Dougherty Valley High School,CA/US,Pranav Chandra,Dougherty Valley PC,In,Varsity LD
+60,Dougherty Valley High School,CA/US,Savit Bhat,Dougherty Valley SB,In,Varsity LD
+61,Dougherty Valley High School,CA/US,Saketh Kotapati,Dougherty Valley SK,In,Varsity LD
+62,Dougherty Valley High School,CA/US,Sandhya Nayar,Dougherty Valley SN,In,Varsity LD
+63,Dougherty Valley High School,CA/US,Shray Patel,Dougherty Valley SP,In,Varsity LD
+64,Dougherty Valley High School,CA/US,Sohum Tiwary,Dougherty Valley ST,In,Varsity LD
+65,Fairview HS,CO/US,Deven Lemercier,Fairview DL,In,Varsity LD
+66,Fairview HS,CO/US,Emily Hao,Fairview EH,In,Varsity LD
+67,Fairview HS,CO/US,Hannah Wang,Fairview HW,In,Varsity LD
+68,Fairview HS,CO/US,Jenny Zhang,Fairview JZ,In,Varsity LD
+69,Ferris High School,WA/US,Milo Lawson-Pearson,Ferris ML,In,Varsity LD
+70,Ferris High School,WA/US,Tricia Reum,Ferris TR,In,Varsity LD
+71,Flintridge Preparatory,CA/,Aaron Lee,Flintridge Prep AL,In,Varsity LD
+72,Foothill High School,CA/US,Brian Fu,Foothill BF,In,Varsity LD
+73,Foothill High School,CA/US,Rick Wang,Foothill RW,In,Varsity LD
+74,Fort Collins HS,CO/,Aidan Lane,Fort Collins AL,In,Varsity LD
+75,Fort Collins HS,CO/,Michael Rico,Fort Collins MR,In,Varsity LD
+76,Fort Collins HS,CO/,Zayne Garcia,Fort Collins ZG,In,Varsity LD
+77,Grand County High School,UT/US,Ty Martinez,Grand County TM,In,Varsity LD
+78,Harvard-Westlake School,CA/US,Andrew Gong,Harvard-Westlake AG,In,Varsity LD
+79,Harvard-Westlake School,CA/US,Allie Landecker,Harvard-Westlake AL,In,Varsity LD
+80,Harvard-Westlake School,CA/US,Alexandra Mork,Harvard-Westlake AM,In,Varsity LD
+81,Harvard-Westlake School,CA/US,Andrew Wesel,Harvard-Westlake AW,In,Varsity LD
+82,Harvard-Westlake School,CA/US,Brian Chen,Harvard-Westlake BC,In,Varsity LD
+83,Harvard-Westlake School,CA/US,Claire Conner,Harvard-Westlake CC,In,Varsity LD
+84,Harvard-Westlake School,CA/US,Gus Mingst,Harvard-Westlake GM,In,Varsity LD
+85,Harvard-Westlake School,CA/US,George Zhang,Harvard-Westlake GZ,In,Varsity LD
+86,Harvard-Westlake School,CA/US,Hannah Messaye,Harvard-Westlake HM,In,Varsity LD
+87,Harvard-Westlake School,CA/US,Iris Chen,Harvard-Westlake IC,In,Varsity LD
+88,Harvard-Westlake School,CA/US,Idalis McZeal,Harvard-Westlake IM,In,Varsity LD
+89,Harvard-Westlake School,CA/US,Jessa Glassman,Harvard-Westlake JG,In,Varsity LD
+90,Harvard-Westlake School,CA/US,Jade Harris,Harvard-Westlake JH,In,Varsity LD
+91,Harvard-Westlake School,CA/US,Joanna Im,Harvard-Westlake JI,In,Varsity LD
+92,Harvard-Westlake School,CA/US,Julia Im,Harvard-Westlake JIm,In,Varsity LD
+93,Harvard-Westlake School,CA/US,Joie Zhang,Harvard-Westlake JZ,In,Varsity LD
+94,Harvard-Westlake School,CA/US,Lila Daoudi,Harvard-Westlake LD,In,Varsity LD
+95,Harvard-Westlake School,CA/US,Matthew Paul,Harvard-Westlake MP,In,Varsity LD
+96,Harvard-Westlake School,CA/US,Nathan Russell,Harvard-Westlake NR,In,Varsity LD
+97,Harvard-Westlake School,CA/US,Olivia Feldman,Harvard-Westlake OF,In,Varsity LD
+98,Harvard-Westlake School,CA/US,Spencer Klink,Harvard-Westlake SK,In,Varsity LD
+99,Harvard-Westlake School,CA/US,Simon Lee,Harvard-Westlake SL,In,Varsity LD
+100,Harvard-Westlake School,CA/US,Samantha McLoughlin,Harvard-Westlake SM,In,Varsity LD
+101,Harvard-Westlake School,CA/US,Simon Wacziarg,Harvard-Westlake SW,In,Varsity LD
+102,Immaculate Heart High School,CA/US,Beatrice Culligan,Immaculate Heart BC,In,Varsity LD
+103,Immaculate Heart High School,CA/US,Felicity Park,Immaculate Heart FP,In,Varsity LD
+104,Immaculate Heart High School,CA/US,Jane Lichtman,Immaculate Heart JL,In,Varsity LD
+105,Immaculate Heart High School,CA/US,Lucia Botham,Immaculate Heart LB,In,Varsity LD
+106,Immaculate Heart High School,CA/US,Meredith Maxwell,Immaculate Heart MM,In,Varsity LD
+107,Immaculate Heart High School,CA/US,Riley Rees,Immaculate Heart RR,In,Varsity LD
+108,Immaculate Heart High School,CA/US,Shelby O'Connell,Immaculate Heart SO,In,Varsity LD
+109,Immaculate Heart High School,CA/US,Zofia Barr,Immaculate Heart ZB,In,Varsity LD
+110,Isidore Newman School,LA/US,David Adler,Isidore Newman DA,In,Varsity LD
+111,Isidore Newman School,LA/US,Jackson Haber,Isidore Newman JH,In,Varsity LD
+112,La Costa Canyon HS,CA/US,Emily Neill,La Costa Canyon EN,In,Varsity LD
+113,La Costa Canyon HS,CA/US,Karrie Kirschenmann,La Costa Canyon KK,In,Varsity LD
+114,Langham Creek,TX/US,Isabella Mandell,Langham Creek IM,In,Varsity LD
+115,Lincoln,OR/,Alex Wei,Lincoln AW,In,Varsity LD
+116,Lincoln,OR/,William Guo,Lincoln WG,In,Varsity LD
+117,Los Altos High School,CA/US,Parth Dhanotra,Los Altos PD,In,Varsity LD
+118,Loyola High School,CA/US,Andrew Pribe,Loyola AP,In,Varsity LD
+119,Loyola High School,CA/US,Benjamin Cortez,Loyola BC,In,Varsity LD
+120,Loyola High School,CA/US,Braden Masih,Loyola BM,In,Varsity LD
+121,Loyola High School,CA/US,Daniel Beck,Loyola DB,In,Varsity LD
+122,Loyola High School,CA/US,John Choi,Loyola JC,In,Varsity LD
+123,Loyola High School,CA/US,Lucas Hunter,Loyola LH,In,Varsity LD
+124,Loyola High School,CA/US,Nicholas Tan,Loyola NT,In,Varsity LD
+125,Loyola High School,CA/US,Sameer Nayyar,Loyola SN,In,Varsity LD
+126,Lynbrook HS,CA/US,Arnav Dixit,Lynbrook AD,In,Varsity LD
+127,Lynbrook HS,CA/US,Allison Hsu,Lynbrook AH,In,Varsity LD
+128,Lynbrook HS,CA/US,Audrey Iwashita,Lynbrook AI,In,Varsity LD
+129,Lynbrook HS,CA/US,Arnav Jain,Lynbrook AJ,In,Varsity LD
+130,Lynbrook HS,CA/US,Ayush Mishra,Lynbrook AM,In,Varsity LD
+131,Lynbrook HS,CA/US,Krishna Ajjarapu,Lynbrook KA,In,Varsity LD
+132,Lynbrook HS,CA/US,Keshav Dandu,Lynbrook KD,In,Varsity LD
+133,Lynbrook HS,CA/US,Reina Pradhan,Lynbrook RP,In,Varsity LD
+134,Lynbrook HS,CA/US,Soohyuk Yoon,Lynbrook SY,In,Varsity LD
+135,Lynbrook HS,CA/US,Yash Mishra,Lynbrook YM,In,Varsity LD
+136,Lynbrook HS,CA/US,Zach Uriarte,Lynbrook ZU,In,Varsity LD
+137,Marlborough School,CA/US,Anya Karumanchi,Marlborough AK,In,Varsity LD
+138,Marlborough School,CA/US,Alexis Weiss,Marlborough AW,In,Varsity LD
+139,Marlborough School,CA/US,Cameron Lange,Marlborough CL,In,Varsity LD
+140,Marlborough School,CA/US,Ela Desai,Marlborough ED,In,Varsity LD
+141,Marlborough School,CA/US,Emma Yanai,Marlborough EY,In,Varsity LD
+142,Marlborough School,CA/US,Julianne Hannon,Marlborough JH,In,Varsity LD
+143,Marlborough School,CA/US,Julia Steinberg,Marlborough JS,In,Varsity LD
+144,Marlborough School,CA/US,Macy Lerner,Marlborough ML,In,Varsity LD
+145,Marlborough School,CA/US,Wyeth Renwick,Marlborough WR,In,Varsity LD
+146,Menlo-Atherton High School,CA/US,Sheryl Chen,Menlo-Atherton SC,In,Varsity LD
+147,Menlo-Atherton High School,CA/US,Sathvik Nori,Menlo-Atherton SN,In,Varsity LD
+148,Milpitas HS,CA/US,Aisha Khan,Milpitas AK,In,Varsity LD
+149,Milpitas HS,CA/US,Disha Yadav,Milpitas DY,In,Varsity LD
+150,Milpitas HS,CA/US,Rajvee Patel,Milpitas RP,In,Varsity LD
+151,Mira Loma High School,CA/,Advait Thaploo,Mira Loma AT,In,Varsity LD
+152,ModernBrain,CA/US,Grace Ma,ModernBrain GM,In,Varsity LD
+153,ModernBrain,CA/US,Mike Li,ModernBrain ML,In,Varsity LD
+154,Mountain House HS,CA/US,Elizabeth Su,Mountain House ES,In,Varsity LD
+155,Mountain House HS,CA/US,Immanuel Victor,Mountain House IV,In,Varsity LD
+156,Mountain House HS,CA/US,Subhan Baig,Mountain House SB,In,Varsity LD
+157,NSU University School,FL/US,Sebastian Frazier,NSU SF,In,Varsity LD
+158,Newark Science,NJ/US,Christal St. Clair,Newark Science CS,In,Varsity LD
+159,Newark Science,NJ/US,Simone Braithwaite,Newark Science SB,In,Varsity LD
+160,Newark Science,NJ/US,Temitope Ogundare,Newark Science TO,In,Varsity LD
+161,Newark Science,NJ/US,Victoria Ajayi,Newark Science VA,In,Varsity LD
+162,North Star Academy HS,NJ/US,Iyana Trotman,North Star IT,In,Varsity LD
+163,Northland Christian School,TX/,Aaron Barcio,Northland Christian AB,In,Varsity LD
+164,Northland Christian School,TX/,Austin Broussard,Northland Christian ABr,In,Varsity LD
+165,Northland Christian School,TX/,Eathan Newman,Northland Christian EN,In,Varsity LD
+166,Northland Christian School,TX/,Jack Quisenberry,Northland Christian JQ,In,Varsity LD
+167,Northland Christian School,TX/,Lilly Broussard,Northland Christian LB,In,Varsity LD
+168,Northwood High School,CA/US,Hari Sreeramagiri,Northwood HS,In,Varsity LD
+169,Northwood High School,CA/US,Nihar Abhyankar,Northwood NA,In,Varsity LD
+170,Nova 42 Academy,CA/US,Adam Mimou,Nova 42 AM,In,Varsity LD
+171,Nova 42 Academy,CA/US,Alvis Yang,Nova 42 AY,In,Varsity LD
+172,Nova 42 Academy,CA/US,Nathan Chu,Nova 42 NC,In,Varsity LD
+173,Oak Hall,FL/US,Kumail Zaidi,Oak Hall KZ,In,Varsity LD
+174,Oakwood,CA/US,Abhas Rajhans,Oakwood AR,In,Varsity LD
+175,Oakwood,CA/US,Blake Mercurio,Oakwood BM,In,Varsity LD
+176,Oakwood School - North Hollywood,CA/US,Monie Choi,Oakwood School - North Hollywood MC,In,Varsity LD
+177,Oakwood School - North Hollywood,CA/US,Wyatt Alpert,Oakwood School - North Hollywood WA,In,Varsity LD
+178,Orange Lutheran,CA/US,Aaron Zhang,Orange Lutheran AZ,In,Varsity LD
+179,Palo Alto High School Independent,CA/US,Ethan Hwang,Palo Alto HS Independent EH,In,Varsity LD
+180,Peninsula High School,CA/US,Anish Ramireddy,Peninsula AR,In,Varsity LD
+181,Peninsula High School,CA/US,Christopher Chiu,Peninsula CC,In,Varsity LD
+182,Peninsula High School,CA/US,Henry Chung,Peninsula HC,In,Varsity LD
+183,Peninsula High School,CA/US,Isabella D'Ambrosi,Peninsula ID,In,Varsity LD
+184,Peninsula High School,CA/US,Jacob Namgung,Peninsula JN,In,Varsity LD
+185,Peninsula High School,CA/US,Owen Launius,Peninsula OL,In,Varsity LD
+186,Peninsula High School,CA/US,Rhys Moon,Peninsula RM,In,Varsity LD
+187,Peninsula High School,CA/US,Valentin Bueno,Peninsula VB,In,Varsity LD
+188,Plano East,TX/US,Nevin Gera,Plano East NG,In,Varsity LD
+189,Plano East,TX/US,William Zhang,Plano East WZ,In,Varsity LD
+190,Presentation HS,CA/US,Anusha Ghosh,Presentation AG,In,Varsity LD
+191,Presentation HS,CA/US,Harshini Manian,Presentation HM,In,Varsity LD
+192,Presentation HS,CA/US,Isha Chadalavada,Presentation IC,In,Varsity LD
+193,Presentation HS,CA/US,Monica Schneck,Presentation MS,In,Varsity LD
+194,Presentation HS,CA/US,Niha Bozza,Presentation NB,In,Varsity LD
+195,Presentation HS,CA/US,Reva Dalmia,Presentation RD,In,Varsity LD
+196,Raisbeck Aviation High School,WA/US,Davie Anne Ross,Raisbeck Aviation DR,In,Varsity LD
+197,Sage,CA/US,Max Perin,Sage MP,In,Varsity LD
+198,Saint Francis HS,CA/US,Ananya Bhavsar,St Francis AB,In,Varsity LD
+199,Saint Francis HS,CA/US,Annalisa Federighi,St Francis AF,In,Varsity LD
+200,Saint Francis HS,CA/US,Anika Jain,St Francis AJ,In,Varsity LD
+201,Saint Francis HS,CA/US,Angela Xiao,St Francis AX,In,Varsity LD
+202,Saint Francis HS,CA/US,Katia Nagarajan,St Francis KN,In,Varsity LD
+203,Saint Francis HS,CA/US,Louis Chavey,St Francis LC,In,Varsity LD
+204,Saint Francis HS,CA/US,Michael Grose,St Francis MG,In,Varsity LD
+205,Saint Francis HS,CA/US,Matthew Rich,St Francis MR,In,Varsity LD
+206,Saint Francis HS,CA/US,Sahana Chandramohan,St Francis SCh,In,Varsity LD
+207,Saint Francis HS,CA/US,Shona Sajan,St Francis SS,In,Varsity LD
+208,Saint Francis HS,CA/US,Thomas Grose,St Francis TG,In,Varsity LD
+209,Saint Francis HS,CA/US,Vedikas Sridharan,St Francis VS,In,Varsity LD
+210,Sanger HS,CA/US,Megan Pacudan,Sanger MP,In,Varsity LD
+211,Santa Monica High School,CA/US,Rex Evans,Santa Monica RE,In,Varsity LD
+212,Saratoga HS,CA/US,Arnav Garg,Saratoga AG,In,Varsity LD
+213,Saratoga HS,CA/US,Howard Huang,Saratoga HH,In,Varsity LD
+214,Saratoga HS,CA/US,Isha Kandlikar,Saratoga IK,In,Varsity LD
+215,Saratoga HS,CA/US,Ujjwal Krishnamurthi,Saratoga UK,In,Varsity LD
+216,Segerstrom High School,CA/US,Avery Ngo,Segerstrom AN,In,Varsity LD
+217,Sequoia High School,CA/US,Alyssa Sawyer,Sequoia AS,In,Varsity LD
+218,Silver Creek HS,CA/US,Katelyn Zhou,Silver Creek KZ,In,Varsity LD
+219,Silver Creek HS,CA/US,Ryan Nguyen,Silver Creek RN,In,Varsity LD
+220,Silver Creek HS,CA/US,Vicky Vo,Silver Creek VV,In,Varsity LD
+221,Southlake Carroll,TX/US,Pranav Kaginele,Southlake Carroll PK,In,Varsity LD
+222,Southlake Carroll,TX/US,Tarun Ratnasabapathy,Southlake Carroll TR,In,Varsity LD
+223,The Archer School for Girls,CA/US,Jessica Tuchin,Archer School for Girls JT,In,Varsity LD
+224,The Golden State Academy,CA/US,Allison Wang,Golden State AW,In,Varsity LD
+225,The Golden State Academy,CA/US,Ethan Chang,Golden State EC,In,Varsity LD
+226,The Golden State Academy,CA/US,Keith Maben,Golden State KM,In,Varsity LD
+227,The Golden State Academy,CA/US,Sanjith Shanmugavel,Golden State SS,In,Varsity LD
+228,The Harker School,CA/US,Akhilesh Chegu,Harker AC,In,Varsity LD
+229,The Harker School,CA/US,Arnav Dani,Harker AD,In,Varsity LD
+230,The Harker School,CA/US,Angela Gao,Harker AG,In,Varsity LD
+231,The Harker School,CA/US,Arjun Krishna,Harker AK,In,Varsity LD
+232,The Harker School,CA/US,Alexander Lan,Harker AL,In,Varsity LD
+233,The Harker School,CA/US,Andy Lee,Harker ALe,In,Varsity LD
+234,The Harker School,CA/US,Akshay Manglik,Harker AM,In,Varsity LD
+235,The Harker School,CA/US,Anshul Reddy,Harker AR,In,Varsity LD
+236,The Harker School,CA/US,Ansh Sheth,Harker AS,In,Varsity LD
+237,The Harker School,CA/US,Deven Shah,Harker DS,In,Varsity LD
+238,The Harker School,CA/US,Deeya Viradia,Harker DV,In,Varsity LD
+239,The Harker School,CA/US,Kabir Buch,Harker KB,In,Varsity LD
+240,The Harker School,CA/US,Krishna Mysoor,Harker KM,In,Varsity LD
+241,The Harker School,CA/US,Krish Maniar,Harker KMa,In,Varsity LD
+242,The Harker School,CA/US,Madison Huynh,Harker MH,In,Varsity LD
+243,The Harker School,CA/US,Muzzi Khan,Harker MK,In,Varsity LD
+244,The Harker School,CA/US,Neo Alpha,Harker NA,In,Varsity LD
+245,The Harker School,CA/US,Nika Lebedev,Harker NL,In,Varsity LD
+246,The Harker School,CA/US,Panav Gogte,Harker PG,In,Varsity LD
+247,The Harker School,CA/US,Rahul Mulpuri,Harker RM,In,Varsity LD
+248,The Harker School,CA/US,Rohan Thakur,Harker RT,In,Varsity LD
+249,The Harker School,CA/US,Sathvik Chundru,Harker SC,In,Varsity LD
+250,The Harker School,CA/US,Sachin Shah,Harker SS,In,Varsity LD
+251,The Kinkaid School,TX/US,Karm Ghei,Kinkaid KG,In,Varsity LD
+252,The Kinkaid School,TX/US,Shreya Mehta,Kinkaid SM,In,Varsity LD
+253,The Quarry Lane School,CA/US,Mackenzie Davis,Quarry Lane MD,In,Varsity LD
+254,The Quarry Lane School,CA/US,Meera Sehgal,Quarry Lane MS,In,Varsity LD
+255,The Quarry Lane School,CA/US,Zachary Davis,Quarry Lane ZD,In,Varsity LD
+256,Torrey Pines High School,CA/US,Amy Ge,Torrey Pines AG,In,Varsity LD
+257,Torrey Pines High School,CA/US,Jungwoo Seo,Torrey Pines JS,In,Varsity LD
+258,Torrey Pines High School,CA/US,Logan Levy,Torrey Pines LL,In,Varsity LD
+259,Torrey Pines High School,CA/US,Nanditha Krishnan,Torrey Pines NK,In,Varsity LD
+260,Valley International Prep,CA/US,Ayden Craymer,Valley International Prep AC,In,Varsity LD
+261,Valley International Prep,CA/US,Matthew Adelstein,Valley International Prep MA,In,Varsity LD
+262,Westlake High School,CA/US,Ethan Elasky,Westlake EE,In,Varsity LD
+263,Yerba Buena High School,CA/US,Jude Gadingan,Yerba Buena JG,In,Varsity LD
+0,Alliance Stern Math and Science Sch,CA/US,Gutierrez & Lei,Alliance Stern Math and Science GL,In,Varsity Policy
+1,Anderson High School,TX/US,Gossett & Stein,Anderson GS,In,Varsity Policy
+2,Anderson High School,TX/US,Kiehn & Lynch,Anderson KL,In,Varsity Policy
+3,Archbishop Mitty High School,CA/US,Ambati & Athreya,Archbishop Mitty AA,In,Varsity Policy
+4,Archbishop Mitty High School,CA/US,Aggarwal & Patwa,Archbishop Mitty AP,In,Varsity Policy
+5,Archbishop Mitty High School,CA/US,Chhatwal & Ngan,Archbishop Mitty CN,In,Varsity Policy
+6,Archbishop Mitty High School,CA/US,Paun & Bharadwaj,Archbishop Mitty PB,In,Varsity Policy
+7,Archbishop Mitty High School,CA/US,Ray & Dua,Archbishop Mitty RD,In,Varsity Policy
+8,BASIS Chandler HS,AZ/US,Kumar & Donepudi,BASIS Chandler KD,In,Varsity Policy
+9,BASIS Chandler HS,AZ/US,Murarka & Waghray,BASIS Chandler MW,In,Varsity Policy
+10,Bellarmine College Preparatory,CA/US,Chardos & Almeida,Bellarmine  CA,In,Varsity Policy
+11,Bellarmine College Preparatory,CA/US,Cappelloni & Donovan,Bellarmine  CD,In,Varsity Policy
+12,Bellarmine College Preparatory,CA/US,Foody & Upadhyayula,Bellarmine  FU,In,Varsity Policy
+13,Bellarmine College Preparatory,CA/US,Hiremath & Midha,Bellarmine  HM,In,Varsity Policy
+14,Bellarmine College Preparatory,CA/US,Iyengar & Gorthi,Bellarmine  IG,In,Varsity Policy
+15,Bellarmine College Preparatory,CA/US,Manens & Dalmia,Bellarmine  MD,In,Varsity Policy
+16,Bellarmine College Preparatory,CA/US,Stennis & Jain,Bellarmine  SJ,In,Varsity Policy
+17,Branham,CA/US,Goldberg & Wooster,Branham GW,In,Varsity Policy
+18,Bravo High School,CA/US,Cazares & Cooke,Bravo CC,In,Varsity Policy
+19,Bravo High School,CA/US,Flores & Ize-Iyamu,Bravo FI,In,Varsity Policy
+20,Bravo High School,CA/US,Vasquez & Pantoja,Bravo VP,In,Varsity Policy
+21,CK McClatchy High School,CA/US,Brunell & Getahun,CK McClatchy BG,In,Varsity Policy
+22,CK McClatchy High School,CA/US,Christensen & White,CK McClatchy CW,In,Varsity Policy
+23,CK McClatchy High School,CA/US,Fleming & Spurlock,CK McClatchy FS,In,Varsity Policy
+24,CK McClatchy High School,CA/US,Tully & Pham,CK McClatchy TP,In,Varsity Policy
+25,Canyon Crest Academy,CA/US,Li & Ryu,Canyon Crest LR,In,Varsity Policy
+26,Canyon Crest Academy,CA/US,Wu & Wang,Canyon Crest WW,In,Varsity Policy
+27,Canyon Crest Academy,CA/US,Young & Cho,Canyon Crest YC,In,Varsity Policy
+28,Canyon Crest Academy,CA/US,Zhai & Nagaram,Canyon Crest ZN,In,Varsity Policy
+29,Casady School,OK/US,Aggarwal & Rajaram,Casady AR,In,Varsity Policy
+30,Casady School,OK/US,Barreto & Henry,Casady BH,In,Varsity Policy
+31,Casady School,OK/US,Wolfe & Naidu,Casady WN,In,Varsity Policy
+32,Chaminade College Prep,CA/US,Ahuja & Hormozdiari,Chaminade  AH,In,Varsity Policy
+33,Chaminade College Prep,CA/US,Barsoumian & Kim,Chaminade  BK,In,Varsity Policy
+34,Cherry Creek HS,CO/US,Dai & Miao,Cherry Creek DM,In,Varsity Policy
+35,Cherry Creek HS,CO/US,Hur & Gorkin,Cherry Creek HG,In,Varsity Policy
+36,College Prep,CA/US,Chan & Suplica,College Prep SC,In,Varsity Policy
+37,College Prep,CA/US,Theiding & Mukherjee,College Prep TM,In,Varsity Policy
+38,Coppell High School,TX/US,Desai & Rajagopal,Coppell DR,In,Varsity Policy
+39,Cristo Rey High School,CA/US,Stattion & Funk,Cristo Rey SF,In,Varsity Policy
+40,Cypress Bay HS,FL/US,Bhansali & Gavsie,Cypress Bay BG,In,Varsity Policy
+41,Cypress Bay HS,FL/US,Levinson & Kotler,Cypress Bay LK,In,Varsity Policy
+42,Cypress Bay HS,FL/US,Reisman & Laurent,Cypress Bay RL,In,Varsity Policy
+43,Damien HS,CA/US,Bato & Tremblay,Damien BT,In,Varsity Policy
+44,Davis Senior HS,CA/US,Lee & Ma,Davis Senior ML,In,Varsity Policy
+45,Downtown College Preparatory,CA/US,Arciniega & McGinnis,Downtown  AM,In,Varsity Policy
+46,Downtown Magnets High School,CA/US,AGBEDE & Jussim,Downtown Magnets AJ,In,Varsity Policy
+47,Downtown Magnets High School,CA/US,CASTELLON & MANGANDI-ESCOBAR,Downtown Magnets CM,In,Varsity Policy
+48,Downtown Magnets High School,CA/US,Marquez & PANGUITO,Downtown Magnets MP,In,Varsity Policy
+49,Elizabeth Learning Center,CA/US,Ortega & Rivera,Elizabeth Learning Center OR,In,Varsity Policy
+50,Elizabeth Learning Center,CA/US,Rosas & Pacheco,Elizabeth Learning Center RP,In,Varsity Policy
+51,Fairview HS,CO/US,Quinlan & Quinlan,Fairview QQ,In,Varsity Policy
+52,Ferris High School,WA/US,Clough & Millar,Ferris CM,In,Varsity Policy
+53,Ferris High School,WA/US,Owen & Sposito,Ferris OS,In,Varsity Policy
+54,Fort Collins HS,CO/,Fang & von Fischer,Fort Collins FV,In,Varsity Policy
+55,Fort Collins HS,CO/,Schipman & Yu,Fort Collins SY,In,Varsity Policy
+56,Garfield High School,WA/US,Kang & Hillman,Garfield KH,In,Varsity Policy
+57,Garfield High School,WA/US,Lawson & Thomas,Garfield LT,In,Varsity Policy
+58,Garfield High School,WA/US,Posey & Wen,Garfield PW,In,Varsity Policy
+59,Gunn Sr HS,CA/US,Alexis & Suzani,Gunn AS,In,Varsity Policy
+60,Harvard-Westlake School,CA/US,Nayar & Weinberg,Harvard-Westlake NW,In,Varsity Policy
+61,Heritage Hall School,OK/US,Hua & Le,Heritage Hall HL,In,Varsity Policy
+62,Heritage Hall School,OK/US,Nguyen & Smith,Heritage Hall NS,In,Varsity Policy
+63,Heritage Hall School,OK/US,Salim & Ring,Heritage Hall SR,In,Varsity Policy
+64,Homestead HS,WI/US,Klemmer & Wypiszynski,Homestead KW,In,Varsity Policy
+65,Homestead HS,WI/US,Li & Pan,Homestead LP,In,Varsity Policy
+66,Homestead HS,WI/US,Medeiros & Wang,Homestead MW,In,Varsity Policy
+67,Interlake HS,WA/US,Cai & Wu,Interlake CW,In,Varsity Policy
+68,Interlake HS,WA/US,Feng & Chen,Interlake FC,In,Varsity Policy
+69,Interlake HS,WA/US,Nemani & Pal,Interlake NP,In,Varsity Policy
+70,Interlake HS,WA/US,Qian & Palanciuc,Interlake QP,In,Varsity Policy
+71,Isidore Newman School,LA/US,Descant & Herman,Isidore Newman DH,In,Varsity Policy
+72,Jesuit College Prep,TX/US,Hall & Nagorzanski,Jesuit  HN,In,Varsity Policy
+73,Langham Creek,TX/US,Ferguson & Indiero,Langham Creek FI,In,Varsity Policy
+74,Leland High School,CA/,Lee & Zhou,Leland LZ,In,Varsity Policy
+75,Leland High School,CA/,Wu & Chen,Leland WC,In,Varsity Policy
+76,Leland High School,CA/,Zhao & Ooi,Leland ZO,In,Varsity Policy
+77,Lewis and Clark High School,WA/US,Ryplewski & Thompson,Lewis and Clark RT,In,Varsity Policy
+78,Lewis and Clark High School,WA/US,Sharman & Crowley,Lewis and Clark SC,In,Varsity Policy
+79,Little Rock Central,AR/US,Ahmed & Rhee,Little Rock Central AR,In,Varsity Policy
+80,Little Rock Central,AR/US,Cheng & Roberts,Little Rock Central CR,In,Varsity Policy
+81,Little Rock Central,AR/US,Doris & Fahoum,Little Rock Central DF,In,Varsity Policy
+82,Little Rock Central,AR/US,Gaddi & Li,Little Rock Central GaLi,In,Varsity Policy
+83,Little Rock Central,AR/US,Garg & Lam,Little Rock Central GL,In,Varsity Policy
+84,Little Rock Central,AR/US,Liu & Kombathula,Little Rock Central LK,In,Varsity Policy
+85,Lowell HS,CA/,Chen & Wu,Lowell CW,In,Varsity Policy
+86,Lowell HS,CA/,Mangonon & Wymer,Lowell MW,In,Varsity Policy
+87,Lowell HS,CA/,Satovsky & Tsan,Lowell ST,In,Varsity Policy
+88,Lowell HS,CA/,Ye & Rosenberg,Lowell YR,In,Varsity Policy
+89,Madison Central HS,MS/,Gines & Flagge,Madison Central GF,In,Varsity Policy
+90,McQueen HS,NV/,Leutzinger & Reese,McQueen LR,In,Varsity Policy
+91,Midland Dow Independent,MI/US,Manjila & Reza Husain,Midland Dow Independent MR,In,Varsity Policy
+92,ModernBrain,CA/US,Raja & Yu,ModernBrain RY,In,Varsity Policy
+93,Montgomery Bell Academy,TN/US,Barton & Meacham,Montgomery Bell BM,In,Varsity Policy
+94,Montgomery Bell Academy,TN/US,Climaco & Maxwell,Montgomery Bell CM,In,Varsity Policy
+95,Mountain House HS,CA/US,Shazar & Kolikineni,Mountain House SK,In,Varsity Policy
+96,Nevada Union High School,CA/US,Noyes & Grandfield,Nevada Union NG,In,Varsity Policy
+97,Nevada Union High School,CA/US,Witt & Drew,Nevada Union WD,In,Varsity Policy
+98,New Design Charter School-Universit,CA/US,Rivas & Magdalena,New Design Charter School-University Park MaRi,In,Varsity Policy
+99,New Design Charter School-Universit,CA/US,Mendez & Reyes,New Design Charter School-University Park MR,In,Varsity Policy
+100,North Broward Preparatory School,FL/US,Deo & Farronay,North Broward Prep DF,In,Varsity Policy
+101,Northwood High School,CA/US,Fang & Fu,Northwood FF,In,Varsity Policy
+102,Northwood High School,CA/US,Gao & Hamid,Northwood GH,In,Varsity Policy
+103,OES,OR/US,Tsai & Williams,OES TW,In,Varsity Policy
+104,Oak Park and River Forest,IL/US,Griffith & Shafiro,Oak Park and River Forest GS,In,Varsity Policy
+105,Oakland Tech,CA/US,Liu & Ma,Oakland Tech LM,In,Varsity Policy
+106,Peninsula High School,CA/US,Chen & Sridevan,Peninsula CS,In,Varsity Policy
+107,Peninsula High School,CA/US,Dee & Sims,Peninsula DS,In,Varsity Policy
+108,Peninsula High School,CA/US,Frankwick & Wang,Peninsula FW,In,Varsity Policy
+109,Peninsula High School,CA/US,Lipps & Lu,Peninsula LL,In,Varsity Policy
+110,Peninsula High School,CA/US,Lee & Omidvar,Peninsula LO,In,Varsity Policy
+111,Peninsula High School,CA/US,Michalak & Sinsioco,Peninsula MS,In,Varsity Policy
+112,Peninsula High School,CA/US,Park & Rhoades,Peninsula PR,In,Varsity Policy
+113,Peninsula High School,CA/US,Parker & Shimada,Peninsula PS,In,Varsity Policy
+114,Peninsula High School,CA/US,Rosca & Yang,Peninsula RY,In,Varsity Policy
+115,Plano East,TX/US,D'Antuono & Penumetcha,Plano East DP,In,Varsity Policy
+116,Polytechnic School,CA/US,Huntsman & Ha,Polytechnic HH,In,Varsity Policy
+117,Polytechnic School,CA/US,Ogbogu & Ogbogu,Polytechnic OO,In,Varsity Policy
+118,Rocky Mountain HS,CO/US,Kaan & Clarke,Rocky Mountain KC,In,Varsity Policy
+119,Rocky Mountain HS,CO/US,Saavedra & Nickel,Rocky Mountain SN,In,Varsity Policy
+120,Rocky Mountain HS,CO/US,Trevino & Walz,Rocky Mountain TW,In,Varsity Policy
+121,Saint Francis HS,CA/US,Borde & Reddy,St Francis BR,In,Varsity Policy
+122,Saint Francis HS,CA/US,Nguyen & Kamat,St Francis NK,In,Varsity Policy
+123,Saint Francis HS,CA/US,Sharma & Vinod,St Francis ShVi,In,Varsity Policy
+124,Saint Francis HS,CA/US,Shen & Verma,St Francis SV,In,Varsity Policy
+125,Silver Creek HS,CA/US,Jain & Randhawa,Silver Creek JR,In,Varsity Policy
+126,Silver Creek HS,CA/US,Syed & Gollapalli,Silver Creek SG,In,Varsity Policy
+127,Silver Creek HS,CA/US,Tran & Verma,Silver Creek TV,In,Varsity Policy
+128,Sonoma Academy,CA/,Brenner & Stewart,Sonoma BS,In,Varsity Policy
+129,Sonoma Academy,CA/,Kornfein & Nabavi,Sonoma KN,In,Varsity Policy
+130,Sonoma Academy,CA/,Jacobs & Price,Sonoma PJ,In,Varsity Policy
+131,Stockdale HS,CA/US,Hernandez & Scully,Stockdale HS,In,Varsity Policy
+132,Stockdale HS,CA/US,Ipe & Puga,Stockdale IP,In,Varsity Policy
+133,Stockdale HS,CA/US,Ruiz & Scully,Stockdale RS,In,Varsity Policy
+134,Taipei American School,,Phil & Wang,Taipei American PW,In,Varsity Policy
+135,The Davidson Academy Of Nevada,NV/,Hamilton & Li,Davidson Academy Of Nevada HL,In,Varsity Policy
+136,The Harker School,CA/US,Jain & Arora,Harker JA,In,Varsity Policy
+137,The Kinkaid School,TX/US,Fowler & Zhang,Kinkaid FZ,In,Varsity Policy
+138,The Kinkaid School,TX/US,Powers & Punjwani,Kinkaid PP,In,Varsity Policy
+139,The Kinkaid School,TX/US,Zhang & Fowler,Kinkaid ZF,In,Varsity Policy
+140,University Independent,CA/US,Armstrong & Pulivarthy,University Independent AP,In,Varsity Policy
+141,University Independent,CA/US,Liang & Lu,University Independent LL,In,Varsity Policy
+142,West Campus,CA/US,Morioka & Sidley,West Campus MS,In,Varsity Policy
+143,Westwood HS,TX/US,Burugu & Shi,Westwood BS,In,Varsity Policy
+144,Winston Churchill HS,TX/US,Anderson & Valdez,Winston Churchill AV,In,Varsity Policy
+145,Winston Churchill HS,TX/US,Brody & Myers,Winston Churchill BM,In,Varsity Policy
+146,Yerba Buena High School,CA/US,Nguyen & Nguyen,Yerba Buena NN,In,Varsity Policy
+0,Alexander Dawson School,CO/US,Amirani & Fassett,Alexander Dawson AF,In,Varsity Public Forum
+1,Alexander Dawson School,CO/US,Sirras & Berdou,Alexander Dawson SB,In,Varsity Public Forum
+2,Anderson High School,TX/US,Builta & Canyon,Anderson BC,In,Varsity Public Forum
+3,Anderson High School,TX/US,Erard & Ben-Avi,Anderson EB,In,Varsity Public Forum
+4,Anderson High School,TX/US,Foster & Karchmer,Anderson FK,In,Varsity Public Forum
+5,Archbishop Mitty High School,CA/US,Asnani & Park,Archbishop Mitty AP,In,Varsity Public Forum
+6,Archbishop Mitty High School,CA/US,Brenner & Ke,Archbishop Mitty BK,In,Varsity Public Forum
+7,Archbishop Mitty High School,CA/US,Kang & Johnson,Archbishop Mitty KJ,In,Varsity Public Forum
+8,Archbishop Mitty High School,CA/US,Ryu & Shanbhag,Archbishop Mitty RS,In,Varsity Public Forum
+9,Archbishop Mitty High School,CA/US,Singh & Bishnoi,Archbishop Mitty SB,In,Varsity Public Forum
+10,Beaver HS,UT/US,Eyre & Pyles,Beaver EP,In,Varsity Public Forum
+11,Braddock HS,FL/US,Duranza & Leon,Braddock DL,In,Varsity Public Forum
+12,Brentwood School,CA/US,Houegban & Santos,Brentwood HS,In,Varsity Public Forum
+13,Brophy College Prep,AZ/US,Karla & Shah,Brophy  KS,In,Varsity Public Forum
+14,Brophy College Prep,AZ/US,Justice & Reed,Brophy  RJ,In,Varsity Public Forum
+15,Brophy College Prep,AZ/US,Schillinger & McHenry,Brophy  SM,In,Varsity Public Forum
+16,Buhach Colony HS,CA/,Beserra & Vang,Buhach Colony BV,In,Varsity Public Forum
+17,Buhach Colony HS,CA/,Hoffart & Muldrow,Buhach Colony HM,In,Varsity Public Forum
+18,CK McClatchy High School,CA/US,Abramsky-Sze & Tidwell,CK McClatchy AT,In,Varsity Public Forum
+19,CK McClatchy High School,CA/US,Gray & Krause,CK McClatchy GK,In,Varsity Public Forum
+20,CK McClatchy High School,CA/US,Hemeseth & Lin,CK McClatchy HL,In,Varsity Public Forum
+21,Castro Valley High School,CA/US,Raniwala & Li,Castro Valley RL,In,Varsity Public Forum
+22,Chaparral,AZ/US,Corbo & Khan,Chaparral CK,In,Varsity Public Forum
+23,Chaparral,AZ/US,Flansbaum & Briggs,Chaparral FB,In,Varsity Public Forum
+24,Cherry Creek HS,CO/US,Ambroggio & Sauer,Cherry Creek AS,In,Varsity Public Forum
+25,Cherry Creek HS,CO/US,Christianson & Russell,Cherry Creek CR,In,Varsity Public Forum
+26,Cherry Creek HS,CO/US,de Bastos & Antal,Cherry Creek DA,In,Varsity Public Forum
+27,Cherry Creek HS,CO/US,Drew & Ray,Cherry Creek DR,In,Varsity Public Forum
+28,Cherry Creek HS,CO/US,Holliday & Kvaratskhelia,Cherry Creek HK,In,Varsity Public Forum
+29,Cherry Creek HS,CO/US,Kurse & Osovskaya,Cherry Creek KO,In,Varsity Public Forum
+30,Cherry Creek HS,CO/US,Kotlapati & Shaikh,Cherry Creek KS,In,Varsity Public Forum
+31,Cherry Creek HS,CO/US,LeFebre & Clark,Cherry Creek LC,In,Varsity Public Forum
+32,Cherry Creek HS,CO/US,Lu & Jones,Cherry Creek LJ,In,Varsity Public Forum
+33,Cherry Creek HS,CO/US,Mathy & Barun,Cherry Creek MB,In,Varsity Public Forum
+34,Cherry Creek HS,CO/US,Marians & Flanigan,Cherry Creek MF,In,Varsity Public Forum
+35,Cherry Creek HS,CO/US,Patt & McIlwaine,Cherry Creek PM,In,Varsity Public Forum
+36,Cherry Creek HS,CO/US,Shrivastava & Tsybulskiy,Cherry Creek ST,In,Varsity Public Forum
+37,Cherry Creek HS,CO/US,Webster & Mallela,Cherry Creek WM,In,Varsity Public Forum
+38,Cherry Creek HS,CO/US,Wright & Ni,Cherry Creek WN,In,Varsity Public Forum
+39,Cherry Creek HS,CO/US,Yeager & Seaberg,Cherry Creek YS,In,Varsity Public Forum
+40,Cherry Creek HS,CO/US,Zamoshchin & Emmert,Cherry Creek ZE,In,Varsity Public Forum
+41,Clovis North High School,CA/US,Lin & Lin,Clovis North LL,In,Varsity Public Forum
+42,Coeur D'Alene HS,ID/US,Le & Thornton,Coeur D'Alene LT,In,Varsity Public Forum
+43,Coeur D'Alene HS,ID/US,Wilson & Probst,Coeur D'Alene WP,In,Varsity Public Forum
+44,College Prep,CA/US,Beamer & Beamer,College Prep BB,In,Varsity Public Forum
+45,College Prep,CA/US,Badjatia & Dileep,College Prep BD,In,Varsity Public Forum
+46,College Prep,CA/US,Berning & Gupta,College Prep BG,In,Varsity Public Forum
+47,College Prep,CA/US,Haugh & Nurko,College Prep HN,In,Varsity Public Forum
+48,College Prep,CA/US,Hekmat & O'Connor,College Prep HO,In,Varsity Public Forum
+49,College Prep,CA/US,Long & Tandon,College Prep LT,In,Varsity Public Forum
+50,College Prep,CA/US,Sakhrani & Wornow,College Prep SW,In,Varsity Public Forum
+51,Colleyville Heritage High School,TX/US,Li & Wei,Colleyville Heritage LW,In,Varsity Public Forum
+52,Colleyville Heritage High School,TX/US,Shadman & Bhat,Colleyville Heritage SB,In,Varsity Public Forum
+53,Coppell High School,TX/US,Bohri & Chiniwala,Coppell BC,In,Varsity Public Forum
+54,Cypress Bay HS,FL/US,Bandre & Pai,Cypress Bay BP,In,Varsity Public Forum
+55,Cypress Bay HS,FL/US,Cohen & Behling,Cypress Bay CB,In,Varsity Public Forum
+56,Cypress Bay HS,FL/US,Morril & Aristizabal,Cypress Bay MA,In,Varsity Public Forum
+57,Cypress Bay HS,FL/US,Norman & Sepulveda,Cypress Bay NS,In,Varsity Public Forum
+58,Cypress Bay HS,FL/US,Qian & Behling,Cypress Bay QB,In,Varsity Public Forum
+59,Cypress Bay HS,FL/US,Sun & Hassan,Cypress Bay SH,In,Varsity Public Forum
+60,Del Norte Independent,CA/US,Balaji & Puliady,Del Norte Independent BP,In,Varsity Public Forum
+61,Denver East HS,CO/US,Sanchez & Koenig,Denver East SK,In,Varsity Public Forum
+62,Dougherty Valley High School,CA/US,Chandra & Cherukupalli,Dougherty Valley CC,In,Varsity Public Forum
+63,Dougherty Valley High School,CA/US,Kotadia & Pamidimukkala,Dougherty Valley KP,In,Varsity Public Forum
+64,Dougherty Valley High School,CA/US,Kuang & Srinivas,Dougherty Valley KS,In,Varsity Public Forum
+65,Dougherty Valley High School,CA/US,Punia & Wang,Dougherty Valley PW,In,Varsity Public Forum
+66,Dougherty Valley High School,CA/US,Sandhu & Dey,Dougherty Valley SD,In,Varsity Public Forum
+67,Dougherty Valley High School,CA/US,Su & Spargo,Dougherty Valley SS,In,Varsity Public Forum
+68,Edina HS,MN/US,Jiang & Wu,Edina JW,In,Varsity Public Forum
+69,El Camino Real Charter High School,CA/,Dave & Lehavi,El Camino Real Charter DL,In,Varsity Public Forum
+70,Fairmont Prep,CA/US,Alamy & Alamy,Fairmont Prep AA,In,Varsity Public Forum
+71,Fairmont Prep,CA/US,Bobrownicki & Cresap,Fairmont Prep BC,In,Varsity Public Forum
+72,Fairmont Prep,CA/US,Bhagavatula & Razzak,Fairmont Prep BR,In,Varsity Public Forum
+73,Fairmont Prep,CA/US,Bui & Yang,Fairmont Prep BY,In,Varsity Public Forum
+74,Fairmont Prep,CA/US,Gumlia & Jansen,Fairmont Prep GJ,In,Varsity Public Forum
+75,Fairmont Prep,CA/US,Idnani & Gupta,Fairmont Prep IG,In,Varsity Public Forum
+76,Fairmont Prep,CA/US,Kim & Ong,Fairmont Prep KO,In,Varsity Public Forum
+77,Fairmont Prep,CA/US,Shivade & Shin,Fairmont Prep ShSh,In,Varsity Public Forum
+78,Fairmont Prep,CA/US,Savdharia & Savdharia,Fairmont Prep SS,In,Varsity Public Forum
+79,Fairview HS,CO/US,He & Chen,Fairview HC,In,Varsity Public Forum
+80,Fairview HS,CO/US,Johnson-Saeger & Nagle,Fairview JN,In,Varsity Public Forum
+81,Fairview HS,CO/US,Shrestha & Payne,Fairview SP,In,Varsity Public Forum
+82,Fairview HS,CO/US,Shapiro & Young,Fairview SY,In,Varsity Public Forum
+83,Fairview HS,CO/US,Wang & Tong,Fairview WT,In,Varsity Public Forum
+84,Flintridge Preparatory,CA/,Choi & Sadda,Flintridge Prep CS,In,Varsity Public Forum
+85,Flintridge Preparatory,CA/,Dadwal & Mequet,Flintridge Prep DM,In,Varsity Public Forum
+86,Flintridge Preparatory,CA/,Hunte & Schuster,Flintridge Prep HS,In,Varsity Public Forum
+87,Flintridge Preparatory,CA/,Ng & Hobey,Flintridge Prep NH,In,Varsity Public Forum
+88,Flintridge Preparatory,CA/,Sullivan & Costin,Flintridge Prep SC,In,Varsity Public Forum
+89,Flintridge Sacred Heart Academy,CA/US,Jiang & Hernandez,Flintridge Sacred Heart JH,In,Varsity Public Forum
+90,Folsom High School,CA/US,Jacob & Sankar,Folsom JS,In,Varsity Public Forum
+91,Folsom High School,CA/US,Kim & Padmanabhuni,Folsom KP,In,Varsity Public Forum
+92,Foothill High School,CA/US,Adhikesaven & Reddy,Foothill AR,In,Varsity Public Forum
+93,Foothill High School,CA/US,Kim & Pang,Foothill KP,In,Varsity Public Forum
+94,Foothill High School,CA/US,Koul & Suresh,Foothill KS,In,Varsity Public Forum
+95,Foothill High School,CA/US,Perry & Yin,Foothill PY,In,Varsity Public Forum
+96,Foothill High School,CA/US,Zhu & Zong,Foothill ZZ,In,Varsity Public Forum
+97,Fort Collins HS,CO/,Bond & Grebener,Fort Collins BG,In,Varsity Public Forum
+98,Fort Collins HS,CO/,O'Hare & Christi,Fort Collins OC,In,Varsity Public Forum
+99,Fort Collins HS,CO/,Terrio & Nguyen,Fort Collins TN,In,Varsity Public Forum
+100,Glacier Peak HS,WA/US,Peterson & Simpson,Glacier Peak PS,In,Varsity Public Forum
+101,Gunn Sr HS,CA/US,Balakrishnan & Kohrman,Gunn Sr BK,In,Varsity Public Forum
+102,Gunn Sr HS,CA/US,Zhang & Balakrishnan,Gunn Sr ZB,In,Varsity Public Forum
+103,La Costa Canyon HS,CA/US,Mitchell & Mondero,La Costa Canyon MM,In,Varsity Public Forum
+104,La Costa Canyon HS,CA/US,Pearah & Sandoval,La Costa Canyon PS,In,Varsity Public Forum
+105,La Salle HS,CA/US,Cahill & Hunt,La Salle CH,In,Varsity Public Forum
+106,La Salle HS,CA/US,Hansen & Lossada,La Salle HL,In,Varsity Public Forum
+107,Leland High School,CA/,Brew & Yeung,Leland BY,In,Varsity Public Forum
+108,Leland High School,CA/,Fang & Shao,Leland FS,In,Varsity Public Forum
+109,Leland High School,CA/,Krishnan & Lee,Leland KL,In,Varsity Public Forum
+110,Leland High School,CA/,Kulkarni & Xie,Leland KX,In,Varsity Public Forum
+111,Leland High School,CA/,Rafizadeh & Yin,Leland RY,In,Varsity Public Forum
+112,Leland High School,CA/,Worledge & Tandon,Leland WT,In,Varsity Public Forum
+113,Los Altos High School,CA/US,Chang & Howard,Los Altos CH,In,Varsity Public Forum
+114,Los Altos High School,CA/US,Chan & Kwan,Los Altos CK,In,Varsity Public Forum
+115,Los Altos High School,CA/US,Falkenburg & Chudasama,Los Altos FC,In,Varsity Public Forum
+116,Los Altos High School,CA/US,Jin & Palasamudrum,Los Altos JP,In,Varsity Public Forum
+117,Los Altos High School,CA/US,Shah & Butaney,Los Altos SB,In,Varsity Public Forum
+118,Los Altos High School,CA/US,Sirkay & Sandjideh,Los Altos SS,In,Varsity Public Forum
+119,Los Altos High School,CA/US,Tran & Lin,Los Altos TL,In,Varsity Public Forum
+120,Lynbrook HS,CA/US,Chilukuri & Lin,Lynbrook CL,In,Varsity Public Forum
+121,Lynbrook HS,CA/US,Gupta & Yuan,Lynbrook GY,In,Varsity Public Forum
+122,Lynbrook HS,CA/US,Karthikeyan & Zhao,Lynbrook KZ,In,Varsity Public Forum
+123,Lynbrook HS,CA/US,Mamileti & Cai,Lynbrook MC,In,Varsity Public Forum
+124,Lynbrook HS,CA/US,Maharana & Fernandes,Lynbrook MF,In,Varsity Public Forum
+125,Lynbrook HS,CA/US,Muvvala & Xu,Lynbrook MX,In,Varsity Public Forum
+126,Lynbrook HS,CA/US,Nambiar & Musthafa,Lynbrook NM,In,Varsity Public Forum
+127,Lynbrook HS,CA/US,Pandey & Mulay,Lynbrook PM,In,Varsity Public Forum
+128,Lynbrook HS,CA/US,Rangan & Goel,Lynbrook RG,In,Varsity Public Forum
+129,Lynbrook HS,CA/US,Singhal & Chen,Lynbrook SC,In,Varsity Public Forum
+130,Lynbrook HS,CA/US,Saboo & Kataria,Lynbrook SK,In,Varsity Public Forum
+131,Lynbrook HS,CA/US,Thombre & Jain,Lynbrook TJ,In,Varsity Public Forum
+132,Lynbrook HS,CA/US,Wang & Murthy,Lynbrook WM,In,Varsity Public Forum
+133,Milpitas HS,CA/US,Nguyen & Mahajan,Milpitas NM,In,Varsity Public Forum
+134,Milpitas HS,CA/US,Pirta & Bi,Milpitas PB,In,Varsity Public Forum
+135,Mira Loma High School,CA/,Atthar & Khanna,Mira Loma AK,In,Varsity Public Forum
+136,Mira Loma High School,CA/,Choi & Choi,Mira Loma CC,In,Varsity Public Forum
+137,Mira Loma High School,CA/,Gupta & Srikumar,Mira Loma GS,In,Varsity Public Forum
+138,Mira Loma High School,CA/,Jones & Carrillo,Mira Loma JC,In,Varsity Public Forum
+139,Mira Loma High School,CA/,Kodavatikanti & Yuan,Mira Loma KY,In,Varsity Public Forum
+140,Mira Loma High School,CA/,Seshadri & Gunendran,Mira Loma SG,In,Varsity Public Forum
+141,Mira Loma High School,CA/,Srikumar & Shan,Mira Loma SS,In,Varsity Public Forum
+142,Miramonte High School,CA/US,Andrews & Cardozo,Miramonte AC,In,Varsity Public Forum
+143,Miramonte High School,CA/US,Blazona & Khan,Miramonte BK,In,Varsity Public Forum
+144,Miramonte High School,CA/US,Carlson & Broderick,Miramonte CB,In,Varsity Public Forum
+145,Miramonte High School,CA/US,Chan & Chui,Miramonte CC,In,Varsity Public Forum
+146,Miramonte High School,CA/US,Reynolds & Cheng,Miramonte CR,In,Varsity Public Forum
+147,Miramonte High School,CA/US,Cardozo & San Gabriel,Miramonte CS,In,Varsity Public Forum
+148,Miramonte High School,CA/US,Dandamudi & Balonick,Miramonte DB,In,Varsity Public Forum
+149,Miramonte High School,CA/US,Filonov & Yuan,Miramonte FY,In,Varsity Public Forum
+150,Miramonte High School,CA/US,Martono & Giovinazzo,Miramonte GM,In,Varsity Public Forum
+151,Miramonte High School,CA/US,Morganstein & Barmmer,Miramonte MB,In,Varsity Public Forum
+152,Miramonte High School,CA/US,Wallach & Inouye,Miramonte WI,In,Varsity Public Forum
+153,Mission San Jose HS,CA/US,Bati & Poreddy,Mission San Jose BP,In,Varsity Public Forum
+154,Mission San Jose HS,CA/US,Banerjee & Zeng,Mission San Jose BZ,In,Varsity Public Forum
+155,Mission San Jose HS,CA/US,Cai & Mao,Mission San Jose CM,In,Varsity Public Forum
+156,Mission San Jose HS,CA/US,Dalmia & Dalmia,Mission San Jose DD,In,Varsity Public Forum
+157,Mission San Jose HS,CA/US,Koppurapu & Zhang,Mission San Jose KZ,In,Varsity Public Forum
+158,Mission San Jose HS,CA/US,Tang & Saravanan,Mission San Jose TS,In,Varsity Public Forum
+159,Mission San Jose HS,CA/US,Vasishta & Ravikumar,Mission San Jose VR,In,Varsity Public Forum
+160,Mission San Jose HS,CA/US,Vellani & Sreeram,Mission San Jose VS,In,Varsity Public Forum
+161,Mission San Jose HS,CA/US,Yuen & Arora,Mission San Jose YA,In,Varsity Public Forum
+162,Mission San Jose HS,CA/US,Zhu & Kao,Mission San Jose ZK,In,Varsity Public Forum
+163,Mission San Jose HS,CA/US,Zhang & Zhang,Mission San Jose ZZ,In,Varsity Public Forum
+164,Monte Vista,CA/US,Bhasin & Shabbir,Monte Vista BS,In,Varsity Public Forum
+165,Monte Vista,CA/US,Kumar & Sheyman,Monte Vista KS,In,Varsity Public Forum
+166,Monte Vista,CA/US,Shabbir & Zhang,Monte Vista SZ,In,Varsity Public Forum
+167,Mountain House HS,CA/US,Karthikeyan & Madaan,Mountain House KM,In,Varsity Public Forum
+168,Mountain House HS,CA/US,Kamaraj & Yeddanapudi,Mountain House KY,In,Varsity Public Forum
+169,Mountain House HS,CA/US,Nagaram & Mushiana,Mountain House MN,In,Varsity Public Forum
+170,Mountain View High School,CA/US,Date & Zhang,Mountain View DZ,In,Varsity Public Forum
+171,Mountain View High School,CA/US,Zhang & Rodriguez,Mountain View ZR,In,Varsity Public Forum
+172,NSU University School,FL/US,Arias & Gutkin,NSU AG,In,Varsity Public Forum
+173,NSU University School,FL/US,Frank & Ronkin,NSU FR,In,Varsity Public Forum
+174,Northwood High School,CA/US,Elhassan & Sachdeva,Northwood ES,In,Varsity Public Forum
+175,Northwood High School,CA/US,Kalra & Hu,Northwood KH,In,Varsity Public Forum
+176,Northwood High School,CA/US,Kumar & Zhang,Northwood KZ,In,Varsity Public Forum
+177,Notre Dame HS,CA/US,Prashanth & Chughtai,Notre Dame PC,In,Varsity Public Forum
+178,Nova 42 Academy,CA/US,Chai & Green,Nova 42 CG,In,Varsity Public Forum
+179,Nova 42 Academy,CA/US,Fisher & Fisher,Nova 42 FF,In,Varsity Public Forum
+180,Nova 42 Academy,CA/US,Kyle & Chen,Nova 42 KC,In,Varsity Public Forum
+181,Nova 42 Academy,CA/US,Talleda & Khashaki,Nova 42 TK,In,Varsity Public Forum
+182,Oakwood School - North Hollywood,CA/US,Balle & Turk,Oakwood School - North Hollywood BT,In,Varsity Public Forum
+183,Oakwood School - North Hollywood,CA/US,Grinberg & Mostow,Oakwood School - North Hollywood GM,In,Varsity Public Forum
+184,Oakwood School - North Hollywood,CA/US,Gardner-Berg & Slovin,Oakwood School - North Hollywood GS,In,Varsity Public Forum
+185,Oakwood School - North Hollywood,CA/US,Kramon & Mostow,Oakwood School - North Hollywood KM,In,Varsity Public Forum
+186,Plano East,TX/US,Kanamangala & Namdhari,Plano East KN,In,Varsity Public Forum
+187,Presentation HS,CA/US,Dorairaj & Singhal,Presentation DS,In,Varsity Public Forum
+188,Presentation HS,CA/US,Jately & Singh,Presentation JS,In,Varsity Public Forum
+189,Presentation HS,CA/US,Ni & Nawathe,Presentation NN,In,Varsity Public Forum
+190,Presentation HS,CA/US,Pabbathi & Panjwani,Presentation PP,In,Varsity Public Forum
+191,Raisbeck Aviation High School,WA/US,Encomienda & Matta,Raisbeck Aviation EM,In,Varsity Public Forum
+192,Raisbeck Aviation High School,WA/US,King & Mungra,Raisbeck Aviation KM,In,Varsity Public Forum
+193,Raisbeck Aviation High School,WA/US,Lipour & Lam,Raisbeck Aviation LL,In,Varsity Public Forum
+194,Raisbeck Aviation High School,WA/US,Singh & Faler,Raisbeck Aviation SF,In,Varsity Public Forum
+195,Rancho Bernardo High School,CA/US,Kadiyala & Mavalankar,Rancho Bernardo KM,In,Varsity Public Forum
+196,Saint Francis HS,CA/US,Brassil & Gupta,St Francis BG,In,Varsity Public Forum
+197,Saint Francis HS,CA/US,Chang & Bastin,St Francis CB,In,Varsity Public Forum
+198,Saint Francis HS,CA/US,Jasper & Tripathy,St Francis JT,In,Varsity Public Forum
+199,Saint Francis HS,CA/US,Khinvasara & Gupta,St Francis KG,In,Varsity Public Forum
+200,Saint Francis HS,CA/US,Mendoza & Bhardwaj,St Francis MB,In,Varsity Public Forum
+201,Saint Francis HS,CA/US,Patel & Nair,St Francis PN,In,Varsity Public Forum
+202,Saint Francis HS,CA/US,Zmrzli & Kamsetty,St Francis ZK,In,Varsity Public Forum
+203,Saratoga HS,CA/US,Patkar & Gupta,Saratoga PG,In,Varsity Public Forum
+204,Saratoga HS,CA/US,Ramesh & Peruvemba,Saratoga RP,In,Varsity Public Forum
+205,Saratoga HS,CA/US,Sankaran & Agarwal,Saratoga SA,In,Varsity Public Forum
+206,Saratoga HS,CA/US,Chen & Sambasivam,Saratoga SC,In,Varsity Public Forum
+207,Saratoga HS,CA/US,Sankaran & Pai,Saratoga SP,In,Varsity Public Forum
+208,Silver Creek HS,CA/US,Raman & Sudharta,Silver Creek RS,In,Varsity Public Forum
+209,Taipei American School,,Engen & Taw,Taipei American ET,In,Varsity Public Forum
+210,Taipei American School,,Yen & Pan,Taipei American PY,In,Varsity Public Forum
+211,Taipei American School,,Shyu & Chen,Taipei American SC,In,Varsity Public Forum
+212,The Golden State Academy,CA/US,Kaur & Morampudi,Golden State KM,In,Varsity Public Forum
+213,The Golden State Academy,CA/US,Walia & Shalizi,Golden State WS,In,Varsity Public Forum
+214,The Harker School,CA/US,Cheung & Guo,Harker CG,In,Varsity Public Forum
+215,The Harker School,CA/US,Chen & Jain,Harker CJ,In,Varsity Public Forum
+216,The Harker School,CA/US,Jain & Rashingkar,Harker JR,In,Varsity Public Forum
+217,The Harker School,CA/US,Lee & Nishimura,Harker LN,In,Varsity Public Forum
+218,The Harker School,CA/US,Luo & Parnell,Harker LP,In,Varsity Public Forum
+219,The Harker School,CA/US,Nath & Saoji,Harker NS,In,Varsity Public Forum
+220,The Harker School,CA/US,Pluzhnikov & Hoang,Harker PH,In,Varsity Public Forum
+221,The Harker School,CA/US,Vodinh-Ho & Han,Harker VH,In,Varsity Public Forum
+222,The Harker School,CA/US,Wan & Wininger,Harker WW,In,Varsity Public Forum
+223,The Harker School,CA/US,Wang & Yuan,Harker WY,In,Varsity Public Forum
+224,The Nueva School,CA/US,Ram & Tavares,Nueva RT,In,Varsity Public Forum
+225,The Nueva School,CA/US,Tavares & Rawlinson,Nueva TR,In,Varsity Public Forum
+226,The Nueva School,CA/US,Willrich & Agrawal,Nueva WA,In,Varsity Public Forum
+227,The Nueva School,CA/US,Wang & Chin,Nueva WC,In,Varsity Public Forum
+228,The Quarry Lane School,CA/US,Cyril & Oswal,Quarry Lane CO,In,Varsity Public Forum
+229,The Quarry Lane School,CA/US,Jain & Sen,Quarry Lane JS,In,Varsity Public Forum
+230,The Quarry Lane School,CA/US,Raghuram & Kodnad,Quarry Lane KR,In,Varsity Public Forum
+231,The Quarry Lane School,CA/US,Nellian & goel,Quarry Lane NG,In,Varsity Public Forum
+232,The Quarry Lane School,CA/US,Ramanathan & Cyril,Quarry Lane RC,In,Varsity Public Forum
+233,The Quarry Lane School,CA/US,Patel & Sharma,Quarry Lane SP,In,Varsity Public Forum
+234,Torrey Pines High School,CA/US,Ai & Peng,Torrey Pines AP,In,Varsity Public Forum
+235,Torrey Pines High School,CA/US,Feng & Li,Torrey Pines FL,In,Varsity Public Forum
+236,Torrey Pines High School,CA/US,Hsu & Wang,Torrey Pines HW,In,Varsity Public Forum
+237,Torrey Pines High School,CA/US,Kim & Kim,Torrey Pines KK,In,Varsity Public Forum
+238,Torrey Pines High School,CA/US,Tsai & Wong,Torrey Pines TW,In,Varsity Public Forum
+239,University Independent,CA/US,Moudgalya & Gupta,University Independent MG,WL,Varsity Public Forum
+240,Valencia High School,CA/US,Patel & Naeem,Valencia PN,In,Varsity Public Forum
+241,Valley International Prep,CA/US,Timor & Grodan,Valley International Prep TG,In,Varsity Public Forum
+242,Westwood HS,TX/US,Gunwani & Freeman,Westwood GF,In,Varsity Public Forum
+243,Westwood HS,TX/US,Kulkarni & Singh,Westwood KS,In,Varsity Public Forum
+244,Westwood HS,TX/US,Lai & Rajesh,Westwood LR,In,Varsity Public Forum
