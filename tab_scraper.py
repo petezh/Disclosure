@@ -7,7 +7,7 @@ import csv
 # event names
 ld_names = ["LD", "VLD", "Varsity LD", "Lincoln Douglas", "Varsity Lincoln Douglas", "Lincoln-Douglas Debate", "Open LD", "Open Lincoln Douglas"]
 pf_names = ["PF", "PFD", "VPF", "Varsity PF", "Public Forum", "Varsity Public Forum", "Public Forum Debate", "Open PF", "Open Public Forum"]
-policy_names = ["CX", "VCX", "Varsity CX", "Policy", "Varsity Policy", "Policy Debate", "Open CX", "Open Policy"]
+policy_names = ["CX", "VCX", "Varsity CX", "Policy", "Varsity Policy", "Policy Debate", "Open CX", "Open Policy", "Varisty Policy Debate", "Glendinning Varisty Policy"]
 
 # set events to scrape
 events = ld_names + pf_names + policy_names
@@ -23,6 +23,8 @@ def main():
     # for all selected tournies
     for tourny in tournies:
 
+        # [date, year, city, state] = getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1])
+
         tourny_name = tourny[0]
         url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
         print("Trying " + tourny_name)
@@ -31,7 +33,7 @@ def main():
         event_urls = getEvents(url)
 
         frames = []
-        
+
         for event_url in event_urls:
             
             url = event_url[1]
@@ -46,9 +48,28 @@ def main():
         if len(frames) == 0:
             print("No entries found for " + tourny_name)
         else:
-            pd.concat(frames).to_csv(tourny_name + ".csv")
-            
+            pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
 
+# extract tournament info
+def getInfo(url):
+
+    html = urlopen(url).read()
+    soup = BeautifulSoup(html, "html.parser")
+
+    info = soup.select('h5')[0].text.strip()
+    
+    year = info.split('—')[0].strip()
+    location = info.split('—')[1].strip()
+    city = location.split(',')[0].strip()
+    state = location.split(',')[1].strip()
+
+    
+    info = soup.find_all('span', {'class' : 'smaller half'})[0].text
+    date = ' '.join(info.split())
+
+    return [date, year, city, state]
+
+    
 # convert invite url to entries url
 def toEntries(url):
     

@@ -1,0 +1,424 @@
+,School,Locale,Entry,Code,Event
+0,ADL,TW,Kao & Kuo,ADL KK,Policy Debate
+1,Baltimore City College HS,MD/US,Smith & Daniels,Baltimore City SD,Policy Debate
+2,Brooklyn Technical HS,NY/US,Henry & Amekudzi,Brooklyn Technical HA,Policy Debate
+3,Brooklyn Technical HS,NY/US,Ronning & Rich,Brooklyn Technical RR,Policy Debate
+4,Brooklyn Technical HS,NY/US,Sahin & Bah,Brooklyn Technical SB,Policy Debate
+5,Brooklyn Technical HS,NY/US,Tarin & Simmons,Brooklyn Technical TS,Policy Debate
+6,Brooklyn Technical HS,NY/US,Trivino & Turner - Louis,Brooklyn Technical TT,Policy Debate
+7,Calvert Hall College HS,MD/US,Bressler & Sabatino,Calvert Hall BS,Policy Debate
+8,Calvert Hall College HS,MD/US,Mosca & Christ,Calvert Hall MC,Policy Debate
+9,Gulliver Prep,FL/US,Derlon & Podrog,Gulliver Prep DP,Policy Debate
+10,Gulliver Prep,FL/US,Geirud & Villalona,Gulliver Prep GV,Policy Debate
+11,Gulliver Prep,FL/US,Rovira & Roades,Gulliver Prep RR,Policy Debate
+12,Hunter College,NY/US,Ashraf & Jain,Hunter AJ,Policy Debate
+13,Jackson High School,OH/,Yu & Cao,Jackson YC,Policy Debate
+14,KIS,KR,Koo & Lee,KIS KL,Policy Debate
+15,KIS,KR,Choe & Lee,KIS LC,Policy Debate
+16,Leon Goldstein,NY/US,Avrakh & Flemming,Leon Goldstein AF,Policy Debate
+17,Leon Goldstein,NY/US,Celik & Svidler,Leon Goldstein CS,Policy Debate
+18,Leon Goldstein,NY/US,Eric Kovarsky,Leon Goldstein EK,Policy Debate
+19,Leon Goldstein,NY/US,Hutson & Fox,Leon Goldstein HF,Policy Debate
+20,Leon Goldstein,NY/US,Mak & Uones,Leon Goldstein MU,Policy Debate
+21,Leon Goldstein,NY/US,Polanco & Dunn,Leon Goldstein PD,Policy Debate
+22,Lexington HS,MA/US,Barry & Peng,Lexington BP,Policy Debate
+23,Lexington HS,MA/US,Bhargava & Saxena,Lexington BS,Policy Debate
+24,Lexington HS,MA/US,Sammeta & Swirnoff,Lexington SS,Policy Debate
+25,Lexington HS,MA/US,Sreeprakash & Yang,Lexington SY,Policy Debate
+26,Lexington HS,MA/US,Tipirneni & Kapoor,Lexington TK,Policy Debate
+27,Lexington HS,MA/US,Wu & Liao,Lexington WL,Policy Debate
+28,Lexington HS,MA/US,Xu & Kozlova,Lexington XK,Policy Debate
+29,Mamaroneck HS,NY/US,DeVito & Blechman,Mamaroneck BD,Policy Debate
+30,Mamaroneck HS,NY/US,Chinn & Ziabkin,Mamaroneck CZ,Policy Debate
+31,Mamaroneck HS,NY/US,Epstein & Ferrisi,Mamaroneck EF,Policy Debate
+32,Mamaroneck HS,NY/US,Land & Owen,Mamaroneck LO,Policy Debate
+33,Mamaroneck HS,NY/US,Lepelstat & Rubin,Mamaroneck LR,Policy Debate
+34,Mamaroneck HS,NY/US,Lazarus & Zimmmerman,Mamaroneck LZ,Policy Debate
+35,Mamaroneck HS,NY/US,McAdams & Runte,Mamaroneck McRu,Policy Debate
+36,Mamaroneck HS,NY/US,Miller & Rahman,Mamaroneck MR,Policy Debate
+37,McDowell HS,PA/US,Liu & Kim,McDowell LK,Policy Debate
+38,McDowell HS,PA/US,Zhao & Su,McDowell ZS,Policy Debate
+39,Strath Haven,PA/US,Kaukuntla & Zhai,Strath Haven KZ,Policy Debate
+40,Strath Haven,PA/US,Li & Yu,Strath Haven LY,Policy Debate
+41,Strath Haven,PA/US,Wang & Wang,Strath Haven WW,Policy Debate
+42,Stuyvesant HS,NY/US,Espinal & PU,Stuyvesant EP,Policy Debate
+43,Stuyvesant HS,NY/US,Ng & Chen,Stuyvesant NC,Policy Debate
+44,Stuyvesant HS,NY/US,Qiu & Hathaway,Stuyvesant QH,Policy Debate
+45,Stuyvesant HS,NY/US,Rhee & Huang,Stuyvesant RH,Policy Debate
+46,The Bronx High School Of Science,NY/US,Basch & Chan,Bronx Science BC,Policy Debate
+47,The Bronx High School Of Science,NY/US,Choudhury & Musk,Bronx Science CM,Policy Debate
+48,The Bronx High School Of Science,NY/US,Fisher & Xing,Bronx Science FX,Policy Debate
+49,The Bronx High School Of Science,NY/US,Rjavinski & Toth,Bronx Science RT,Policy Debate
+50,Westview High School,OR/US,Chen & Eachambadi,Westview CE,Policy Debate
+51,Woodgrove,VA/US,Newton & Woehrle,Woodgrove NW,Policy Debate
+0,Achievement First Brooklyn HS,NY/US,Amiya Miller,Achievement First Brooklyn AM,Varsity Lincoln Douglas
+1,Achievement First Brooklyn HS,NY/US,Devante Douglas,Achievement First Brooklyn DD,Varsity Lincoln Douglas
+2,Acton-Boxborough Regional HS,MA/US,Chris Xu,Acton-Boxborough CX,Varsity Lincoln Douglas
+3,Acton-Boxborough Regional HS,MA/US,Iris Shu,Acton-Boxborough IS,Varsity Lincoln Douglas
+4,Acton-Boxborough Regional HS,MA/US,Matthew Liu,Acton-Boxborough ML,Varsity Lincoln Douglas
+5,American Heritage Boca/Delray HS,FL/US,Nadaroopa Saraswathi-Mohan,American Heritage Boca/Delray NS,Varsity Lincoln Douglas
+6,American Heritage Boca/Delray HS,FL/US,Nikita Tanguturi,American Heritage Boca/Delray NT,Varsity Lincoln Douglas
+7,American Heritage Plantation HS,FL/US,Anika Dham,American Heritage Plantation AD,Varsity Lincoln Douglas
+8,American Heritage Plantation HS,FL/US,Emilin Mathew,American Heritage Plantation EM,Varsity Lincoln Douglas
+9,American Heritage Plantation HS,FL/US,Nicholas Randazzo,American Heritage Plantation NR,Varsity Lincoln Douglas
+10,American Heritage Plantation HS,FL/US,Peregrine Beckett,American Heritage Plantation PB,Varsity Lincoln Douglas
+11,American Heritage Plantation HS,FL/US,Prateek Gupta,American Heritage Plantation PG,Varsity Lincoln Douglas
+12,Bergen County Academies,NJ/US,Elvin Ko,Bergen County Academies EK,Varsity Lincoln Douglas
+13,Bergen County Academies,NJ/US,Elizabeth (Hye In) Lee,Bergen County Academies EL,Varsity Lincoln Douglas
+14,Bergen County Academies,NJ/US,Irene Kim,Bergen County Academies IK,Varsity Lincoln Douglas
+15,Bergen County Academies,NJ/US,Maria Savransky,Bergen County Academies MS,Varsity Lincoln Douglas
+16,Bergen County Academies,NJ/US,Ryan You,Bergen County Academies RY,Varsity Lincoln Douglas
+17,Blair Academy,NJ/US,Arjun Chopra,Blair AC,Varsity Lincoln Douglas
+18,Byram Hills HS,NY/US,Mark Fakler,Byram Hills MF,Varsity Lincoln Douglas
+19,Byram Hills HS,NY/US,Nora Lowe,Byram Hills NL,Varsity Lincoln Douglas
+20,Byram Hills HS,NY/US,Sam Hadiono,Byram Hills SH,Varsity Lincoln Douglas
+21,Byram Hills HS,NY/US,Talia Dinstein,Byram Hills TD,Varsity Lincoln Douglas
+22,Catonsville HS,MD/,Alexander Torrez,Catonsville AT,Varsity Lincoln Douglas
+23,Catonsville HS,MD/,Nate Frenkel,Catonsville NF,Varsity Lincoln Douglas
+24,Chaminade HS,NY/US,Charles Weiler,Chaminade CW,Varsity Lincoln Douglas
+25,Chaminade HS,NY/US,Peter Vouthas,Chaminade PV,Varsity Lincoln Douglas
+26,Charlotte Latin School,NC/US,Shreyas Iyer,Charlotte Latin SI,Varsity Lincoln Douglas
+27,Cosby High School,VA/US,Griffin Amos,Cosby GA,Varsity Lincoln Douglas
+28,Dulles High School,TX/US,Abhinav Sinha,Dulles AS,Varsity Lincoln Douglas
+29,Dulles High School,TX/US,Favian Sun,Dulles FS,Varsity Lincoln Douglas
+30,Dulles High School,TX/US,Sarah Zheng,Dulles SZ,Varsity Lincoln Douglas
+31,Durham Academy,NC/US,Adam Astrachan,Durham AA,Varsity Lincoln Douglas
+32,Durham Academy,NC/US,Jacob Palmer,Durham JP,Varsity Lincoln Douglas
+33,Freehold Township,NJ/US,Miles Gilberti,Freehold Township MG,Varsity Lincoln Douglas
+34,Freehold Township,NJ/US,Shubhum Agarwal,Freehold Township SA,Varsity Lincoln Douglas
+35,Half Hollow Hills HS East,NY/US,Megan Gole,Half Hollow Hills HS East MG,Varsity Lincoln Douglas
+36,Half Hollow Hills HS East,NY/US,Sriya Dhanikonda,Half Hollow Hills HS East SD,Varsity Lincoln Douglas
+37,Half Hollow Hills HS East,NY/US,Sarah Rizvi,Half Hollow Hills HS East SR,Varsity Lincoln Douglas
+38,Half Hollow Hills HS East,NY/US,Victoria Tong,Half Hollow Hills HS East VT,Varsity Lincoln Douglas
+39,Harrison,NY/US,Ali Ahmad,Harrison AA,Varsity Lincoln Douglas
+40,Harrison,NY/US,Elizabeth Murno,Harrison EM,Varsity Lincoln Douglas
+41,Harrison,NY/US,Mai Blaustein,Harrison MB,Varsity Lincoln Douglas
+42,Harrison,NY/US,Molly Ryan,Harrison MR,Varsity Lincoln Douglas
+43,Harrison,NY/US,Sonali Nicola,Harrison SN,Varsity Lincoln Douglas
+44,Holy Ghost Prep,PA/US,Matthew Stauffer,Holy Ghost Prep MS,Varsity Lincoln Douglas
+45,Hoover HS,OH/,Chloe Lopez,Hoover CL,Varsity Lincoln Douglas
+46,Hoover HS,OH/,Lindsay Lowry,Hoover LL,Varsity Lincoln Douglas
+47,Houston Memorial High School,TX/US,Aiden Sherwood,Houston Memorial AS,Varsity Lincoln Douglas
+48,Houston Memorial High School,TX/US,Daniel Xu,Houston Memorial DX,Varsity Lincoln Douglas
+49,Houston Memorial High School,TX/US,Sebastian Cho,Houston Memorial SC,Varsity Lincoln Douglas
+50,Hunter College,NY/US,Brianna Clarke-Arias,Hunter BC,Varsity Lincoln Douglas
+51,Hunter College,NY/US,Kenneth Chen,Hunter KC,Varsity Lincoln Douglas
+52,Hunter College,NY/US,Maximilian Dittgen,Hunter MD,Varsity Lincoln Douglas
+53,Hunter College,NY/US,Nate Kruger,Hunter NK,Varsity Lincoln Douglas
+54,Hunter College,NY/US,Scott Klein,Hunter SK,Varsity Lincoln Douglas
+55,King High School,FL/US,Arpan Bagui,King AB,Varsity Lincoln Douglas
+56,King High School,FL/US,Arjan Kang,King AK,Varsity Lincoln Douglas
+57,La Salle College HS,PA/US,Alex Sorgini,La Salle AS,Varsity Lincoln Douglas
+58,La Salle College HS,PA/US,Tyler Wood,La Salle TW,Varsity Lincoln Douglas
+59,La Salle College HS,PA/US,Zach Whiting,La Salle ZW,Varsity Lincoln Douglas
+60,Lake Highland Preparatory,FL/US,Abby Morris,Lake Highland Prep AM,Varsity Lincoln Douglas
+61,Lake Highland Preparatory,FL/US,Arjun Verma,Lake Highland Prep AV,Varsity Lincoln Douglas
+62,Lake Highland Preparatory,FL/US,Jaden Ackerman,Lake Highland Prep JA,Varsity Lincoln Douglas
+63,Lake Highland Preparatory,FL/US,Madi Crowley,Lake Highland Prep MC,Varsity Lincoln Douglas
+64,Lexington HS,MA/US,Archit Kumar,Lexington AK,Varsity Lincoln Douglas
+65,Lexington HS,MA/US,Anthony The,Lexington AT,Varsity Lincoln Douglas
+66,Lexington HS,MA/US,Christina Li,Lexington CL,Varsity Lincoln Douglas
+67,Lexington HS,MA/US,Derek Ying,Lexington DY,Varsity Lincoln Douglas
+68,Lexington HS,MA/US,Jeong-Wan Choi,Lexington JC,Varsity Lincoln Douglas
+69,Lexington HS,MA/US,Reuben Erives,Lexington RE,Varsity Lincoln Douglas
+70,Livingston HS,NJ/US,Gene Lu,Livingston GL,Varsity Lincoln Douglas
+71,McDowell HS,PA/US,Aashka Gupta,McDowell AG,Varsity Lincoln Douglas
+72,McDowell HS,PA/US,Kirtan Patel,McDowell KP,Varsity Lincoln Douglas
+73,McDowell HS,PA/US,Sandy Askins,McDowell SA,Varsity Lincoln Douglas
+74,Millburn High School,NJ/US,Ashna Gaglani,Millburn AG,Varsity Lincoln Douglas
+75,Millburn High School,NJ/US,Amanda Huang,Millburn AH,Varsity Lincoln Douglas
+76,Millburn High School,NJ/US,Anusha Veluri,Millburn AV,Varsity Lincoln Douglas
+77,Millburn High School,NJ/US,Hannah Rubinstein,Millburn HR,Varsity Lincoln Douglas
+78,Millburn High School,NJ/US,Kevin Wang,Millburn KW,Varsity Lincoln Douglas
+79,Montgomery Blair,MD/US,Peter Zhang,Montgomery Blair PZ,Varsity Lincoln Douglas
+80,Montville,NJ/US,Aaron Pottinger,Montville AP,Varsity Lincoln Douglas
+81,Montville,NJ/US,Dev Patel,Montville DP,Varsity Lincoln Douglas
+82,Montville,NJ/US,Nilay Patel,Montville NP,Varsity Lincoln Douglas
+83,Mountain House HS,CA/US,Aashril Shazar,Mountain House AS,Varsity Lincoln Douglas
+84,Mountain House HS,CA/US,Dhruva Kolikineni,Mountain House DK,Varsity Lincoln Douglas
+85,Mountain House HS,CA/US,Immanuel Victor,Mountain House IV,Varsity Lincoln Douglas
+86,NSU University School,FL/US,Sebastian Frazier,NSU SF,Varsity Lincoln Douglas
+87,Nashua HS South,NH/US,Enya Gu,Nashua HS South EG,Varsity Lincoln Douglas
+88,Needham HS,MA/US,Sam Cogen,Needham SC,Varsity Lincoln Douglas
+89,Needham HS,MA/US,Vijay Fisch,Needham VF,Varsity Lincoln Douglas
+90,Needham HS,MA/US,Will Conway,Needham WC,Varsity Lincoln Douglas
+91,Needham HS,MA/US,Zachary Lu,Needham ZL,Varsity Lincoln Douglas
+92,North Allegheny,PA/US,Benjamin Lannis,North Allegheny BL,Varsity Lincoln Douglas
+93,North Allegheny,PA/US,Elijah Duckworth,North Allegheny ED,Varsity Lincoln Douglas
+94,Pembroke Pines Charter HS,FL/US,Jayvyn Dacas,Pembroke Pines Charter JD,Varsity Lincoln Douglas
+95,Pembroke Pines Charter HS,FL/US,Mariana Colicchio,Pembroke Pines Charter MC,Varsity Lincoln Douglas
+96,Pembroke Pines Charter HS,FL/US,Michael Omole,Pembroke Pines Charter MO,Varsity Lincoln Douglas
+97,Pembroke Pines Charter HS,FL/US,Robert Hershey,Pembroke Pines Charter RH,Varsity Lincoln Douglas
+98,Princeton,NJ/US,Daniel Rohacs,Princeton DR,Varsity Lincoln Douglas
+99,Princeton,NJ/US,Rohit Lakshman,Princeton RL,Varsity Lincoln Douglas
+100,Princeton,NJ/US,Tracey Liu,Princeton TL,Varsity Lincoln Douglas
+101,Princeton,NJ/US,Vedansh Chauhan,Princeton VC,Varsity Lincoln Douglas
+102,Richard Montgomery HS,MD/US,Uma Fox,Richard Montgomery UF,Varsity Lincoln Douglas
+103,"Ridgewood HS - Ridgewood, NJ",NJ/US,Nathan Fallin,"Ridgewood HS - Ridgewood, NJ NF",Varsity Lincoln Douglas
+104,Roslyn HS,NY/US,Andrew Goldberg,Roslyn AG,Varsity Lincoln Douglas
+105,Roslyn HS,NY/US,William Borges,Roslyn WB,Varsity Lincoln Douglas
+106,Saratoga HS,CA/US,Ujjwal Krishnamurthi,Saratoga UK,Varsity Lincoln Douglas
+107,Scarsdale HS,NY/US,Aanya Schoetz,Scarsdale AS,Varsity Lincoln Douglas
+108,Scarsdale HS,NY/US,Curtis Chang,Scarsdale CC,Varsity Lincoln Douglas
+109,Scarsdale HS,NY/US,Felicity Huang,Scarsdale FH,Varsity Lincoln Douglas
+110,Scarsdale HS,NY/US,Karen Lee,Scarsdale KL,Varsity Lincoln Douglas
+111,Scarsdale HS,NY/US,Wolf Cukier,Scarsdale WC,Varsity Lincoln Douglas
+112,Scarsdale HS,NY/US,Zachary Siegel,Scarsdale ZS,Varsity Lincoln Douglas
+113,Stone Bridge HS,VA/US,Yiyang Chen,Stone Bridge YC,Varsity Lincoln Douglas
+114,Stuyvesant HS,NY/US,Gallo Patel,Stuyvesant GP,Varsity Lincoln Douglas
+115,Stuyvesant HS,NY/US,Lamia Haque,Stuyvesant LH,Varsity Lincoln Douglas
+116,Stuyvesant HS,NY/US,Maria-Sarai Pridgen,Stuyvesant MP,Varsity Lincoln Douglas
+117,Stuyvesant HS,NY/US,Maxwell Zen,Stuyvesant MZ,Varsity Lincoln Douglas
+118,Stuyvesant HS,NY/US,Theo Moss,Stuyvesant TM,Varsity Lincoln Douglas
+119,Success Academy Manhattan HS,NY/US,Chase Earland,Success Academy Manhattan CE,Varsity Lincoln Douglas
+120,Success Academy Manhattan HS,NY/US,Silma Bathily,Success Academy Manhattan SB,Varsity Lincoln Douglas
+121,Success Academy Manhattan HS,NY/US,Tajaih Robinson,Success Academy Manhattan TR,Varsity Lincoln Douglas
+122,Suncoast Comm HS,FL/US,Sara Kessel,Suncoast Comm SK,Varsity Lincoln Douglas
+123,Syosset HS,NY/US,Isabella Souza,Syosset IS,Varsity Lincoln Douglas
+124,Syosset HS,NY/US,Jason Lan,Syosset JL,Varsity Lincoln Douglas
+125,Syosset HS,NY/US,Saba Mehrzad,Syosset SM,Varsity Lincoln Douglas
+126,The Bronx High School Of Science,NY/US,Annie (Yijing) Wang,Bronx Science AW,Varsity Lincoln Douglas
+127,The Bronx High School Of Science,NY/US,Harper Learmonth,Bronx Science HL,Varsity Lincoln Douglas
+128,The Bronx High School Of Science,NY/US,Julian Bekong,Bronx Science JB,Varsity Lincoln Douglas
+129,The Bronx High School Of Science,NY/US,William Freedman,Bronx Science WF,Varsity Lincoln Douglas
+130,The Hill School,PA/US,Nethmin Liyanage,Hill NL,Varsity Lincoln Douglas
+131,Thomas Jefferson HSST,VA/US,Avyuk Dixit,Thomas Jefferson HSST AD,Varsity Lincoln Douglas
+132,Thomas Jefferson HSST,VA/US,Muhurto Rahman,Thomas Jefferson HSST MR,Varsity Lincoln Douglas
+133,Thomas Jefferson HSST,VA/US,Teja Buddhavarapu,Thomas Jefferson HSST TB,Varsity Lincoln Douglas
+134,Thomas Jefferson HSST,VA/US,Vikram Bala,Thomas Jefferson HSST VB,Varsity Lincoln Douglas
+135,Unionville,PA/US,Devin Jiang,Unionville DJ,Varsity Lincoln Douglas
+136,Unionville,PA/US,Kevin Liao,Unionville KL,Varsity Lincoln Douglas
+137,Unionville,PA/US,Luke Ittyachen,Unionville LI,Varsity Lincoln Douglas
+138,Unionville,PA/US,Maxine Adams,Unionville MA,Varsity Lincoln Douglas
+139,Unionville,PA/US,Shaaz Nadeem,Unionville SN,Varsity Lincoln Douglas
+140,University School,OH/US,Nehal Chigurupati,University NC,Varsity Lincoln Douglas
+141,Walt Whitman,MD/US,Benjamin Waldman,Walt Whitman BW,Varsity Lincoln Douglas
+142,Walt Whitman,MD/US,Grace Zhao,Walt Whitman GZ,Varsity Lincoln Douglas
+143,Walt Whitman,MD/US,Heather Wang,Walt Whitman HW,Varsity Lincoln Douglas
+144,Walt Whitman,MD/US,Megan Chen,Walt Whitman MC,Varsity Lincoln Douglas
+145,West Des Moines Valley HS,IA/US,Animesh Joshi,West Des Moines Valley AJ,Varsity Lincoln Douglas
+146,West Des Moines Valley HS,IA/US,Isabella Nadel,West Des Moines Valley IN,Varsity Lincoln Douglas
+147,West Des Moines Valley HS,IA/US,Jalyn Wu,West Des Moines Valley JW,Varsity Lincoln Douglas
+148,West Des Moines Valley HS,IA/US,Lauren Gilbert,West Des Moines Valley LG,Varsity Lincoln Douglas
+149,Westview High School,OR/US,Anwesha Mukherjee,Westview AM,Varsity Lincoln Douglas
+150,Westview High School,OR/US,Reetesh Sudhakar,Westview RS,Varsity Lincoln Douglas
+151,Woodgrove,VA/US,Anthony Cusat,Woodgrove AC,Varsity Lincoln Douglas
+152,Woodgrove,VA/US,Darla Puckett,Woodgrove DP,Varsity Lincoln Douglas
+153,Woodgrove,VA/US,Nathan Rand,Woodgrove NR,Varsity Lincoln Douglas
+154,Woodgrove,VA/US,Riley Parsons,Woodgrove RP,Varsity Lincoln Douglas
+155,Woodgrove,VA/US,Will Frankovich,Woodgrove WF,Varsity Lincoln Douglas
+0,Acton-Boxborough Regional HS,MA/US,Cheng & Lai,Acton-Boxborough CL,Varsity Public Forum
+1,Acton-Boxborough Regional HS,MA/US,Morgan & Lee,Acton-Boxborough ML,Varsity Public Forum
+2,Acton-Boxborough Regional HS,MA/US,Narra & Handel,Acton-Boxborough NH,Varsity Public Forum
+3,Acton-Boxborough Regional HS,MA/US,Satheesh & Viswanathan,Acton-Boxborough SV,Varsity Public Forum
+4,American Heritage Plantation HS,FL/US,Rajpal & Ratzan,American Heritage Plantation RR,Varsity Public Forum
+5,American Heritage Plantation HS,FL/US,Winick & Shaw,American Heritage Plantation WS,Varsity Public Forum
+6,BASIS Scottsdale HS,AZ/US,Wang & Wahal,BASIS Scottsdale WW,Varsity Public Forum
+7,Belen Jesuit Prep,FL/US,Alvarez & Steel,Belen Jesuit Prep AS,Varsity Public Forum
+8,Belen Jesuit Prep,FL/US,Caballero & De La Maza,Belen Jesuit Prep CD,Varsity Public Forum
+9,Bethesda Chevy Chase,MD/US,Glickman & Tiefer,Bethesda Chevy Chase GT,Varsity Public Forum
+10,Boston Latin School,MA/US,Han & Ma,Boston Latin HM,Varsity Public Forum
+11,Boston Latin School,MA/US,Sun & Lang,Boston Latin SL,Varsity Public Forum
+12,Boston Latin School,MA/US,Yu & Reynolds,Boston Latin YR,Varsity Public Forum
+13,Brighton Academy,BC/CA,Guo & Nie,Brighton Academy GN,Varsity Public Forum
+14,Brighton Academy,BC/CA,Zhu & Zhang,Brighton Academy ZZ,Varsity Public Forum
+15,Brophy College Prep,AZ/US,Kalra & Shah,Brophy  KS,Varsity Public Forum
+16,Bullis School,MD/US,Shiller & Sun,Bullis SS,Varsity Public Forum
+17,Byram Hills HS,NY/US,Barry & Youngblood,Byram Hills BY,Varsity Public Forum
+18,Byram Hills HS,NY/US,Khan & Zeng,Byram Hills KZ,Varsity Public Forum
+19,Campbell Hall HS,CA/US,Dalesandro & Lupi,Campbell Hall DL,Varsity Public Forum
+20,Campbell Hall HS,CA/US,Friedenberg & Lee,Campbell Hall FL,Varsity Public Forum
+21,Carrollton,GA/US,Lopez-Miranda & Penley,Carrollton PL,Varsity Public Forum
+22,Carrollton,GA/US,Siek & Berzsenyi,Carrollton SB,Varsity Public Forum
+23,Cary Academy,NC/US,Huang & Sundaram,Cary HS,Varsity Public Forum
+24,Cary Academy,NC/US,Zhang & Moorhead,Cary ZM,Varsity Public Forum
+25,Centennial High School,MD/US,Yang & Liu,Centennial LY,Varsity Public Forum
+26,Chaminade HS,NY/US,Cody & Farrell,Chaminade CF,Varsity Public Forum
+27,Chaminade HS,NY/US,McGlynn & Vastola,Chaminade MV,Varsity Public Forum
+28,Chaminade HS,NY/US,O'Hara & McCabe,Chaminade OM,Varsity Public Forum
+29,Champion School,CA/US,Iyyavoo & Iyyavoo,Champion II,Varsity Public Forum
+30,Champion School,CA/US,Miguel & Kumar,Champion MK,Varsity Public Forum
+31,Charles W. Flanagan High/Falcon Spe,FL/US,De Leon & Gold,Charles W. Flanagan High/Falcon DG,Varsity Public Forum
+32,Charles W. Flanagan High/Falcon Spe,FL/US,Hernandez & Jaramillo,Charles W. Flanagan High/Falcon HJ,Varsity Public Forum
+33,Charles W. Flanagan High/Falcon Spe,FL/US,Mahtani & Nadeem,Charles W. Flanagan High/Falcon MN,Varsity Public Forum
+34,Charlotte Latin School,NC/US,Neligan & Spicer,Charlotte Latin NS,Varsity Public Forum
+35,Charlotte Latin School,NC/US,Zhou & Zhou,Charlotte Latin ZZ,Varsity Public Forum
+36,Cinco Ranch High School,TX/US,Routray & Tewary,Cinco Ranch RT,Varsity Public Forum
+37,Corona Del Sol HS,AZ/US,Moffatt & Hossain,Corona Del Sol MH,Varsity Public Forum
+38,Corona Del Sol HS,AZ/US,Pattipati & Pattipati,Corona Del Sol PP,Varsity Public Forum
+39,Cosby High School,VA/US,Sheffield & Merkel,Cosby SM,Varsity Public Forum
+40,Delbarton School,NJ/US,Fostiropoulos & Fraenkel-Thonet,Delbarton FF,Varsity Public Forum
+41,Delbarton School,NJ/US,Li & Teehan,Delbarton LT,Varsity Public Forum
+42,Delbarton School,NJ/US,Munsey & Gulati,Delbarton MG,Varsity Public Forum
+43,Dulles High School,TX/US,Li & Chang,Dulles LC,Varsity Public Forum
+44,Durham Academy,NC/US,Hays & Longley,Durham HL,Varsity Public Forum
+45,Durham Academy,NC/US,Owens & Kim,Durham OK,Varsity Public Forum
+46,Edina HS,MN/US,Zhu & Maheshwari,Edina ZM,Varsity Public Forum
+47,Flintridge Preparatory,CA/,Costin & Sullivan,Flintridge Prep CS,Varsity Public Forum
+48,Flintridge Preparatory,CA/,Ng & Hobey,Flintridge Prep NH,Varsity Public Forum
+49,Fort Lee High,NJ/US,Papaioannou & Koretsky,Fort Lee PK,Varsity Public Forum
+50,Freehold Township,NJ/US,Gabizon & Tu,Freehold Township GT,Varsity Public Forum
+51,Gunn Sr HS,CA/US,Balakrishnan & Balakrishnan,Gunn BB,Varsity Public Forum
+52,Hackley School,NY/US,Goldman & Shah,Hackley GS,Varsity Public Forum
+53,Hackley School,NY/US,Kirsch & Yusaf,Hackley KY,Varsity Public Forum
+54,Hackley School,NY/US,Rosenblum & Zuckerman,Hackley RZ,Varsity Public Forum
+55,Half Hollow Hills HS East,NY/US,Evans & Jackson,Half Hollow Hills HS East EJ,Varsity Public Forum
+56,Half Hollow Hills HS East,NY/US,Rizvi & Waseem,Half Hollow Hills HS East RW,Varsity Public Forum
+57,Half Hollow Hills HS East,NY/US,Roedel & Xie,Half Hollow Hills HS East RX,Varsity Public Forum
+58,Hawken,OH/US,El-Kaissi & Griffin,Hawken EG,Varsity Public Forum
+59,Hawken,OH/US,Huang & Watson,Hawken HW,Varsity Public Forum
+60,Holy Trinity Episcopal Academy,FL/,Vigeant & Tomadakis,Holy Trinity Episcopal VT,Varsity Public Forum
+61,Horace Mann HS,NY/US,Karpf & Lee,Horace Mann KL,Varsity Public Forum
+62,Horace Mann HS,NY/US,Moolji & Moolji,Horace Mann MM,Varsity Public Forum
+63,Horace Mann HS,NY/US,Shi & Xing,Horace Mann SX,Varsity Public Forum
+64,Hunter College,NY/US,Attada & Li,Hunter AL,Varsity Public Forum
+65,Hunter College,NY/US,Tawil & Roz,Hunter TR,Varsity Public Forum
+66,Hunter College,NY/US,Xing & Bovenzi,Hunter XB,Varsity Public Forum
+67,Jupiter High School,FL/,Beecher & Lantzy,Jupiter BL,Varsity Public Forum
+68,King High School,FL/US,Meyers & Bagdy,King MB,Varsity Public Forum
+69,La Salle HS,CA/US,Cahill & Hunt,La Salle CH,Varsity Public Forum
+70,Lake Highland Preparatory,FL/US,Calderon & Patel,Lake Highland Prep CP,Varsity Public Forum
+71,Lake Highland Preparatory,FL/US,Patel & Kim,Lake Highland Prep PK,Varsity Public Forum
+72,Lake Highland Preparatory,FL/US,Pinnamaneni & Steiner,Lake Highland Prep SP,Varsity Public Forum
+73,Lexington HS,MA/US,Liu & Gill,Lexington LG,Varsity Public Forum
+74,Lexington HS,MA/US,Ma & Mallikarjun,Lexington MM,Varsity Public Forum
+75,Lincoln-Sudbury Regional HS,MA/US,Ghosh & Saklad,Lincoln-Sudbury GS,Varsity Public Forum
+76,Lincoln-Sudbury Regional HS,MA/US,Karty & Omar,Lincoln-Sudbury KO,Varsity Public Forum
+77,Lincoln-Sudbury Regional HS,MA/US,Pan & George,Lincoln-Sudbury PG,Varsity Public Forum
+78,Livingston HS,NJ/US,Hall & Saxena,Livingston HS,Varsity Public Forum
+79,Livingston HS,NJ/US,Kim & Reiter,Livingston KR,Varsity Public Forum
+80,Livingston HS,NJ/US,Yiu & Raj,Livingston YR,Varsity Public Forum
+81,Livingston HS,NJ/US,Zhang & Shah,Livingston ZS,Varsity Public Forum
+82,Los Altos High School,CA/US,Chang & Howard,Los Altos CH,Varsity Public Forum
+83,Los Altos High School,CA/US,Eckinger & Liu,Los Altos EL,Varsity Public Forum
+84,Los Altos High School,CA/US,Luo & Ruan,Los Altos LR,Varsity Public Forum
+85,Marriotts Ridge High School,MD/US,He & Nayak,Marriotts Ridge HN,Varsity Public Forum
+86,Marriotts Ridge High School,MD/US,Kim & Kim,Marriotts Ridge KK,Varsity Public Forum
+87,McDowell HS,PA/US,Law & DiPlacido,McDowell LD,Varsity Public Forum
+88,McQuaid Jesuit,NY/US,Backus & Carrigan,McQuaid Jesuit BC,Varsity Public Forum
+89,Midwood High School,NY/US,Crooks & Casero,Midwood CC,Varsity Public Forum
+90,Midwood High School,NY/US,Lekakis & Karoutsos,Midwood LK,Varsity Public Forum
+91,Midwood High School,NY/US,Pantaleon & Tran,Midwood PT,Varsity Public Forum
+92,Millburn High School,NJ/US,Agarwal & Tang,Millburn AT,Varsity Public Forum
+93,Millburn High School,NJ/US,Han & Han,Millburn HH,Varsity Public Forum
+94,Millburn High School,NJ/US,Singh & Xi,Millburn SX,Varsity Public Forum
+95,Milton Academy,MA/,Wang & Colledge,Milton WC,Varsity Public Forum
+96,Montgomery Blair,MD/US,Jiang & Qian,Montgomery Blair JQ,Varsity Public Forum
+97,Montgomery Blair,MD/US,Li & Zhang,Montgomery Blair LZ,Varsity Public Forum
+98,Montgomery Blair,MD/US,Tang & Keshav,Montgomery Blair TK,Varsity Public Forum
+99,Montville,NJ/US,Ganesh & Sinha,Montville GS,Varsity Public Forum
+100,Montville,NJ/US,Luhana & Maniar,Montville LM,Varsity Public Forum
+101,Montville,NJ/US,Liu & Tam,Montville LT,Varsity Public Forum
+102,Mountain Brook HS,AL/US,Allen & Battle,Mountain Brook AB,Varsity Public Forum
+103,Mountain House HS,CA/US,Kamaraj & Madaan,Mountain House KM,Varsity Public Forum
+104,NSU University School,FL/US,Arias & Gutkin,NSU AG,Varsity Public Forum
+105,NSU University School,FL/US,Ronkin & Samson,NSU RS,Varsity Public Forum
+106,Newton South HS,MA/US,ChassÃ© & Fudim,Newton South CF,Varsity Public Forum
+107,Newton South HS,MA/US,Garg & Kamadolli,Newton South GK,Varsity Public Forum
+108,Newton South HS,MA/US,Silvian & Jones,Newton South SJ,Varsity Public Forum
+109,Newton South HS,MA/US,Stolow & Marrinan,Newton South SM,Varsity Public Forum
+110,Nightingale Bamford,NY/US,Blakeman & Fend,Nightingale Bamford BF,Varsity Public Forum
+111,Nightingale Bamford,NY/US,Brillembourg & Zeid,Nightingale Bamford ZB,Varsity Public Forum
+112,North Allegheny,PA/US,Naik & Shah,North Allegheny NS,Varsity Public Forum
+113,North Allegheny,PA/US,Perera & Jain,North Allegheny PJ,Varsity Public Forum
+114,North Broward Preparatory School,FL/US,Katz & Peterson,North Broward Prep KP,Varsity Public Forum
+115,Oakton HS,VA/US,Jones & Huang,Oakton HJ,Varsity Public Forum
+116,Oakton HS,VA/US,Yoon & Zhu,Oakton YZ,Varsity Public Forum
+117,Oxbridge Academy of the Palm Beache,FL/US,Simmonds & Breckenridge,Oxbridge Academy of the Palm Beaches SB,Varsity Public Forum
+118,Oxbridge Academy of the Palm Beache,FL/US,Stewart & Goetschius,Oxbridge Academy of the Palm Beaches SG,Varsity Public Forum
+119,Pine View School,FL/US,Banach & Ponder,Pine View BP,Varsity Public Forum
+120,Poly Prep Country Day School,NY/US,Sah & Menegatos,Poly Prep Country Day SM,Varsity Public Forum
+121,Princeton,NJ/US,Birge & Borovoy,Princeton BB,Varsity Public Forum
+122,Princeton,NJ/US,Bolitho & Dodge,Princeton BD,Varsity Public Forum
+123,Princeton,NJ/US,Budny & Roy,Princeton BR,Varsity Public Forum
+124,Randolph High School,NJ/US,Tan & Wang,Randolph TW,Varsity Public Forum
+125,Ransom Everglades,FL/US,Marcus & Gold,Ransom Everglades MG,Varsity Public Forum
+126,Ransom Everglades,FL/US,Tariko & Schurr,Ransom Everglades TS,Varsity Public Forum
+127,Regis High School,NY/US,Barone & Gural,Regis BG,Varsity Public Forum
+128,Regis High School,NY/US,Greene & Sheehan,Regis GS,Varsity Public Forum
+129,Regis High School,NY/US,Kaminski & Kim,Regis KK,Varsity Public Forum
+130,Regis High School,NY/US,Kuharski & Presten,Regis PK,Varsity Public Forum
+131,Richard Montgomery HS,MD/US,Guo & Lin,Richard Montgomery GL,Varsity Public Forum
+132,Richard Montgomery HS,MD/US,Hu & Zhao,Richard Montgomery HZ,Varsity Public Forum
+133,Richard Montgomery HS,MD/US,Sun & Wu,Richard Montgomery SW,Varsity Public Forum
+134,Ridge High School,NJ/US,Kutty & Wang,Ridge KW,Varsity Public Forum
+135,Ridge High School,NJ/US,Raviarasan & Singh,Ridge RS,Varsity Public Forum
+136,Ridge High School,NJ/US,Sun & Chen,Ridge SC,Varsity Public Forum
+137,"Ridgewood HS - Ridgewood, NJ",NJ/US,An & O'Keefe,"Ridgewood HS - Ridgewood, NJ AO",Varsity Public Forum
+138,"Ridgewood HS - Ridgewood, NJ",NJ/US,Joseph & Bini,"Ridgewood HS - Ridgewood, NJ JB",Varsity Public Forum
+139,"Ridgewood HS - Ridgewood, NJ",NJ/US,Shin & Gasaway,"Ridgewood HS - Ridgewood, NJ SG",Varsity Public Forum
+140,Saint Mary's Hall HS,TX/US,Plante & Hernandez,St Mary's Hall PH,Varsity Public Forum
+141,Saint Mary's Hall HS,TX/US,Schendel & Trujillo,St Mary's Hall ST,Varsity Public Forum
+142,Saint Mary's Hall HS,TX/US,Walls & Newman-Menendez,St Mary's Hall WN,Varsity Public Forum
+143,Saratoga HS,CA/US,Sambasivam & Ramakrishna,Saratoga SR,Varsity Public Forum
+144,Scarsdale HS,NY/US,Bansal & Rosewater,Scarsdale BR,Varsity Public Forum
+145,Scarsdale HS,NY/US,Tang & Greenspan,Scarsdale TG,Varsity Public Forum
+146,Sharon,MA/US,Cooperman & Blatte,Sharon CB,Varsity Public Forum
+147,Sharon,MA/US,Liao & Khandaker,Sharon LK,Varsity Public Forum
+148,Sharon,MA/US,Zhang & Posternak,Sharon ZP,Varsity Public Forum
+149,Solon HS,OH/US,Li & Kosana,Solon LK,Varsity Public Forum
+150,Solon HS,OH/US,Wilson & Dhillon,Solon WD,Varsity Public Forum
+151,St John's School,TX/US,Fiorito & Lin,St John's FL,Varsity Public Forum
+152,St John's School,TX/US,Moll & Konduri,St John's MK,Varsity Public Forum
+153,St. Joseph's Prep,PA/US,Kallmeyer & Sergovic,St. Joseph's Prep KS,Varsity Public Forum
+154,St. Joseph's Prep,PA/US,Ward & Ruggiero,St. Joseph's Prep WR,Varsity Public Forum
+155,Stow-Munroe Falls HS,OH/US,MacPherson & Kupetz,Stow-Munroe Falls MK,Varsity Public Forum
+156,Stow-Munroe Falls HS,OH/US,Vale & Hawk,Stow-Munroe Falls VH,Varsity Public Forum
+157,Strath Haven,PA/US,Lowry & Sharmin,Strath Haven LS,Varsity Public Forum
+158,Stuyvesant HS,NY/US,Annenberg & Han,Stuyvesant AH,Varsity Public Forum
+159,Stuyvesant HS,NY/US,Green & Cho,Stuyvesant GC,Varsity Public Forum
+160,Stuyvesant HS,NY/US,Lee & Sword,Stuyvesant LS,Varsity Public Forum
+161,Summit HS,NJ/US,Baldacci & Cohn,Summit BC,Varsity Public Forum
+162,Summit HS,NJ/US,Sabuncu & Supran,Summit SS,Varsity Public Forum
+163,Suncoast Comm HS,FL/US,Kaufmann & Reiter,Suncoast Comm KR,Varsity Public Forum
+164,Syosset HS,NY/US,Greenberg & Kelly,Syosset GK,Varsity Public Forum
+165,Syosset HS,NY/US,Lee & Mao,Syosset LM,Varsity Public Forum
+166,Taipei American School,,Engen & Shyu,Taipei American ES,Varsity Public Forum
+167,Taipei American School,,Ryoo & Chen,Taipei American RC,Varsity Public Forum
+168,Taipei American School,,Taw & Lee,Taipei American TL,Varsity Public Forum
+169,The Altamont School,AL/US,Coleman & Sultan,Altamont CS,Varsity Public Forum
+170,The Altamont School,AL/US,Goyal & Bashir,Altamont GB,Varsity Public Forum
+171,The Bromfield School,MA/US,Atwell & Khurana,Bromfield AK,Varsity Public Forum
+172,The Bronx High School Of Science,NY/US,Dadak & Ganguly,Bronx Science DG,Varsity Public Forum
+173,The Bronx High School Of Science,NY/US,Mann & Reynolds,Bronx Science MR,Varsity Public Forum
+174,The Bronx High School Of Science,NY/US,Oestericher & Silver,Bronx Science OS,Varsity Public Forum
+175,The Bronx High School Of Science,NY/US,Segal & Weiss,Bronx Science SW,Varsity Public Forum
+176,The Dalton School,NY/US,Breen & Solomon,Dalton BS,Varsity Public Forum
+177,The Dalton School,NY/US,Chapple & Yu,Dalton CY,Varsity Public Forum
+178,The Potomac School,VA/US,Adams & Roots-Nowakowski,Potomac AR,Varsity Public Forum
+179,The Potomac School,VA/US,Eads & Joel,Potomac JE,Varsity Public Forum
+180,The Spence School,NY/US,Davis & Singer,Spence DS,Varsity Public Forum
+181,Thomas Jefferson HSST,VA/US,Song & Aggarwal,Thomas Jefferson HSST SA,Varsity Public Forum
+182,Thomas S. Wootton High School,MD/US,Liu & Moorjani,Thomas S. Wootton LM,Varsity Public Forum
+183,Thomas S. Wootton High School,MD/US,Mu & Wang,Thomas S. Wootton MW,Varsity Public Forum
+184,Thomas S. Wootton High School,MD/US,Tegen & Zeng,Thomas S. Wootton TZ,Varsity Public Forum
+185,Trinity Preparatory School,FL/US,Huang & Rohrbaugh,Trinity Prep HR,Varsity Public Forum
+186,Trinity Preparatory School,FL/US,Mapa & Cohen-Neamie,Trinity Prep MC,Varsity Public Forum
+187,Trinity Preparatory School,FL/US,Place & Zehnder,Trinity Prep PZ,Varsity Public Forum
+188,Union Catholic,NJ/US,Abood & Roder,Union Catholic AR,Varsity Public Forum
+189,Union Catholic,NJ/US,Blouin & Kemler,Union Catholic BK,Varsity Public Forum
+190,Union Catholic,NJ/US,Jacus & Madsen,Union Catholic JM,Varsity Public Forum
+191,Union County Catholic,NJ/US,Haff & Payan,Union County Catholic HP,Varsity Public Forum
+192,Union County Catholic,NJ/US,Jewel & Kowski,Union County Catholic JK,Varsity Public Forum
+193,Unionville,PA/US,Gundecha & Qiu,Unionville GQ,Varsity Public Forum
+194,Unionville,PA/US,Gadagkar & Wang,Unionville GW,Varsity Public Forum
+195,Unionville,PA/US,Razdan & Zachariah,Unionville RZ,Varsity Public Forum
+196,University School,OH/US,Kang & Karnati,University KK,Varsity Public Forum
+197,University School,OH/US,Menon & Novak,University MN,Varsity Public Forum
+198,University School,OH/US,Yan & Paik,University YP,Varsity Public Forum
+199,Walt Whitman,MD/US,Baisinger-Rosen & Weerakoon,Walt Whitman BW,Varsity Public Forum
+200,Walt Whitman,MD/US,Leonhardt & McGuire,Walt Whitman LM,Varsity Public Forum
+201,Walt Whitman,MD/US,Olson & Steighner,Walt Whitman OS,Varsity Public Forum
+202,Walt Whitman,MD/US,Rock & Singer,Walt Whitman RS,Varsity Public Forum
+203,Wayland High School,MA/US,Baranovsky & Wang,Wayland BW,Varsity Public Forum
+204,Wayland High School,MA/US,Goldstone & Zhang,Wayland GZ,Varsity Public Forum
+205,Wayland High School,MA/US,Weling & Wang,Wayland WW,Varsity Public Forum
+206,Westborough HS,MA/US,Kumar & Kumar,Westborough KK,Varsity Public Forum
+207,Westborough HS,MA/US,Sadagopan & Karthick,Westborough SK,Varsity Public Forum
+208,Westfield High School,NJ/US,Mehta & Zhao,Westfield MZ,Varsity Public Forum
+209,Westview High School,OR/US,Huang & Shetty,Westview HS,Varsity Public Forum
+210,Winston Churchill High School,MD/US,Durbhakula & Durbhakula,Winston Churchill DD,Varsity Public Forum
+211,Winston Churchill High School,MD/US,Gupta & Huang,Winston Churchill GH,Varsity Public Forum
+212,Winston Churchill High School,MD/US,Huang & Mao,Winston Churchill HM,Varsity Public Forum
+213,Woodgrove,VA/US,Edwards & Beckstrom,Woodgrove BE,Varsity Public Forum
+214,Woodgrove,VA/US,Khan & Blevins,Woodgrove BK,Varsity Public Forum
