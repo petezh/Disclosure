@@ -8,7 +8,7 @@ aberdeen_url = "https://hsld18.debatecoaches.org/Aberdeen%20Central/"
 ab_url= "https://hsld18.debatecoaches.org/Acton-Boxborough/"
 def main():
 
-    url = "https://hsld18.debatecoaches.org/"
+    stub = "https://hsld18.debatecoaches.org/"
     schools = getSchools(url)
 
     school_writer = csv.writer(open("schools_wiki.csv", 'w'), lineterminator = "\n")
@@ -16,15 +16,17 @@ def main():
 
     for school in schools:
         school_name = school[0]
-        school_url = "https://hsld18.debatecoaches.org/" + school[1]
+        school_url = stub + school[1]
 
-        print(school_name + " is...")
+        print(school_name)
         table = checkSchool(school_url)
         if not isinstance(table, str):
             school_writer.writerow([school_name, len(table)])
 
             for index, row in table.iterrows():
-                print(row['Debater'])
+                last_name = row['Debater'].split()[-1]
+                aff_results = checkPage(schoolurl + "/" + last_name + "%20Aff")
+                neg_results = checkPage(schoolurl + "/" + last_name + "%20Neg")
 
         else:
             school_writer.writerow([school_name, 0])
@@ -82,6 +84,7 @@ def checkSchool(url):
 
     return datatable
 
+def checkPage(url):
 
 
 
