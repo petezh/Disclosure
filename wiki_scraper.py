@@ -15,7 +15,7 @@ def main():
     school_writer.writerow(["School Name", "Entries"])
 
     debater_writer = csv.writer(open("wiki_data/debaters_wiki.csv", 'w'), lineterminator = "\n")
-    debater_writer.writerow(["School", "First", "Last", "Side", "Rounds", "Cites", "Round Reports", "Open Source", "Full Text", "Facebook?"])
+    debater_writer.writerow(["State", "School", "First", "Last", "Side", "Rounds", "Cites", "Round Reports", "Open Source", "Full Text", "Facebook?"])
 
     num_schools = len(schools)
     counter = 0
@@ -24,10 +24,13 @@ def main():
 
         counter += 1
 
-        school_name = school[0]
+        school_code = school[0]
+        school_name = " ".join(school_code.split()[:-1])
+
+        state = school_code.split()[-1].strip('()')
         school_url = url + school[1]
 
-        print(school_name, str(round(counter/num_schools, 3)))
+        print(school_name, str(counter),"/", str(num_schools))
         table = checkSchool(school_url)
         if not isinstance(table, str):
             school_writer.writerow([school_name, len(table)])
@@ -38,8 +41,8 @@ def main():
                 last_name = debater_name.split()[-1]
                 aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
                 neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
-                debater_writer.writerow([school_name, first_name, last_name, "Aff"] + aff_results)
-                debater_writer.writerow([school_name, first_name, last_name, "Neg"] + neg_results)
+                debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
+                debater_writer.writerow([state, school_name, first_name, last_name, "Neg"] + neg_results)
 
         else:
             school_writer.writerow([school_name, 0])
@@ -59,7 +62,10 @@ def getSchools(url):
 
 def checkSchool(url):
 
-    html = urlopen(url).read()
+    try:
+        html = urlopen(url).read()
+    except Exception:
+        return "Broken!"
     soup = BeautifulSoup(html, "html.parser")
 
     table = soup.find_all("table")[0]
@@ -95,6 +101,10 @@ def checkSchool(url):
             row_marker = row_marker +1
 
     return datatable
+
+cite_writer = csv.writer(open("wiki_data/debaters_cites.csv", 'w'), lineterminator = "\n")
+
+   
 
 def checkPage(url):
 
@@ -147,42 +157,7 @@ def checkPage(url):
         total_rounds = len(datatable)
 
     # cites box
-    if tables > 1:
-        table = soup.find_all("table")[1]
-    else:
-        return [-1, -1, -1, -1]
     
-    n_rows = 0
-    n_columns = 0
-    column_names = []
-
-    for row in table.find_all('tr'):
-        td = row.find_all('td')
-        if len(td) > 0:
-            n_rows = n_rows + 1
-            if n_columns == 0:
-                n_columns = len(td)
-
-        th = row.find_all('th')
-        if len(th) > 0 and len(column_names) ==0:
-            for header in th:
-                column_names.append(header.get_text().strip())
-    if len(column_names) > 0 and len(column_names) != n_columns:
-        total_cites = 0
-    else:
-        columns = column_names if len(column_names) > 0 else range(0, n_columns)
-        datatable = pd.DataFrame(columns = columns, index = range(0, n_rows))
-        row_marker = 0
-        for row in table.find_all('tr'):
-            column_marker = 0
-            columns = row.find_all('td')
-            for column in columns:
-                datatable.iat[row_marker, column_marker] = column.get_text().strip()
-                column_marker = column_marker + 1
-            if len(columns) > 0:
-                row_marker = row_marker +1
-        
-        total_cites = len(datatable)
 
     total_rr = str(html).count("report.png")
     total_os = len(soup.find_all(text=lambda x: x and ".docx" in x))
@@ -190,12 +165,16 @@ def checkPage(url):
     facebook = False
     full_text = 0
     cites = soup.find_all("div", {"name": "entry"})
+    total_cites = len(cites)
+
     for cite in cites:
         text = cite.text
+        
         if "facebook" in text:
             facebook = True
-        if len(text) > 10000:
+        if len(text) > 8000:
             full_text += 1
+        cite_writer.writerow([len(text)])
 
     return [total_rounds, total_cites, total_rr, total_os, full_text, facebook]
     

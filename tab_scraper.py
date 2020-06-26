@@ -3,6 +3,8 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 import csv
+import os.path
+from os import path
 
 # event names
 ld_names = ["LD", "VLD", "Varsity LD", "Lincoln Douglas", "Varsity Lincoln Douglas", "Lincoln-Douglas Debate", "Open LD", "Open Lincoln Douglas"]
@@ -29,26 +31,30 @@ def main():
         url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
         print("Trying " + tourny_name)
 
-        # get events
-        event_urls = getEvents(url)
-
-        frames = []
-
-        for event_url in event_urls:
-            
-            url = event_url[1]
-            event = event_url[0]
-            
-            # append results
-            if event in events:
-                print(event)
-                frames = frames + [getEntries(url, event)]
-
-        # send to csv
-        if len(frames) == 0:
-            print("No entries found for " + tourny_name)
+        if(path.exists("tab_data/" + tourny_name + ".csv")):
+            print("Exists already.")
         else:
-            pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
+            # get events
+            event_urls = getEvents(url)
+
+            frames = []
+
+            for event_url in event_urls:
+                
+                url = event_url[1]
+                event = event_url[0]
+                
+                # append results
+                if event in events:
+                    print(event)
+                    frames = frames + [getEntries(url, event)]
+
+            # send to csv
+            if len(frames) == 0:
+                print("No entries found for " + tourny_name)
+            else:
+                pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
+                print("Done!")
 
 # extract tournament info
 def getInfo(url):
