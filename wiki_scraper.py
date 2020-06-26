@@ -11,28 +11,38 @@ def main():
     url = "https://hsld18.debatecoaches.org/"
     schools = getSchools(url)
 
-    school_writer = csv.writer(open("schools_wiki.csv", 'w'), lineterminator = "\n")
+    school_writer = csv.writer(open("wiki_data/schools_wiki.csv", 'w'), lineterminator = "\n")
     school_writer.writerow(["School Name", "Entries"])
 
+    debater_writer = csv.writer(open("wiki_data/debaters_wiki.csv", 'w'), lineterminator = "\n")
+    debater_writer.writerow(["School", "First", "Last", "Side", "Rounds", "Cites", "Round Reports", "Open Source", "Full Text", "Facebook?"])
+
+    num_schools = len(schools)
+    counter = 0
+
     for school in schools:
+
+        counter += 1
+
         school_name = school[0]
         school_url = url + school[1]
 
-        print(school_name)
+        print(school_name, str(round(counter/num_schools, 3)))
         table = checkSchool(school_url)
         if not isinstance(table, str):
             school_writer.writerow([school_name, len(table)])
 
             for index, row in table.iterrows():
-                last_name = row['Debater'].split()[-1]
+                debater_name = row['Debater']
+                first_name = debater_name.split()[-2]
+                last_name = debater_name.split()[-1]
                 aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
                 neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
-                print(last_name + " Aff: " + str(aff_results))
-                print(last_name + " Neg: " + str(neg_results))
+                debater_writer.writerow([school_name, first_name, last_name, "Aff"] + aff_results)
+                debater_writer.writerow([school_name, first_name, last_name, "Neg"] + neg_results)
 
         else:
             school_writer.writerow([school_name, 0])
-            print(0)
             
 
 # for a given archive year, return all schools
@@ -89,11 +99,20 @@ def checkSchool(url):
 def checkPage(url):
 
     
-    html = urlopen(url).read()
+    try:
+        html = urlopen(url).read()
+    except Exception:
+        return [-1, -1, -1, -1]
+    
     soup = BeautifulSoup(html, "html.parser")
+    
+    tables = len(soup.find_all("table"))
 
     # round reports
-    table = soup.find_all("table")[0]
+    if tables > 0:
+        table = soup.find_all("table")[0]
+    else:
+        return [-1, -1, -1, -1]
     
     n_rows = 0
     n_columns = 0
@@ -128,7 +147,10 @@ def checkPage(url):
         total_rounds = len(datatable)
 
     # cites box
-    table = soup.find_all("table")[1]
+    if tables > 1:
+        table = soup.find_all("table")[1]
+    else:
+        return [-1, -1, -1, -1]
     
     n_rows = 0
     n_columns = 0
@@ -162,11 +184,20 @@ def checkPage(url):
         
         total_cites = len(datatable)
 
-    total_rr = len(soup.find_all(text=lambda x: x and "report.png" in x))
+    total_rr = str(html).count("report.png")
     total_os = len(soup.find_all(text=lambda x: x and ".docx" in x))
+    
+    facebook = False
+    full_text = 0
+    cites = soup.find_all("div", {"name": "entry"})
+    for cite in cites:
+        text = cite.text
+        if "facebook" in text:
+            facebook = True
+        if len(text) > 10000:
+            full_text += 1
 
-
-    return total_rounds, total_cites, total_rr, total_os
+    return [total_rounds, total_cites, total_rr, total_os, full_text, facebook]
     
 
 if __name__ == "__main__":
