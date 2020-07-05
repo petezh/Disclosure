@@ -18,17 +18,23 @@ def main():
 
     # get tournament list
     tournies = csv.reader(open("tournaments.csv", 'r'))
-
+    tourny_info = csv.writer(open("tourn_info.csv", 'w'),lineterminator = "\n")
+    tourny_info.writerow(["Name", "ID", "Year", "Date", "City", "State"])
+    
     # skip headers
     next(tournies)
     
     # for all selected tournies
     for tourny in tournies:
 
-        # [date, year, city, state] = getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1])
-
+        
+        
         tourny_name = tourny[0]
         url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
+
+        tourny_info.writerow([tourny_name, tourny[1]] + getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1]))
+
+
         print("Trying " + tourny_name)
 
         if(path.exists("tab_data/" + tourny_name + ".csv")):
