@@ -17,50 +17,54 @@ events = ld_names + pf_names + policy_names
 def main():
 
     # get tournament list
-    tournies = csv.reader(open("tournaments.csv", 'r'))
-    tourny_info = csv.writer(open("tourn_info.csv", 'w'),lineterminator = "\n")
-    tourny_info.writerow(["Name", "ID", "Year", "Date", "City", "State"])
-    
-    # skip headers
-    next(tournies)
-    
-    # for all selected tournies
-    for tourny in tournies:
+    with open("tournaments.csv", 'r') as tourn_csv:
+        tournies = csv.reader(tourn_csv)
+        tourny_rows = [["Name", "ID", "Year", "Date", "City", "State"]]
 
         
+        # skip headers
+        next(tournies)
         
-        tourny_name = tourny[0]
-        url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
+        # for all selected tournies
+        for tourny in tournies:
 
-        tourny_info.writerow([tourny_name, tourny[1]] + getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1]))
+            tourny_name = tourny[0]
+            url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
 
-
-        print("Trying " + tourny_name)
-
-        if(path.exists("tab_data/" + tourny_name + ".csv")):
-            print("Exists already.")
-        else:
-            # get events
-            event_urls = getEvents(url)
-
-            frames = []
-
-            for event_url in event_urls:
-                
-                url = event_url[1]
-                event = event_url[0]
-                
-                # append results
-                if event in events:
-                    print(event)
-                    frames = frames + [getEntries(url, event)]
-
-            # send to csv
-            if len(frames) == 0:
-                print("No entries found for " + tourny_name)
+            if len(tourny) < 6:
+                tourny_rows += [[tourny_name, tourny[1]] + getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1])]
             else:
-                pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
-                print("Done!")
+                tourny_rows += [tourny]
+
+            print("Trying " + tourny_name)
+
+            if(path.exists("tab_data/" + tourny_name + ".csv")):
+                print("Exists already.")
+            else:
+                # get events
+                event_urls = getEvents(url)
+
+                frames = []
+
+                for event_url in event_urls:
+                    
+                    url = event_url[1]
+                    event = event_url[0]
+                    
+                    # append results
+                    if event in events:
+                        print(event)
+                        frames = frames + [getEntries(url, event)]
+
+                # send to csv
+                if len(frames) == 0:
+                    print("No entries found for " + tourny_name)
+                else:
+                    pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
+                    print("Done!")
+
+    tourny_info = csv.writer(open("tournaments.csv", 'w'),lineterminator = "\n")
+    tourny_info.writerows(tourny_rows)
 
 # extract tournament info
 def getInfo(url):
