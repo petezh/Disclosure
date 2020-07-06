@@ -1,18 +1,18 @@
-Name,URL
-grapevine2019,13121
-loyola2019,13128
-yale2019,13112
-greenhill2019,13327
-longbeach2019,13153
-valley2019,13453
-holycross2019,12515
-presentation2019,13090
-heriage2019,12925
-marks2019,13406
-harvard2020,13670
-cal2020,13822
-lakeland2020,14039
-harvard2019,10663
-cal2019,10274
-hw2019,11584
-bronx2018,8739
+Name,ID,Year,Date,City,State
+grapevine2019,13121,9/6 to 9/7,2019,GRAPEVINE,TX/US
+loyola2019,13128,9/6 to 9/8,2019,Los Angeles,CA/US
+yale2019,13112,9/13 to 9/15,2019,New Haven,CT/US
+greenhill2019,13327,9/12 to 9/16,2019,Addison,TX/US
+longbeach2019,13153,9/21 to 9/23,2019,Long Beach,CA/US
+valley2019,13453,9/21 to 9/23,2019,West Des Moines,IA/US
+holycross2019,12515,9/27 to 9/28,2019,New Orleans,LA/US
+presentation2019,13090,10/11 to 10/14,2019,San Jose,CA/US
+heriage2019,12925,10/12 to 10/14,2019,Oklahoma City,OK/US
+marks2019,13406,10/18 to 10/20,2019,Dallas,TX/US
+harvard2020,13670,2/13 to 2/17,2020,Cambridge,MA/US
+cal2020,13822,2/15 to 2/17,2020,Berkeley,CA/US
+lakeland2020,14039,2/27 to 3/1,2020,Shrub Oak,NY/US
+harvard2019,10663,2/15 to 2/18,2019,Cambridge,MA/US
+cal2019,10274,2/16 to 2/18,2019,Berkeley,CA/US
+hw2019,11584,1/17 to 1/21,2019,Los Angeles,CA/US
+bronx2018,8739,10/12 to 10/14,2018,Bronx,NY/US
