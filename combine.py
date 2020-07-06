@@ -12,23 +12,25 @@ for row in wiki_reader:
     wiki_dict[name] = row
 
 def main():
-    tournaments = ["harvard2019", "hw2019", "bronx2018"]
+    tournaments = ["harvard2019", "hw2019", "bronx2018", "cal2019"]
     for tourn in tournaments:
         checkTournament(tourn)
 
 def checkTournament(id):
     
     tab_data = csv.reader(open("tab_data/" + id + ".csv", 'r'))
-    next(tab_data)
+    header = next(tab_data)
 
     total = 0
     has_wiki = 0
     rr = 0
     os = 0
     for row in tab_data:
-        if row[5] in ld_names:
+        event_index = header.index("Event")
+        if row[event_index] in ld_names:
             total += 1
-            name = row[3].lower()
+            entry_index = header.index("Entry")
+            name = row[entry_index].lower()
             
             if name in wiki_dict:
                 has_wiki += 1
