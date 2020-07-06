@@ -6,6 +6,9 @@ import csv
 import os.path
 from os import path
 
+
+TOURNAMENT_CSV = 'processed.csv'
+
 # event names
 ld_names = ["LD", "VLD", "Varsity LD", "Lincoln Douglas", "Varsity Lincoln Douglas", "Lincoln-Douglas Debate", "Open LD", "Open Lincoln Douglas"]
 pf_names = ["PF", "PFD", "VPF", "Varsity PF", "Public Forum", "Varsity Public Forum", "Public Forum Debate", "Open PF", "Open Public Forum"]
@@ -17,7 +20,7 @@ events = ld_names + pf_names + policy_names
 def main():
 
     # get tournament list
-    with open("tournaments.csv", 'r') as tourn_csv:
+    with open(TOURNAMENT_CSV, 'r') as tourn_csv:
         tournies = csv.reader(tourn_csv)
         tourny_rows = [["Name", "ID", "Year", "Date", "City", "State"]]
 
@@ -31,12 +34,13 @@ def main():
             tourny_name = tourny[0]
             url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
 
+            print("Trying " + tourny_name)
+
             if len(tourny) < 6:
                 tourny_rows += [[tourny_name, tourny[1]] + getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1])]
             else:
                 tourny_rows += [tourny]
 
-            print("Trying " + tourny_name)
 
             if(path.exists("tab_data/" + tourny_name + ".csv")):
                 print("Exists already.")
@@ -63,7 +67,7 @@ def main():
                     pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
                     print("Done!")
 
-    tourny_info = csv.writer(open("tournaments.csv", 'w'),lineterminator = "\n")
+    tourny_info = csv.writer(open(TOURNAMENT_CSV, 'w'),lineterminator = "\n")
     tourny_info.writerows(tourny_rows)
 
 # extract tournament info
@@ -76,8 +80,12 @@ def getInfo(url):
     
     year = info.split('—')[0].strip()
     location = info.split('—')[1].strip()
-    city = location.split(',')[0].strip()
-    state = location.split(',')[1].strip()
+    if ',' in location:
+        city = location.split(',')[0].strip()
+        state = location.split(',')[1].strip()
+    else:
+        city = ""
+        state = location
 
     
     info = soup.find_all('span', {'class' : 'smaller half'})[0].text

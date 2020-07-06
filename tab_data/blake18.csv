@@ -1,0 +1,411 @@
+,School,Locale,Entry,Code,Status,Event
+0,Aberdeen Central HS,SD/US,Hunter Ringgenberg,Aberdeen Central HR,In,Lincoln Douglas
+1,Apple Valley HS,MN/US,Brandon Schellhaass,Apple Valley BS,In,Lincoln Douglas
+2,Apple Valley HS,MN/US,John Schwartz,Apple Valley JS,In,Lincoln Douglas
+3,Apple Valley HS,MN/US,Morgen Allen,Apple Valley MA,In,Lincoln Douglas
+4,Apple Valley HS,MN/US,Nora Bolsoni,Apple Valley NB,In,Lincoln Douglas
+5,Apple Valley HS,MN/US,Serena Abraham,Apple Valley SA,In,Lincoln Douglas
+6,Apple Valley HS,MN/US,Tai Henrichs,Apple Valley TH,In,Lincoln Douglas
+7,Appleton East HS,WI/US,Matthew Moorhead,Appleton East MM,In,Lincoln Douglas
+8,Canyon Crest Independent,CA/US,Catherine Wang,Canyon Crest Independent CW,In,Lincoln Douglas
+9,Canyon Crest Independent,CA/US,Jacob Spiegelman,Canyon Crest Independent JS,In,Lincoln Douglas
+10,Canyon Crest Independent,CA/US,Jason Yang,Canyon Crest Independent JY,In,Lincoln Douglas
+11,Canyon Crest Independent,CA/US,Samuel Xiong,Canyon Crest Independent SX,In,Lincoln Douglas
+12,Chaska HS,MN/US,Daylon Prochaska,Chaska DP,In,Lincoln Douglas
+13,Cypress Bay HS,FL/US,Haziq Latif-Jangda,Cypress Bay HL,In,Lincoln Douglas
+14,Cypress Bay HS,FL/US,Isabella Mason,Cypress Bay IM,In,Lincoln Douglas
+15,Eagan HS,MN/,Aadarsh Akula,Eagan AA,In,Lincoln Douglas
+16,Eagan HS,MN/,Ashley Chen,Eagan AC,In,Lincoln Douglas
+17,Eagan HS,MN/,Arush Iyer,Eagan AI,In,Lincoln Douglas
+18,Eagan HS,MN/,Ankitha Kumar,Eagan AK,In,Lincoln Douglas
+19,Eagan HS,MN/,Aarushi Sen,Eagan AS,In,Lincoln Douglas
+20,Eagan HS,MN/,Bianca Turman,Eagan BT,In,Lincoln Douglas
+21,Eastlake High School,WA/US,Jenna Yuan,Eastlake JY,In,Lincoln Douglas
+22,Edgemont HS,NY/US,Anuj Jain,Edgemont AJ,In,Lincoln Douglas
+23,Edgemont HS,NY/US,Helena Lew-Kiedrowska,Edgemont HL,In,Lincoln Douglas
+24,Edgemont HS,NY/US,Jade Jang,Edgemont JJ,In,Lincoln Douglas
+25,Edgemont HS,NY/US,Riya Ganpati,Edgemont RG,In,Lincoln Douglas
+26,Edina HS,MN/US,Atman Jahagirdar,Edina AJ,In,Lincoln Douglas
+27,Edina HS,MN/US,Ellen Mi,Edina EM,In,Lincoln Douglas
+28,Edina HS,MN/US,Kathleen Scoggin,Edina KS,In,Lincoln Douglas
+29,Edina HS,MN/US,Leo Hickey,Edina LH,In,Lincoln Douglas
+30,Edina HS,MN/US,Mark Kivimaki,Edina MK,In,Lincoln Douglas
+31,Edina HS,MN/US,Matthew Ruppert,Edina MR,In,Lincoln Douglas
+32,Edina HS,MN/US,Rahil Modi,Edina RM,In,Lincoln Douglas
+33,Edina HS,MN/US,Sandra Chen,Edina SC,In,Lincoln Douglas
+34,Edina HS,MN/US,Stella Olken-Hunt,Edina SO,In,Lincoln Douglas
+35,Evanston Twp HS,IL/US,Henry Eberhart,Evanston Twp HE,In,Lincoln Douglas
+36,Evanston Twp HS,IL/US,Luis Toro,Evanston Twp LT,In,Lincoln Douglas
+37,Evanston Twp HS,IL/US,Quinn Hughes,Evanston Twp QH,In,Lincoln Douglas
+38,Greenhill School,TX/US,Anna Myers,Greenhill AM,In,Lincoln Douglas
+39,Greenhill School,TX/US,Anais Zhang,Greenhill AZ,In,Lincoln Douglas
+40,Greenhill School,TX/US,Mihir Rai,Greenhill MR,In,Lincoln Douglas
+41,Halstrom Academy,CA/US,Ronak Ahuja,Halstrom RA,In,Lincoln Douglas
+42,Hattiesburg High School,MS/US,Owen Sayre,Hattiesburg OS,In,Lincoln Douglas
+43,Homewood-Flossmoor High School,IL/US,George Waddell,Homewood-Flossmoor GW,In,Lincoln Douglas
+44,Homewood-Flossmoor High School,IL/US,Tiana Sharpe,Homewood-Flossmoor TS,In,Lincoln Douglas
+45,Hopkins High School,MN/US,Alexander Lapoint,Hopkins AL,In,Lincoln Douglas
+46,Hopkins High School,MN/US,Ezana Tedla,Hopkins ET,In,Lincoln Douglas
+47,Interlake,WA/US,Megan Wu,Interlake MW,In,Lincoln Douglas
+48,Kamiak High School,WA/US,Niko Battle,Kamiak NB,In,Lincoln Douglas
+49,Lakeville North HS,MN/US,Kristin Neary,Lakeville North KN,In,Lincoln Douglas
+50,Lakeville North HS,MN/US,Lizzie Tullis,Lakeville North LT,In,Lincoln Douglas
+51,Lakeville North HS,MN/US,Shashwot Tripathy,Lakeville North ST,In,Lincoln Douglas
+52,Lakeville South,MN/US,Logan Stenzel,Lakeville South LS,In,Lincoln Douglas
+53,Lakeville South,MN/US,Nina Baker,Lakeville South NB,In,Lincoln Douglas
+54,Lexington HS,MA/US,Avery Fortier,Lexington AF,In,Lincoln Douglas
+55,Lexington HS,MA/US,Evan Li,Lexington EL,In,Lincoln Douglas
+56,Lexington HS,MA/US,Jeffrey Gu,Lexington JG,In,Lincoln Douglas
+57,Lexington HS,MA/US,Kevin Yang,Lexington KY,In,Lincoln Douglas
+58,Lexington HS,MA/US,Pranathi Srirangam,Lexington PS,In,Lincoln Douglas
+59,Lexington HS,MA/US,Simran Gandhi,Lexington SG,In,Lincoln Douglas
+60,Lincoln HS,OR/,Alex Wei,Lincoln AW,In,Lincoln Douglas
+61,Lincoln HS,OR/,Natalie Wang,Lincoln NW,In,Lincoln Douglas
+62,Millard North HS,NE/US,Ben Lampman,Millard North BL,In,Lincoln Douglas
+63,Millard West High School,NE/US,Chris Jackson,Millard West CJ,In,Lincoln Douglas
+64,Minnetonka HS,MN/US,Christian Hilgemann,Minnetonka CH,In,Lincoln Douglas
+65,Minnetonka HS,MN/US,Emil Liden,Minnetonka EL,In,Lincoln Douglas
+66,Minnetonka HS,MN/US,Ethan Mirman,Minnetonka EM,In,Lincoln Douglas
+67,Minnetonka HS,MN/US,Priscilla Bunday,Minnetonka PB,In,Lincoln Douglas
+68,Minnetonka HS,MN/US,Rachel Park,Minnetonka RP,In,Lincoln Douglas
+69,NSU,FL/US,Sebastian Frazier,NSU SF,In,Lincoln Douglas
+70,Needham HS,MA/US,Zachary Lu,Needham ZL,In,Lincoln Douglas
+71,New Trier High School,IL/US,Patrick Tolan,New Trier PT,In,Lincoln Douglas
+72,Newark Science,NJ/US,Osmane Sanogo,Newark Science OS,In,Lincoln Douglas
+73,Newark Science,NJ/US,Simone Braithwaite,Newark Science SB,In,Lincoln Douglas
+74,Newark Science,NJ/US,Temitope Ogundare,Newark Science TO,In,Lincoln Douglas
+75,Niskayuna High School,NY/US,Shreyas Ramanujam,Niskayuna SR,In,Lincoln Douglas
+76,North Star Academy CPHS,NJ/US,Jada Darby,North Star Academy CPHS JD,In,Lincoln Douglas
+77,Oak Hall,FL/US,Kumail Zaidi,Oak Hall KZ,In,Lincoln Douglas
+78,Park City,UT/US,Aidin O'Brien,Park City AO,In,Lincoln Douglas
+79,Pennsbury HS,PA/US,Carolyn Zou,Pennsbury CZ,In,Lincoln Douglas
+80,Ridge High School,NJ/US,Alan Liu,Ridge AL,In,Lincoln Douglas
+81,Rosemount,MN/US,Andy Soileau,Rosemount AS,In,Lincoln Douglas
+82,Rosemount,MN/US,An Thai,Rosemount AT,In,Lincoln Douglas
+83,Rosemount,MN/US,Michelle Quan,Rosemount MQ,In,Lincoln Douglas
+84,Rosemount,MN/US,Tanvi Adige,Rosemount TA,In,Lincoln Douglas
+85,Roseville Area,MN/US,Elyse Colihan,Roseville Area EC,In,Lincoln Douglas
+86,STA/Vis,MN/US,Isabel Brandt,STA/Vis IB,In,Lincoln Douglas
+87,STA/Vis,MN/US,Pierce Moberg,STA/Vis PM,In,Lincoln Douglas
+88,STA/Vis,MN/US,Thomas Lund,STA/Vis TL,In,Lincoln Douglas
+89,Scarsdale HS,NY/US,Bohan Ma,Scarsdale BM,In,Lincoln Douglas
+90,Scarsdale HS,NY/US,Curtis Chang,Scarsdale CC,In,Lincoln Douglas
+91,Scarsdale HS,NY/US,Felicity Huang,Scarsdale FH,In,Lincoln Douglas
+92,Scarsdale HS,NY/US,Sanjana Bhatnagar,Scarsdale SB,In,Lincoln Douglas
+93,Scarsdale HS,NY/US,Sally Ho,Scarsdale SH,In,Lincoln Douglas
+94,Scarsdale HS,NY/US,Vivian Guo,Scarsdale VG,In,Lincoln Douglas
+95,Scarsdale HS,NY/US,Will Musoff,Scarsdale WM,In,Lincoln Douglas
+96,Scarsdale HS,NY/US,Zachary Siegel,Scarsdale ZS,In,Lincoln Douglas
+97,Sioux Falls,SD/US,Areej Nazir,Sioux Falls AN,In,Lincoln Douglas
+98,Sioux Falls,SD/US,Rachel Overstreet,Sioux Falls RO,In,Lincoln Douglas
+99,Southwoods,IA/US,Alyssa Ashmore,Southwoods AA,In,Lincoln Douglas
+100,Southwoods,IA/US,Claire Gilbert,Southwoods CG,In,Lincoln Douglas
+101,Southwoods,IA/US,Thomas Knudsen,Southwoods TK,In,Lincoln Douglas
+102,Strath Haven,PA/US,William Lee,Strath Haven WL,In,Lincoln Douglas
+103,University,OH/US,Nehal Chigurupati,University NC,In,Lincoln Douglas
+104,University,OH/US,Saavan Patel,University SP,In,Lincoln Douglas
+105,W. Broward,FL/US,Ethan Massa,W. Broward EM,In,Lincoln Douglas
+106,Washington HS,SD/US,Catherine Liu,Washington CL,In,Lincoln Douglas
+107,West Bend,WI/US,Caitlin Marsch,West Bend CM,In,Lincoln Douglas
+108,West Des Moines Valley HS,IA/US,Animesh Joshi,West Des Moines Valley AJ,In,Lincoln Douglas
+109,West Des Moines Valley HS,IA/US,Braedon Kirkpatrick,West Des Moines Valley BK,In,Lincoln Douglas
+110,West Des Moines Valley HS,IA/US,Caleb Bray,West Des Moines Valley CB,In,Lincoln Douglas
+111,West Des Moines Valley HS,IA/US,Conal Thomas-McGinnis,West Des Moines Valley CT,In,Lincoln Douglas
+112,West Des Moines Valley HS,IA/US,Isabella Nadel,West Des Moines Valley IN,In,Lincoln Douglas
+113,West Des Moines Valley HS,IA/US,James Meng,West Des Moines Valley JM,In,Lincoln Douglas
+114,West Des Moines Valley HS,IA/US,Jalyn Wu,West Des Moines Valley JW,In,Lincoln Douglas
+115,West Des Moines Valley HS,IA/US,Kauai Cua,West Des Moines Valley KC,In,Lincoln Douglas
+116,West Des Moines Valley HS,IA/US,Lucas Bryant,West Des Moines Valley LB,In,Lincoln Douglas
+117,West Des Moines Valley HS,IA/US,Lauren Gilbert,West Des Moines Valley LG,In,Lincoln Douglas
+118,West Des Moines Valley HS,IA/US,Mia Dukle,West Des Moines Valley MD,In,Lincoln Douglas
+119,West Linn,OR/US,Dennis Tang,West Linn DT,In,Lincoln Douglas
+120,William G. Enloe HS,NC/US,Tej Gedela,William G. Enloe TG,In,Lincoln Douglas
+0,Aberdeen Central HS,SD/US,Pastian & Adams,Aberdeen Central PA,In,Policy Debate
+1,Aberdeen Central HS,SD/US,William & Jamal,Aberdeen Central WJ,In,Policy Debate
+2,Baltimore City College HS,MD/US,Palmer & Gallagher,Baltimore City PG,In,Policy Debate
+3,Baltimore City College HS,MD/US,Seaberg & Redditt,Baltimore City SR,In,Policy Debate
+4,Berkeley Preparatory School,FL/US,Kuperman & Dandamudi,Berkeley Prep KD,In,Policy Debate
+5,Berkeley Preparatory School,FL/US,Kanchanapalli & Kuperman,Berkeley Prep KK,In,Policy Debate
+6,Berkeley Preparatory School,FL/US,Kapadia & Zinober,Berkeley Prep KZ,In,Policy Debate
+7,Berkeley Preparatory School,FL/US,Latif & Shahir,Berkeley Prep LS,In,Policy Debate
+8,Berkeley Preparatory School,FL/US,Poe & Williams,Berkeley Prep PW,In,Policy Debate
+9,Boston Latin Academy,MA/US,Iqbal & Pontes,Boston Latin IP,In,Policy Debate
+10,Brooklyn Technical HS,NY/US,Advincula & Senior,Brooklyn Technical AS,In,Policy Debate
+11,Brooklyn Technical HS,NY/US,Wilson & Nishikubo,Brooklyn Technical WN,In,Policy Debate
+12,Brooklyn Technical HS,NY/US,Wolfe & Ravenell,Brooklyn Technical WR,In,Policy Debate
+13,Canyon Crest Independent,CA/US,Guo & Yan,Canyon Crest Independent GY,In,Policy Debate
+14,Cypress Bay HS,FL/US,Berger & Gavsie,Cypress Bay BG,In,Policy Debate
+15,Cypress Bay HS,FL/US,Bhansali & Laurent,Cypress Bay BL,In,Policy Debate
+16,Eagan HS,MN/,Abdulahi & Malhotra,Eagan AM,In,Policy Debate
+17,Eagan HS,MN/,Huang & Vashistha,Eagan HV,In,Policy Debate
+18,Eagan HS,MN/,Krueger & Howard,Eagan KH,In,Policy Debate
+19,Eagan HS,MN/,Liverseed & Sprinthall,Eagan LS,In,Policy Debate
+20,Edgemont HS,NY/US,Bansal & Patel,Edgemont BP,In,Policy Debate
+21,Edgemont HS,NY/US,Shah & Sandhu,Edgemont SS,In,Policy Debate
+22,Edina HS,MN/US,Anderson McElligott & Boorsma Bergerud,Edina AB,In,Policy Debate
+23,Edina HS,MN/US,Atri & Landon,Edina AL,In,Policy Debate
+24,Edina HS,MN/US,Bothwell & Holtmeier,Edina BH,In,Policy Debate
+25,Edina HS,MN/US,McMahon & Murphy,Edina MM,In,Policy Debate
+26,Edina HS,MN/US,Ouyang & Lackner,Edina OL,In,Policy Debate
+27,Edina HS,MN/US,Peter & Konkimalla,Edina PK,In,Policy Debate
+28,Edina HS,MN/US,Ding & Shah,Edina SD,In,Policy Debate
+29,Edina HS,MN/US,Yang & Yang,Edina YY,In,Policy Debate
+30,Georgetown Day School,DC/US,Bhagat & Forsyth,Georgetown Day BF,In,Policy Debate
+31,Georgetown Day School,DC/US,Partman & Ritter,Georgetown Day PR,In,Policy Debate
+32,Glenbrook North,IL/US,Bowles & Miklovis,Glenbrook North BM,In,Policy Debate
+33,Glenbrook North,IL/US,D'Agaro & Farber,Glenbrook North DF,In,Policy Debate
+34,Glenbrook North,IL/US,Jacobs & Karteczka,Glenbrook North JK,In,Policy Debate
+35,Glenbrook North,IL/US,Kaufman & Pandit,Glenbrook North KP,In,Policy Debate
+36,Glenbrook North,IL/US,Nagar & Reznik,Glenbrook North NR,In,Policy Debate
+37,Glenbrook South HS,IL/US,Bhaiji & Roberts,Glenbrook South BR,In,Policy Debate
+38,Glenbrook South HS,IL/US,Baime & Valiaveedu,Glenbrook South BV,In,Policy Debate
+39,Glenbrook South HS,IL/US,Frese & Heublein,Glenbrook South FH,In,Policy Debate
+40,Glenbrook South HS,IL/US,Goldberg & Scott,Glenbrook South GS,In,Policy Debate
+41,Glenbrook South HS,IL/US,Kosack & Skoulikaris,Glenbrook South KS,In,Policy Debate
+42,Greenhill School,TX/US,Eckert & Ahmad,Greenhill EA,In,Policy Debate
+43,Greenhill School,TX/US,Ratnam & Hurst,Greenhill HR,In,Policy Debate
+44,Greenhill School,TX/US,Leffler & Wegener,Greenhill LW,In,Policy Debate
+45,Greenhill School,TX/US,Rothstein & Kwon,Greenhill RK,In,Policy Debate
+46,Greenhill School,TX/US,Tathgir & Zlotky,Greenhill TZ,In,Policy Debate
+47,Highland Park Senior HS,MN/US,Eischens & Groven,Highland Park Senior EG,In,Policy Debate
+48,Highland Park Senior HS,MN/US,Glaser & Kmoch,Highland Park Senior GK,In,Policy Debate
+49,Highland Park Senior HS,MN/US,Kelly & Snowbeck,Highland Park Senior KS,In,Policy Debate
+50,Homestead HS,WI/US,Khan & Mackinnon,Homestead KM,In,Policy Debate
+51,Homestead HS,WI/US,Klemmer & Wei,Homestead KW,In,Policy Debate
+52,Homestead HS,WI/US,Wang & Gao,Homestead WG,In,Policy Debate
+53,Homewood-Flossmoor High School,IL/US,Moore & Berman,Homewood-Flossmoor BM,In,Policy Debate
+54,Iowa City HS,IA/US,Chen & Weiss,Iowa City CW,In,Policy Debate
+55,Juan Diego Catholic,UT/US,Brunisholz & Severo,Juan Diego Catholic BS,In,Policy Debate
+56,Juan Diego Catholic,UT/US,Riveros & Moreno,Juan Diego Catholic RM,In,Policy Debate
+57,Kent Denver School,CO/,Capoot & Tsuei,Kent Denver CT,In,Policy Debate
+58,Kent Denver School,CO/,Halverson & Sullivan,Kent Denver HS,In,Policy Debate
+59,Kent Denver School,CO/,Joseph & Landgraff,Kent Denver JL,In,Policy Debate
+60,Kent Denver School,CO/,Kim & London,Kent Denver KL,In,Policy Debate
+61,Lexington HS,MA/US,Ahmed & Bhandarkar,Lexington AB,In,Policy Debate
+62,Lexington HS,MA/US,Ahmed & Cai,Lexington AC,In,Policy Debate
+63,Lexington HS,MA/US,Blatt & Sen,Lexington BS,In,Policy Debate
+64,Lexington HS,MA/US,Chakravarti & Tang,Lexington CT,In,Policy Debate
+65,Lexington HS,MA/US,Hsu & Zhang,Lexington HZ,In,Policy Debate
+66,Lincoln HS,OR/,Gochee & Schlechter,Lincoln GS,In,Policy Debate
+67,Mamaroneck HS,NY/US,Karas & Ross,Mamaroneck KR,In,Policy Debate
+68,Mamaroneck HS,NY/US,Randall & Sheppard,Mamaroneck RS,In,Policy Debate
+69,Mamaroneck HS,NY/US,Weber & Suben,Mamaroneck WS,In,Policy Debate
+70,Marist School,GA/US,Ovadje & Turnier,Marist TO,In,Policy Debate
+71,McDonogh,MD/US,Wang & Zuga,McDonogh WZ,In,Policy Debate
+72,Millard North HS,NE/US,Graves & Clausen,Millard North GC,In,Policy Debate
+73,Millard West High School,NE/US,Ferris & Wheeler,Millard West FW,In,Policy Debate
+74,Minneapolis South,MN/US,Kaiser-Holt & Hirsi,Minneapolis South HK,In,Policy Debate
+75,Minneapolis South,MN/US,Howell & Nunez,Minneapolis South HN,In,Policy Debate
+76,Minneapolis South,MN/US,Moore & Shuck,Minneapolis South MS,In,Policy Debate
+77,Minneapolis South,MN/US,Phi & Ferguson,Minneapolis South PF,In,Policy Debate
+78,Minneapolis South,MN/US,Stebbings & Chang-Deutsch,Minneapolis South SC,In,Policy Debate
+79,Minneapolis Washburn HS,MN/US,Braun & Jarcho,Minneapolis Washburn BJ,In,Policy Debate
+80,Minneapolis Washburn HS,MN/US,Kleckner & Sprenger-Otto,Minneapolis Washburn KS,In,Policy Debate
+81,Mount Carmel Independent,KS/US,Nguyen & Rocheleau,Mount Carmel Independent RN,In,Policy Debate
+82,New Mission HS/BCLA/ACC,MA/US,Diallo & Mowatt-Mckenzie,New Mission HS/BCLA/ACC DM,In,Policy Debate
+83,New Mission HS/BCLA/ACC,MA/US,Gossop & Ramirez,New Mission HS/BCLA/ACC GR,In,Policy Debate
+84,New Trier High School,IL/US,Altman & Kim,New Trier AK,In,Policy Debate
+85,New Trier High School,IL/US,Ewing & Kadin,New Trier EK,In,Policy Debate
+86,New Trier High School,IL/US,Hecht & McDonough,New Trier HM,In,Policy Debate
+87,New Trier High School,IL/US,Lu & Peng,New Trier LP,In,Policy Debate
+88,New Trier High School,IL/US,Miller & Wittenmyer,New Trier MW,In,Policy Debate
+89,New Trier High School,IL/US,Roytburg & Tobon,New Trier RT,In,Policy Debate
+90,Newark Science,NJ/US,Augustin & Sivanesan,Newark Science AS,In,Policy Debate
+91,North Broward Preparatory School,FL/US,Ardity & Brown,North Broward Prep AB,In,Policy Debate
+92,North Broward Preparatory School,FL/US,Deo & Farronay,North Broward Prep DF,In,Policy Debate
+93,North Broward Preparatory School,FL/US,Mancini & Rabbini,North Broward Prep MR,In,Policy Debate
+94,North Star Academy CPHS,NJ/US,Bryant & Yeboah,North Star Academy CPHS BY,In,Policy Debate
+95,OES,OR/US,Chang & Tsai,OES CT,In,Policy Debate
+96,Peninsula High School,CA/US,Anderson & Sun,Peninsula AS,In,Policy Debate
+97,Peninsula High School,CA/US,Frankwick & Wang,Peninsula FW,In,Policy Debate
+98,Peninsula High School,CA/US,Lu & Qin,Peninsula LQ,In,Policy Debate
+99,Peninsula High School,CA/US,Michalak & Park,Peninsula MP,In,Policy Debate
+100,Rosemount,MN/US,Hathaway & Freeburg,Rosemount HF,In,Policy Debate
+101,Rosemount,MN/US,Huang & Jackson,Rosemount HJ,In,Policy Debate
+102,Rosemount,MN/US,Nozal & Rudd,Rosemount NR,In,Policy Debate
+103,Rosemount,MN/US,Pandari & Smith,Rosemount PS,In,Policy Debate
+104,Roseville Area,MN/US,Jacoby & Forcinito,Roseville Area JF,In,Policy Debate
+105,Roseville Area,MN/US,Vue & Roberto,Roseville Area VR,In,Policy Debate
+106,SF Roosevelt,SD/US,Huntimer & Kumari,SF Roosevelt HK,In,Policy Debate
+107,SF Roosevelt,SD/US,Kroger & Luckett,SF Roosevelt KL,In,Policy Debate
+108,SF Roosevelt,SD/US,Moriarty & Wells,SF Roosevelt MW,In,Policy Debate
+109,SF Roosevelt,SD/US,Wong & Torguson,SF Roosevelt WT,In,Policy Debate
+110,Sioux Falls,SD/US,Mickelson & Mickelson,Sioux Falls MM,In,Policy Debate
+111,Sioux Falls,SD/US,Nash & Chedester,Sioux Falls NC,In,Policy Debate
+112,St. Paul Central,MN/US,Solakhava & Heine,St. Paul Central SH,In,Policy Debate
+113,Strath Haven,PA/US,Ding & Ruan,Strath Haven DR,In,Policy Debate
+114,Strath Haven,PA/US,Lu & Zhang,Strath Haven LZ,In,Policy Debate
+115,Stuyvesant HS,NY/US,Fabrizio & Chen,Stuyvesant Independent FC,In,Policy Debate
+116,Walter Payton College Prep,IL/US,Lawless & Aneesh,Walter Payton CP LA,In,Policy Debate
+117,Washington HS,SD/US,Rosenberg & Nold,Washington RN,In,Policy Debate
+118,Wayzata High School,MN/,He & Ram,Wayzata HR,In,Policy Debate
+119,Wayzata High School,MN/,Imam & Mansingh,Wayzata IM,In,Policy Debate
+120,Wayzata High School,MN/,Kulkarni & Yang,Wayzata KY,In,Policy Debate
+121,Wayzata High School,MN/,Liang & Narayan,Wayzata LN,In,Policy Debate
+122,Wayzata High School,MN/,Prost & Yerraguntala,Wayzata PY,In,Policy Debate
+123,Wayzata High School,MN/,Weber & Yang,Wayzata WY,In,Policy Debate
+124,West,IA/US,Sharda & D'Alessandro,West SD,In,Policy Debate
+125,West Des Moines Valley HS,IA/US,Colbert & Kennett,West Des Moines Valley CK,In,Policy Debate
+126,West Des Moines Valley HS,IA/US,Dukle & Li,West Des Moines Valley DL,In,Policy Debate
+127,West Des Moines Valley HS,IA/US,Dervesh & Simpson,West Des Moines Valley DS,In,Policy Debate
+128,West Des Moines Valley HS,IA/US,Kirkpatrick & Kirkpatrick,West Des Moines Valley KK,In,Policy Debate
+129,Whitney M. Young Magnet High School,IL/US,Mazets & Hammond,Whitney Young MH,In,Policy Debate
+130,Whitney M. Young Magnet High School,IL/US,Margolin & O'Malley,Whitney Young MO,In,Policy Debate
+131,Whitney M. Young Magnet High School,IL/US,Puchowitz & Jacob,Whitney Young PJ,In,Policy Debate
+132,Whitney M. Young Magnet High School,IL/US,Tarasul & Mitchell,Whitney Young TM,In,Policy Debate
+133,Whitney M. Young Magnet High School,IL/US,Wang & Schlosberg,Whitney Young WS,In,Policy Debate
+0,Algonquin Regional High School,MA/US,Tolety & Chen,Algonquin TC,In,Public Forum
+1,Ames,IA/US,Aydinyan & Mkhitaryan,Ames AM,In,Public Forum
+2,Ames,IA/US,Mkhitaryan & Cordoba,Ames MC,In,Public Forum
+3,Andover High School,MN/US,Anderson & Geiss,Andover AG,In,Public Forum
+4,Andover High School,MN/US,Slavik & Voge,Andover SV,In,Public Forum
+5,Bloomington Jefferson HS,MN/,Loken & Pham,Bloomington Jefferson LP,In,Public Forum
+6,C. Leon King High School,FL/US,Meyers & Piechota,C. Leon King MP,In,Public Forum
+7,Charlotte Latin School,NC/US,Gwaltney & Singh,Charlotte Latin GS,In,Public Forum
+8,Chaska HS,MN/US,Chiang & Pool,Chaska CP,In,Public Forum
+9,Chaska HS,MN/US,O'Connor & Veerakumar,Chaska OV,In,Public Forum
+10,Clayton-Bradley Academy,TN/US,Camacho & Cobb,Clayton-Bradley CC,In,Public Forum
+11,Columbus,GA/US,Cady & Abdallah,Columbus CA,In,Public Forum
+12,Cypress Bay HS,FL/US,Smith & Katragadda,Cypress Bay SK,In,Public Forum
+13,Dalton Independent,NY/US,Chapple & Yu,Dalton Independent CY,In,Public Forum
+14,Delbarton School,NJ/US,Amin & Gajewski,Delbarton AG,In,Public Forum
+15,Delbarton School,NJ/US,Fostiropoulos & Waldmann,Delbarton FW,In,Public Forum
+16,Delbarton School,NJ/US,Gulati & Munsey,Delbarton GM,In,Public Forum
+17,Delbarton School,NJ/US,Luo & Townsend,Delbarton LT,In,Public Forum
+18,Delbarton School,NJ/US,Patel & Manahan,Delbarton PM,In,Public Forum
+19,Delbarton School,NJ/US,Teehan & Li,Delbarton TL,In,Public Forum
+20,Delbarton School,NJ/US,Williams & Fraenkel-Thonet,Delbarton WF,In,Public Forum
+21,DuPont Manual High School,KY/US,Cao & Srivastava,DuPont Manual CS,In,Public Forum
+22,Eagan HS,MN/,Anderson & Koch,Eagan AK,In,Public Forum
+23,Eagan HS,MN/,Chino & Ugboajah,Eagan CU,In,Public Forum
+24,Eagan HS,MN/,Garishakurti & Victor,Eagan GV,In,Public Forum
+25,Eagan HS,MN/,Hedeman & Li,Eagan HL,In,Public Forum
+26,Eagan HS,MN/,Hagape & Shah,Eagan HS,In,Public Forum
+27,Eagan HS,MN/,Panchal & Bowen,Eagan PB,In,Public Forum
+28,Eagan HS,MN/,Patel & Scheller,Eagan PS,In,Public Forum
+29,East Ridge High School,MN/US,Padmanabhan & McManus,East Ridge PM,In,Public Forum
+30,Eastview HS,MN/US,Alapati & Addagudi,Eastview AA,In,Public Forum
+31,Eastview HS,MN/US,Kapur & Thota,Eastview KT,In,Public Forum
+32,Edgemont HS,NY/US,Friedman & Mandadjiev,Edgemont FM,In,Public Forum
+33,Edgemont HS,NY/US,Lin & Malik,Edgemont LM,In,Public Forum
+34,Edgemont HS,NY/US,Wang & Masan,Edgemont MW,In,Public Forum
+35,Edgemont HS,NY/US,Nair & Bhaskara,Edgemont NB,In,Public Forum
+36,Edgemont HS,NY/US,Salimi & Kang,Edgemont SaKa,In,Public Forum
+37,Edgemont HS,NY/US,Semimoto & Kong,Edgemont SK,In,Public Forum
+38,Edgemont HS,NY/US,Yang & Guo,Edgemont YG,In,Public Forum
+39,Edina HS,MN/US,Chochrek & Chen,Edina CC,In,Public Forum
+40,Edina HS,MN/US,Garimella & Bafna,Edina GB,In,Public Forum
+41,Edina HS,MN/US,Jones & Maynor,Edina JM,In,Public Forum
+42,Edina HS,MN/US,Jiang & Wu,Edina JW,In,Public Forum
+43,Edina HS,MN/US,Nissen & Teske,Edina NT,In,Public Forum
+44,Edina HS,MN/US,Rewalliwar & Fu,Edina RF,In,Public Forum
+45,Edina HS,MN/US,Shilts & Ishani,Edina SI,In,Public Forum
+46,Edina HS,MN/US,Tessmer-Tuck & Smalley,Edina TS,In,Public Forum
+47,Evanston Twp HS,IL/US,Allen & Lipman,Evanston Twp AL,In,Public Forum
+48,Evanston Twp HS,IL/US,Hartenstein & Ringstad,Evanston Twp HR,In,Public Forum
+49,Evanston Twp HS,IL/US,Johnson & Ward,Evanston Twp JW,In,Public Forum
+50,Fargo Shanley HS,ND/US,Bowden & Winkleman,Fargo Shanley BW,In,Public Forum
+51,Fargo Shanley HS,ND/US,Grimestad & Oschner,Fargo Shanley GO,In,Public Forum
+52,Fargo Shanley HS,ND/US,Ward & Krings,Fargo Shanley WK,In,Public Forum
+53,Horace Mann HS,NY/US,Granmayeh & Snyder,Horace Mann GS,In,Public Forum
+54,Horace Mann HS,NY/US,He & Lee,Horace Mann HL,In,Public Forum
+55,Horace Mann HS,NY/US,Mehrotra & Kim,Horace Mann MK,In,Public Forum
+56,Horace Mann HS,NY/US,Moolji & Moolji,Horace Mann MM,In,Public Forum
+57,Horace Mann HS,NY/US,Sanger & Jin,Horace Mann SJ,In,Public Forum
+58,Horace Mann HS,NY/US,Soodak & Mark,Horace Mann SM,In,Public Forum
+59,Hunter College,NY/US,Bovenzi & Xing,Hunter BX,In,Public Forum
+60,James Madison Memorial,WI/US,Faliski & Liu,James Madison Memorial FL,In,Public Forum
+61,James Madison Memorial,WI/US,Golkonda & Voichick,James Madison Memorial GV,In,Public Forum
+62,James Madison Memorial,WI/US,Sugeeth Sathish,James Madison Memorial SS,In,Public Forum
+63,Lake Mary Prep,FL/US,Huang & Manfredi,Lake Mary Prep HM,In,Public Forum
+64,Lakeland,NY/US,Dakaj & Ramaswamy,Lakeland DR,In,Public Forum
+65,Lakeland,NY/US,Gewida & Sarcone,Lakeland GS,In,Public Forum
+66,Lakeland,NY/US,Makajhani & Chisolhm,Lakeland MC,In,Public Forum
+67,Lakeville North HS,MN/US,Hentges & Sciamanda,Lakeville North HS,In,Public Forum
+68,Lakeville North HS,MN/US,Nenneman & Sciamanda,Lakeville North NS,In,Public Forum
+69,Lakeville South,MN/US,Cook & Tullis,Lakeville South CT,In,Public Forum
+70,Lakeville South,MN/US,Gerlach & McCoy,Lakeville South GM,In,Public Forum
+71,Lakeville South,MN/US,Gajjela & Nomeland,Lakeville South GN,In,Public Forum
+72,Livingston High School,NJ/US,Hall & Saxena,Livingston HS,In,Public Forum
+73,Livingston High School,NJ/US,Kim & Reiter,Livingston KR,In,Public Forum
+74,Madison West High School,WI/US,Amann & Lee,Madison West AL,In,Public Forum
+75,Madison West High School,WI/US,Cohen & Noguera,Madison West CN,In,Public Forum
+76,Madison West High School,WI/US,Cohen & Sidney,Madison West CS,In,Public Forum
+77,Madison West High School,WI/US,Grabois & Kissel,Madison West GK,In,Public Forum
+78,Madison West High School,WI/US,Heintz & Waller,Madison West HW,In,Public Forum
+79,Madison West High School,WI/US,Patankar & Ronk,Madison West PR,In,Public Forum
+80,Maple Grove,MN/US,Ali & Golakoti,Maple Grove AG,In,Public Forum
+81,Marist School,GA/US,Nahas & Langner,Marist NL,In,Public Forum
+82,Marist School,GA/US,Sjostrom & Verska,Marist SV,In,Public Forum
+83,Marist School,GA/US,Vance & Walker,Marist VW,In,Public Forum
+84,Millard North HS,NE/US,Rankin & Zhu,Millard North RZ,In,Public Forum
+85,Millard North HS,NE/US,Shelton & Niu,Millard North SN,In,Public Forum
+86,Millard West High School,NE/US,Ahrenholtz & Newsome,Millard West AN,In,Public Forum
+87,Millard West High School,NE/US,Blumenthal & Spence,Millard West BS,In,Public Forum
+88,Millard West High School,NE/US,Dodds & Kuzala,Millard West DK,In,Public Forum
+89,Mission San Jose Independent,CA/US,Maunder & Koppurapu,Mission San Jose Independent MK,In,Public Forum
+90,New Trier High School,IL/US,Bozkurt & Orhon,New Trier BO,In,Public Forum
+91,Newton South HS,MA/US,Fudim & Lewis,Newton South FL,In,Public Forum
+92,Newton South HS,MA/US,Garg & Sridhar,Newton South GS,In,Public Forum
+93,Newton South HS,MA/US,Jones & Li,Newton South JL,In,Public Forum
+94,Newton South HS,MA/US,Ramana & Silvian,Newton South RS,In,Public Forum
+95,Newton South HS,MA/US,Chasse & Wu,Newton South WC,In,Public Forum
+96,North Broward Preparatory School,FL/US,Cooper & Frost,North Broward Prep CF,In,Public Forum
+97,North Broward Preparatory School,FL/US,Katz & Peterson,North Broward Prep KP,In,Public Forum
+98,Oxbridge Academy of the Palm Beache,FL/US,Casey & Hoffman,Oxbridge Academy of the Palm Beaches CH,In,Public Forum
+99,Oxbridge Academy of the Palm Beache,FL/US,Goetschius & Stewart,Oxbridge Academy of the Palm Beaches GS,In,Public Forum
+100,Oxbridge Academy of the Palm Beache,FL/US,Koeppel & Murray,Oxbridge Academy of the Palm Beaches MK,In,Public Forum
+101,Oxbridge Academy of the Palm Beache,FL/US,Tarone & Coates,Oxbridge Academy of the Palm Beaches TC,In,Public Forum
+102,Packer Collegiate Institute,NY/US,Champagne & Luckett,Packer Collegiate Institute CL,In,Public Forum
+103,Packer Collegiate Institute,NY/US,Horwitz & Yohn,Packer Collegiate Institute YH,In,Public Forum
+104,Park City,UT/US,Johnson & Gilbert,Park City JG,In,Public Forum
+105,Park City,UT/US,Williams & Efrusy,Park City WE,In,Public Forum
+106,Poly Prep Country Day School,NY/US,Kaye & Fernandez,Poly Prep Country Day KF,In,Public Forum
+107,Ridge High School,NJ/US,Kutty & Wang,Ridge KW,In,Public Forum
+108,Ridge High School,NJ/US,Raviarasan & Wen,Ridge RW,In,Public Forum
+109,Ridge High School,NJ/US,Sun & Mamun,Ridge SM,In,Public Forum
+110,SF Roosevelt,SD/US,Grismer & Svenningsen,SF Roosevelt GS,In,Public Forum
+111,SF Roosevelt,SD/US,Howard & Campbell,SF Roosevelt HC,In,Public Forum
+112,SF Roosevelt,SD/US,Johnson & Fandel,SF Roosevelt JF,In,Public Forum
+113,SF Roosevelt,SD/US,Johnson & Loera,SF Roosevelt JL,In,Public Forum
+114,SF Roosevelt,SD/US,Moshoeshoe & Lima,SF Roosevelt ML,In,Public Forum
+115,St Michael Albertville HS,MN/US,Albrecht & Szymanski,St Michael Albertville AS,In,Public Forum
+116,Stuyvesant HS,NY/US,Sword & Lee,Stuyvesant Independent SL,In,Public Forum
+117,The Blake School,MN/US,Wu & Swigert,Blake WS,In,Public Forum
+118,The Boca Debate Academy,FL/US,Livingstone & Loesel,Boca LL,In,Public Forum
+119,The Boca Debate Academy,FL/US,Sastre & Dahan,Boca SD,In,Public Forum
+120,The Boca Debate Academy,FL/US,Walters & Ponters,Boca WP,In,Public Forum
+121,The Potomac School,VA/US,Abbasi & Abbasi,Potomac AA,In,Public Forum
+122,The Potomac School,VA/US,Kwon & Shenkman,Potomac KS,In,Public Forum
+123,Theodore Roosevelt High School,IA/US,Appel & Chilukuri,Theodore Roosevelt AC,In,Public Forum
+124,Theodore Roosevelt High School,IA/US,Andersen & Morgan,Theodore Roosevelt AM,In,Public Forum
+125,University,OH/US,Ganesh & Paik,University GP,In,Public Forum
+126,University,OH/US,Mayor & Kang,University MK,In,Public Forum
+127,University,OH/US,Yan & Karnati,University YK,In,Public Forum
+128,Walt Whitman,MD/US,Ali & Wenger,Walt Whitman AW,In,Public Forum
+129,Walt Whitman,MD/US,Brown & Olson,Walt Whitman BO,In,Public Forum
+130,Walt Whitman,MD/US,Baisinger-Rosen & Weerakoon,Walt Whitman BW,In,Public Forum
+131,Walt Whitman,MD/US,Dronamraju & Gujaran,Walt Whitman DG,In,Public Forum
+132,Walt Whitman,MD/US,Feuer & Hepburn,Walt Whitman FH,In,Public Forum
+133,Walt Whitman,MD/US,Gilman & Gude,Walt Whitman GG,In,Public Forum
+134,Walt Whitman,MD/US,Gauri & Trainor,Walt Whitman GT,In,Public Forum
+135,Walt Whitman,MD/US,Hirsh & Liles,Walt Whitman HL,In,Public Forum
+136,Walt Whitman,MD/US,Kaufmann & Khan,Walt Whitman KK,In,Public Forum
+137,Walt Whitman,MD/US,Koritz-Hawkes & Papaioannou,Walt Whitman KP,In,Public Forum
+138,Walt Whitman,MD/US,Lennie & O'Connell,Walt Whitman LO,In,Public Forum
+139,Walt Whitman,MD/US,McGuire & Haber,Walt Whitman MH,In,Public Forum
+140,Walt Whitman,MD/US,Rock & Singer,Walt Whitman RS,In,Public Forum
+141,Walt Whitman,MD/US,Steighner & Reddy,Walt Whitman SR,In,Public Forum
+142,Walt Whitman,MD/US,Varner & Corbin,Walt Whitman VC,In,Public Forum
+143,Wayland,MA/US,Baranovsky & Weling,Wayland BW,In,Public Forum
+144,Wayland,MA/US,Goldstone & Zhang,Wayland GZ,In,Public Forum
+145,Wayland,MA/US,Harvey & Ryu,Wayland HR,In,Public Forum
+146,Wayland,MA/US,Wang & Wang,Wayland WW,In,Public Forum
+147,West Bend,WI/US,Granec & Kreuser,West Bend GK,In,Public Forum
+148,West Bend,WI/US,Saini & Wichlacz,West Bend SW,In,Public Forum
+149,West Des Moines Valley HS,IA/US,Jones & Samaniego,West Des Moines Valley JS,In,Public Forum
+150,West Orange,FL/US,Harrop & Sandoval,West Orange HS,In,Public Forum
+151,West Orange,FL/US,Jackson & Sandoval,West Orange JS,In,Public Forum
+152,Westridge School,CA/US,Bilson & Marsh,Westridge BM,In,Public Forum
+153,Westwood HS,TX/US,Iyer & Pingale,Westwood IP,In,Public Forum
+154,Westwood HS,TX/US,Shamanna & Lai,Westwood SL,In,Public Forum

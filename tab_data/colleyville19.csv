@@ -1,0 +1,179 @@
+,School,Locale,Entry,Code,Event
+0,Airline HS,LA/US,Abrams & Brown,Airline AB,VCX
+1,Airline HS,LA/US,Latcha & Coleman,Airline LC,VCX
+2,Andrews HS,TX/US,Barton & Flores,Andrews BF,VCX
+3,Andrews HS,TX/US,Barton & Sais,Andrews BS,VCX
+4,Barstow School,MO/US,Durwood & Tingle,Barstow DT,VCX
+5,Barstow School,MO/US,Fanaswala & Short,Barstow FS,VCX
+6,Barstow School,MO/US,Lokre & Putney,Barstow LP,VCX
+7,Barstow School,MO/US,Munsell & Lubianestsky,Barstow ML,VCX
+8,Barstow School,MO/US,Park & Waldman,Barstow PW,VCX
+9,Caddo Magnet HS,LA/US,Lawrence & Kiihnl,Caddo Magnet LK,VCX
+10,Caddo Magnet HS,LA/US,Picou & Wilson,Caddo Magnet PW,VCX
+11,Caddo Magnet HS,LA/US,Walters & Lawrence,Caddo Magnet WL,VCX
+12,Casady School,OK/US,Aggarwal & Rajaram,Casady AR,VCX
+13,Casady School,OK/US,Barreto & Braum,Casady BB,VCX
+14,Casady School,OK/US,Henry & Wolfe,Casady HW,VCX
+15,Coppell High School,TX/US,Desai & Rajagopal,Coppell DR,VCX
+16,Coppell High School,TX/US,Kashyap & Arya,Coppell KA,VCX
+17,Coppell High School,TX/US,Rajamani & Bandi,Coppell RB,VCX
+18,Crossings Christian School,OK/US,Hunt & Hough,Crossings Christian HH,VCX
+19,Crossings Christian School,OK/US,Hanna & King,Crossings Christian HK,VCX
+20,Crossings Christian School,OK/US,Kelly & Roby,Crossings Christian KR,VCX
+21,Crossings Christian School,OK/US,Roberts & Quiroz,Crossings Christian RQ,VCX
+22,Dallas Highland Park HS,TX/US,Lam & Muse,Dallas Highland Park LM,VCX
+23,Eisenhower HS,KS/US,Grossman & Stiffler,Eisenhower GS,VCX
+24,Eisenhower HS,KS/US,Hartter & Jacobson,Eisenhower HJ,VCX
+25,Grapevine High School,TX/US,He & Thode,Grapevine HT,VCX
+26,Grapevine High School,TX/US,Wouters & Comiskey,Grapevine WC,VCX
+27,Greenhill School,TX/US,Gouru & McDonald,Greenhill GM,VCX
+28,Greenhill School,TX/US,Meng & Kwon,Greenhill MK,VCX
+29,Greenhill School,TX/US,Rothstein & Hurst,Greenhill RH,VCX
+30,Greenhill School,TX/US,Tathgir & Zlotky,Greenhill TZ,VCX
+31,Greenhill School,TX/US,Witheiler & Charnes,Greenhill WC,VCX
+32,Greenhill School,TX/US,Wegener & Zlotky,Greenhill WZ,VCX
+33,Hebron High School,TX/US,Drewniak & Loyd,Hebron DL,VCX
+34,Hebron High School,TX/US,Dai & Ravi,Hebron DR,VCX
+35,Hebron High School,TX/US,Haq & Patel,Hebron HP,VCX
+36,Hebron High School,TX/US,Lalani & Bhagwandin,Hebron LB,VCX
+37,Hendrickson,TX/US,Do & Yeh,Hendrickson DY,VCX
+38,Hendrickson,TX/US,Zuniga & Faheem,Hendrickson ZF,VCX
+39,Jesuit College Prep,TX/US,Amar & Kim,Jesuit  AK,VCX
+40,Jesuit College Prep,TX/US,Ferrer-Falto & Jackson,Jesuit  FJ,VCX
+41,Jesuit College Prep,TX/US,Moore & Holcombe,Jesuit  MH,VCX
+42,Jesuit College Prep,TX/US,Madden & Weigman,Jesuit  MW,VCX
+43,Jesuit College Prep,TX/US,Nagorzanski & Griffiths,Jesuit  NG,VCX
+44,Jesuit College Prep,TX/US,Tran & Hall,Jesuit  TH,VCX
+45,Liberal Arts and Science Academy,TX/US,Chacon & Ugarte,Liberal Arts and Science CU,VCX
+46,Liberal Arts and Science Academy,TX/US,Gu & Ruttala,Liberal Arts and Science GR,VCX
+47,Liberal Arts and Science Academy,TX/US,Ilangovan & Jones,Liberal Arts and Science IJ,VCX
+48,Liberal Arts and Science Academy,TX/US,Poe & Scott,Liberal Arts and Science PS,VCX
+49,Little Rock Central,AR/US,Tran & Kombathula,Little Rock Central TK,VCX
+50,Lovejoy High School,TX/US,Czyz & Laman,Lovejoy CL,VCX
+51,Lovejoy High School,TX/US,Mao & Singh,Lovejoy MS,VCX
+52,Mt. Pleasant High School,TX/US,Cowan & Thurman,Mt. Pleasant CT,VCX
+53,North Lamar HS,TX/,Holzwarth & Huffman,North Lamar HH,VCX
+54,Ronald Reagan High School,TX/US,Bhat & Li,Ronald Reagan BL,VCX
+55,Ronald Reagan High School,TX/US,Epstein & Makani,Ronald Reagan EM,VCX
+56,Ronald Reagan High School,TX/US,Pham & Gutierrez,Ronald Reagan PG,VCX
+57,St. Mark's School of Texas,TX/US,Uppalapati & Petrikas,St. Mark's School of Texas UP,VCX
+58,Trinity High School,TX/US,Dawson & Headlee,Trinity DH,VCX
+59,Westwood HS,TX/US,Greisdorf & Bandi,Westwood GB,VCX
+60,Westwood HS,TX/US,Kumar & You,Westwood KY,VCX
+61,Wichita East,KS/US,Halabi & Nguyen,Wichita East HN,VCX
+62,Wichita East,KS/US,Shah & Real,Wichita East SR,VCX
+63,Wichita East,KS/US,Yust & Tamhane,Wichita East YT,VCX
+64,Winston Churchill HS,TX/US,Myers & Brody,Winston Churchill MB,VCX
+0,Alief Taylor,TX/US,Sherrod Session,Alief Taylor SS,VLD
+1,All Saints Episcopal School,TX/US,Gabrielle Lea,All Saints Episcopal GL,VLD
+2,CMS Southlake Junior Debate,TX/US,Samhith Dharani,CMS Southlake Junior SD,VLD
+3,Cabot High School,AR/,Alex Mills,Cabot AM,VLD
+4,Cabot High School,AR/,Christian Huggins,Cabot CH,VLD
+5,Cabot High School,AR/,Damion Reeves,Cabot DR,VLD
+6,Cabot High School,AR/,Lawson Hudson,Cabot LH,VLD
+7,Coppell High School,TX/US,Lok Katasani,Coppell LK,VLD
+8,Cypress Ranch,US,Michael Zhou,Cypress Ranch MZ,VLD
+9,Cypress Woods,TX/US,Allison Kerstein,Cypress Woods AK,VLD
+10,Cypress Woods,TX/US,Angela Zhong,Cypress Woods AZ,VLD
+11,Cypress Woods,TX/US,Maya Trivedi,Cypress Woods MT,VLD
+12,Elkins High School,TX/US,Kedar Pandya,Elkins KP,VLD
+13,Episcopal School Of Dallas,TX/US,Jiaying Fu,Episcopal School Of Dallas JF,VLD
+14,Episcopal School Of Dallas,TX/US,Zan Haq,Episcopal School Of Dallas ZH,VLD
+15,Garland HS,TX/US,Brandon Molina,Garland BM,VLD
+16,George Ranch HS,TX/,Mohammad Sheikh,George Ranch MS,VLD
+17,Grapevine High School,TX/US,Dhiraj Veerappan,Grapevine DV,VLD
+18,Grapevine High School,TX/US,Ian McArthur,Grapevine IM,VLD
+19,Grapevine High School,TX/US,Nidhish Nerur,Grapevine NN,VLD
+20,Greenhill School,TX/US,Arush Adabala,Greenhill AA,VLD
+21,Greenhill School,TX/US,Krutin Devesh,Greenhill KD,VLD
+22,Greenhill School,TX/US,Mihir Rai,Greenhill MR,VLD
+23,Guyer HS,TX/,Ciarra McClinton,Guyer CM,VLD
+24,Hebron High School,TX/US,Aashir Sanjrani,Hebron AS,VLD
+25,Hebron High School,TX/US,Lucas Chan,Hebron LC,VLD
+26,Hebron High School,TX/US,Philip Ng,Hebron PN,VLD
+27,Irma Rangel YWLS,TX/US,Valerie Gutierrez,Irma Rangel YWLS VG,VLD
+28,Jack C Hays High School,TX/US,Patrick Fox,Jack C Hays PF,VLD
+29,Keller High School,TX/,Jada Bourne,Keller JB,VLD
+30,LC Anderson,TX/US,Sesh Joe,LC Anderson SJ,VLD
+31,Lovejoy High School,TX/US,Collins Morgan,Lovejoy CM,VLD
+32,Lovejoy High School,TX/US,Kaya Czyz,Lovejoy KC,VLD
+33,Marcus High School,TX/US,Cynthia Domergue,Marcus CD,VLD
+34,Marcus High School,TX/US,Kyle Lleras,Marcus KL,VLD
+35,McMillen HS,TX/US,Nevin Gera,McMillen NG,VLD
+36,Montgomery,TX/US,Devin Hernandez,Montgomery DH,VLD
+37,Montgomery,TX/US,Grayson Constantine,Montgomery GC,VLD
+38,Newman Smith,TX/US,Kaushik Jampala,Newman Smith KJ,VLD
+39,Newman Smith,TX/US,Yeji Ghil,Newman Smith YG,VLD
+40,Northland Christian School,TX/,Austin Broussard,Northland Christian AB,VLD
+41,Northland Christian School,TX/,Aaron Barcio,Northland Christian ABa,VLD
+42,Northland Christian School,TX/,Jack Quisenberry,Northland Christian JQ,VLD
+43,Plano East,TX/US,Ameera Khan,Plano East AK,VLD
+44,Plano East,TX/US,Hari Namdhari,Plano East HN,VLD
+45,Plano East,TX/US,Joseph-Charles D'Antuono,Plano East JD,VLD
+46,Plano East,TX/US,Sanjana Hiremath,Plano East SH,VLD
+47,Plano East,TX/US,William Zhang,Plano East WZ,VLD
+48,Plano Senior,TX/US,Aryan Jasani,Plano Senior AJ,VLD
+49,Prosper HS,TX/US,Alecxander Antonakakis,Prosper AA,VLD
+50,Prosper HS,TX/US,Kaleb Simes,Prosper KS,VLD
+51,Round Rock HS,TX/US,Sreya Gandra,Round Rock SG,VLD
+52,Southlake Carroll,TX/US,Gautam Iyer,Southlake Carroll GI,VLD
+53,Southlake Carroll,TX/US,Samir Mohsin,Southlake Carroll SM,VLD
+54,Southlake Carroll,TX/US,Tarun Ratnasabapathy,Southlake Carroll TR,VLD
+55,THEO Christian,TX/US,Austin Schwartz,THEO Christian AS,VLD
+56,THEO Christian,TX/US,Jacob Muir,THEO Christian JM,VLD
+57,The Hockaday School,TX/US,Mia Xia,Hockaday MX,VLD
+58,Timber Creek HS,TX/US,Ethan McQuhae,Timber Creek EM,VLD
+59,Timber Creek HS,TX/US,Gus Jones,Timber Creek GJ,VLD
+60,Timber Creek HS,TX/US,Ian Smith,Timber Creek IS,VLD
+61,Trinity High School,TX/US,Rebecca Lembrino-Crowe,Trinity RL,VLD
+62,Trinity Valley,TX/US,Asan Batyrbayev,Trinity Valley AB,VLD
+63,Trinity Valley,TX/US,Kishan Kalaria,Trinity Valley KK,VLD
+64,Trinity Valley,TX/US,Raj Baweja,Trinity Valley RB,VLD
+65,UT High School,TX/US,Ian Boarnet,UT IB,VLD
+66,Village High School,TX/US,Adnan Fatakdawala,Village AF,VLD
+67,Village High School,TX/US,Aditya Iyer,Village AI,VLD
+68,Village High School,TX/US,Aryan Parikh,Village AP,VLD
+69,Westwood HS,TX/US,Alice Zhang,Westwood AZ,VLD
+70,Westwood HS,TX/US,Davina Le,Westwood DL,VLD
+71,Westwood HS,TX/US,Saavan Myneni,Westwood SM,VLD
+72,Westwood HS,TX/US,Truman Le,Westwood TL,VLD
+73,Winston Churchill HS,TX/US,Maggie Davis,Winston Churchill MD,VLD
+0,All Saints Episcopal School,TX/US,Elfarr & Davis,All Saints Episcopal ED,VPF
+1,All Saints Episcopal School,TX/US,Pan & Tidwell,All Saints Episcopal PT,VPF
+2,CMS Southlake Junior Debate,TX/US,Musser & Kasarla,CMS Southlake Junior MK,VPF
+3,CMS Southlake Junior Debate,TX/US,Suri & Amin,CMS Southlake Junior SA,VPF
+4,CMS Southlake Junior Debate,TX/US,Subramanian & Pinjani,CMS Southlake Junior SP,VPF
+5,Coppell High School,TX/US,Bohri & Chiniwala,Coppell BC,VPF
+6,Coppell High School,TX/US,Lucas & Kohle,Coppell LK,VPF
+7,Coppell High School,TX/US,Mhashelkar & Vankina,Coppell MV,VPF
+8,Cypress Woods,TX/US,Malik & Bertinot,Cypress Woods MB,VPF
+9,Cypress Woods,TX/US,Parappuram & Ramcharan,Cypress Woods PR,VPF
+10,Flower Mound High School,TX/,Shah & Winter,Flower Mound SW,VPF
+11,Flower Mound High School,TX/,Vummadising & Vishnoi,Flower Mound VV,VPF
+12,Grapevine High School,TX/US,Brigham & Halman-Gonzalez,Grapevine BH,VPF
+13,Grapevine High School,TX/US,Goodman & McClure,Grapevine GM,VPF
+14,Grapevine High School,TX/US,Hengesbach-Gomes & Gonzalez,Grapevine HG,VPF
+15,Hebron High School,TX/US,Joseph & Kauffman,Hebron JK,VPF
+16,Hebron High School,TX/US,Williams & Kirk,Hebron WK,VPF
+17,Jasper HS,TX/,Kumar & Chen,Jasper KC,VPF
+18,Jasper HS,TX/,Kotha & Ma,Jasper KM,VPF
+19,Jasper HS,TX/,Nie & Yi,Jasper NY,VPF
+20,Lovejoy High School,TX/US,Richardson & Mehta,Lovejoy RM,VPF
+21,Plano East,TX/US,Penumetcha & Kanamangala,Plano East PK,VPF
+22,Plano Senior,TX/US,Stark & Mahendra,Plano Senior SM,VPF
+23,Plano West Sr HS,TX/US,Annam & Wang,Plano West Sr AW,VPF
+24,Plano West Sr HS,TX/US,Fan & Zhang,Plano West Sr FZ,VPF
+25,Plano West Sr HS,TX/US,Gundam & Mammen,Plano West Sr GM,VPF
+26,Plano West Sr HS,TX/US,Huang & Jiang,Plano West Sr HJ,VPF
+27,Plano West Sr HS,TX/US,Krueger & Romo,Plano West Sr KR,VPF
+28,Plano West Sr HS,TX/US,Liang & Rao,Plano West Sr LR,VPF
+29,Plano West Sr HS,TX/US,Lin & Wei,Plano West Sr LW,VPF
+30,Plano West Sr HS,TX/US,Ogata & Rajagopalan,Plano West Sr OR,VPF
+31,Plano West Sr HS,TX/US,Spall & Zhen,Plano West Sr SZ,VPF
+32,Prosper HS,TX/US,Asuncion & Moreland,Prosper AM,VPF
+33,THEO Christian,TX/US,Wolf & Keck,THEO Christian WK,VPF
+34,Trinity High School,TX/US,Adhikari & Cadena,Trinity AC,VPF
+35,Westwood HS,TX/US,Lai & Shamanna,Westwood LS,VPF
+36,Westwood HS,TX/US,Pingale & Iyer,Westwood PI,VPF
+37,Westwood HS,TX/US,Ramaswamy & Mirza,Westwood RM,VPF
+38,Westwood HS,TX/US,Sun & Kulkarni,Westwood SK,VPF

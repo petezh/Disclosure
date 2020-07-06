@@ -1,0 +1,231 @@
+,Code,Entry,Event,Locale,School,Status
+0,BASIS Mesa AC,Amrita Chakladar,LD,AZ/US,BASIS Mesa,In
+1,Borah CM,Claire Martin,LD,ID/US,Borah HS,In
+2,Borah GR,Garrett Richardson,LD,ID/US,Borah HS,In
+3,Borah JP,Julia Porter,LD,ID/US,Borah HS,In
+4,Capital RE,Rachel Edmondson,LD,ID/US,Capital HS,In
+5,Centennial AH,Avy Hine,LD,ID/US,Centennial,In
+6,Centennial EM,Emma McGuire,LD,ID/US,Centennial,In
+7,Copper Hills AT,Anastacia Tennant,LD,UT/US,Copper Hills HS,In
+8,Eagle BK,Blake Kurtz,LD,ID/,Eagle HS,In
+9,Eagle PF,Paris Fitzpatrick,LD,ID/,Eagle HS,In
+10,Eagle SG,Seth Garwood,LD,ID/,Eagle HS,In
+11,Eagle TW,Titan Walker,LD,ID/,Eagle HS,In
+12,East AG,Avery Gonzales-Fleming,LD,UT/US,East HS,In
+13,East CA,Charles Adair,LD,UT/US,East HS,In
+14,East SH,Sami Haddadin,LD,UT/US,East HS,In
+15,Fort Collins CD,Christian Dykson,LD,CO/,Fort Collins HS,In
+16,Fort Collins IW,Ian Wagers,LD,CO/,Fort Collins HS,In
+17,Fort Collins ZG,Zayne Garcia,LD,CO/,Fort Collins HS,In
+18,Grand County PG,Phillip Geiser,LD,UT/US,Grand County High School,In
+19,Green Canyon JM,Jacob Morrill,LD,UT/,Green Canyon High School,In
+20,Green Canyon RI,Rebecca Ivans,LD,UT/,Green Canyon High School,In
+21,Harvard-Westlake AL,Allie Landecker,LD,CA/US,Harvard-Westlake School,In
+22,Harvard-Westlake AM,Athalia Meron,LD,CA/US,Harvard-Westlake School,In
+23,Harvard-Westlake BW,Ben Weinberg,LD,CA/US,Harvard-Westlake School,In
+24,Harvard-Westlake LP,Landon Poon,LD,CA/US,Harvard-Westlake School,In
+25,Harvard-Westlake NR,Nathan Russell,LD,CA/US,Harvard-Westlake School,In
+26,Harvard-Westlake SM,Samantha McLoughlin,LD,CA/US,Harvard-Westlake School,In
+27,Harvard-Westlake WB,Will Berlin,LD,CA/US,Harvard-Westlake School,In
+28,Interlake MW,Megan Wu,LD,WA/US,Interlake HS,In
+29,JPII BP,Breigh Plat,LD,TX/US,JPII,In
+30,Juan Diego Catholic TC,Tomas Cruz,LD,UT/US,Juan Diego Catholic High School,In
+31,Juan Diego Catholic TV,Thomas Varghese,LD,UT/US,Juan Diego Catholic High School,In
+32,Kent Denver AB,Alex Barker,LD,CO/,Kent Denver School,In
+33,Kent Denver KM,Katja Matter,LD,CO/,Kent Denver School,In
+34,Logan AN,Andre Nguyen,LD,UT/US,Logan HS,In
+35,Logan KM,Krystan Morrison,LD,UT/US,Logan HS,In
+36,Logan TF,Taylor Fang,LD,UT/US,Logan HS,In
+37,Maple Mountain DM,Demetrius Morgan,LD,UT/US,Maple Mountain,In
+38,Marlborough AJ,Amy Jarkow,LD,CA/US,Marlborough School,In
+39,Marlborough GN,Grace Nelson,LD,CA/US,Marlborough School,In
+40,Marlborough JS,Julia Steinberg,LD,CA/US,Marlborough School,In
+41,Marlborough LD,Lydia Dimsu,LD,CA/US,Marlborough School,In
+42,Marlborough SD,Sophia Danielpour,LD,CA/US,Marlborough School,In
+43,Milpitas SJ,Sana Jaffery,LD,CA/US,Milpitas HS,In
+44,Mission San Jose AB,Advika Bhike,LD,CA/US,Mission San Jose HS,In
+45,Mission San Jose MS,Meera Sehgal,LD,CA/US,Mission San Jose HS,In
+46,Mountain View BC,Bradley Collins,LD,ID/US,Mountain View High School,In
+47,Mountain View RH,Robyn Harper,LD,ID/US,Mountain View High School,In
+48,Oak Hill AS,Aubra Scott-Hinkle,LD,OR/US,Oak Hill School,In
+49,PHS (Independent) AS,Amitoj Singh,LD,CA/US,PHS (Independent),In
+50,Park City AO,Aidin O'Brien,LD,UT/US,Park City,In
+51,Park City IB,Isabella Bartmess,LD,UT/US,Park City,In
+52,Perry (Independent) MH,Mariah Hays,LD,AZ/US,Perry (Independent),In
+53,Pinnacle KA,Kristen Arnold,LD,AZ/US,Pinnacle,In
+54,Presentation HM,Harshini Manian,LD,CA/US,Presentation HS,In
+55,Presentation IC,Isha Chadalavada,LD,CA/US,Presentation HS,In
+56,Presentation MS,Monica Schneck,LD,CA/US,Presentation HS,In
+57,Rocky Mountain ID BT,Braden Thomas,LD,ID/,Rocky Mountain ID,In
+58,Rocky Mountain ID JT,Joe Taylor,LD,ID/,Rocky Mountain ID,In
+59,Rowland Hall CB,Calvin Barbanell,LD,UT/US,Rowland Hall,In
+60,Rowland Hall VT,Violette Truong,LD,UT/US,Rowland Hall,In
+61,S. Eugene H. S LR,Luzia Rode,LD,OR/US,S. Eugene H. S.,In
+62,S. Eugene H. S WK,Wiley Kohler,LD,OR/US,S. Eugene H. S.,In
+63,S. Eugene H. S WR,Willie Race,LD,OR/US,S. Eugene H. S.,In
+64,SLC West AK,Anoushka Kharkar,LD,UT/US,SLC West HS,In
+65,SLC West JG,Jane Galian,LD,UT/US,SLC West HS,In
+66,SLC West SS,Sriram Srinivas,LD,UT/US,SLC West HS,In
+67,Salem Hills JT,Justice Tate,LD,UT/US,Salem Hills,In
+68,Sky View CL,Cole Lantz,LD,UT/,Sky View,In
+69,Sky View SG,Susana Gonzalez,LD,UT/,Sky View,In
+70,Sky View SM,Sarah Mayers,LD,UT/,Sky View,In
+71,Summit OK,Omar Khan,LD,UT/US,Summit Academy HS,In
+72,Meadows KS,Kobby Sarfo,LD,NV/US,The Meadows School,In
+73,Quarry Lane VG,Vineela Gogineni,LD,CA/US,The Quarry Lane School,In
+74,Timberline MD,Maia Dickinson,LD,ID/,Timberline HS,In
+75,Timberline MF,Molly Feeley,LD,ID/,Timberline HS,In
+76,Timberline SM,Sophia McKay,LD,ID/,Timberline HS,In
+77,Timberline VM,Victoria Mort,LD,ID/,Timberline HS,In
+78,West Linn DT,Dennis Tang,LD,OR/US,West Linn,In
+0,Bingha CJ,Clarke & Jessop,PF,UT/US,Bingham HS,In
+1,Bingha HG,Howell & Gedge,PF,UT/US,Bingham HS,In
+2,Bingha SC,Soper & Chittick,PF,UT/US,Bingham HS,In
+3,Borah NJ,Nelson & Jacobson,PF,ID/US,Borah HS,In
+4,Centen LR,Lytle & Rush,PF,ID/US,Centennial,In
+5,ColPre BB,Beamer & Beamer,PF,CA/US,College Prep,In
+6,ColPre CT,Chung & Tandon,PF,CA/US,College Prep,In
+7,ColPre GB,Gupta & Berning,PF,CA/US,College Prep,In
+8,ColPre HN,Haugh & Nurko,PF,CA/US,College Prep,In
+9,CopHil BH,Howell & Baron,PF,UT/US,Copper Hills HS,In
+10,CopHil OC,Connelly & Oliveros,PF,UT/US,Copper Hills HS,In
+11,CopHil RM,Rowell & Mumin,PF,UT/US,Copper Hills HS,In
+12,Eagle AE,Araki & Elfering,PF,ID/,Eagle HS,In
+13,East JV,Velazquez & Jackson,PF,UT/US,East HS,In
+14,East PaJo,Pater & Johnson,PF,UT/US,East HS,In
+15,FaiPre BA,Bobrownicki & Alamy,PF,CA/US,Fairmont Prep,In
+16,FaiPre GB,Gumlia & Bhagavatula,PF,CA/US,Fairmont Prep,In
+17,FaiPre KI,Kim & Idnani,PF,CA/US,Fairmont Prep,In
+18,FaiPre OR,Ong & Razzak,PF,CA/US,Fairmont Prep,In
+19,ForCol OV,O'Hare & von Fischer,PF,CO/,Fort Collins HS,In
+20,GeoWas GH,Gerrans & Holland,PF,CO/US,George Washington HS,In
+21,GeoWas GQ,Guber & Quarton,PF,CO/US,George Washington HS,In
+22,GeoWas HW,Hageman & White,PF,CO/US,George Washington HS,In
+23,GeoWas RS,Ray & Smith,PF,CO/US,George Washington HS,In
+24,GreCan SP,Smith & Pence,PF,UT/,Green Canyon High School,In
+25,Highla HR,Hernandez & Ramsey,PF,ID/US,Highland High School,In
+26,Highla MX,Mullen & Xu,PF,ID/US,Highland High School,In
+27,Highla NS,Nield & Sarkar,PF,ID/US,Highland High School,In
+28,Hunter BR,Bustamonte & Rodriguez,PF,UT/US,Hunter High School,In
+29,Lamber XP,Xuan & Pinnamareddy,PF,GA/US,Lambert,In
+30,Logan BG,Garg & Broadhurst,PF,UT/US,Logan HS,In
+31,Logan BW,Browning & Weed,PF,UT/US,Logan HS,In
+32,Logan SV,Seamons & Vazquez,PF,UT/US,Logan HS,In
+33,Milpit SW,Schletzbaum & Wu,PF,CA/US,Milpitas HS,In
+34,MisSan GZ,Gupta & Zhang,PF,CA/US,Mission San Jose HS,In
+35,MisSan KM,Koppurapu & Maunder,PF,CA/US,Mission San Jose HS,In
+36,MisSan MD,Mao & Dalmia,PF,CA/US,Mission San Jose HS,In
+37,MisSan ST,Tang & Saravanan,PF,CA/US,Mission San Jose HS,In
+38,MouVie DH,Denny & Hanson,PF,ID/US,Mountain View High School,In
+39,MouVie PS,Paul & Spaulding,PF,ID/US,Mountain View High School,In
+40,ParCit AW,Aldous & Waldmann,PF,UT/US,Park City,In
+41,ParCit GE,Gladson & Engel,PF,UT/US,Park City,In
+42,ParCit GJ,Gilbert & Johnson,PF,UT/US,Park City,In
+43,ParCit MH,Miller & Howard,PF,UT/US,Park City,In
+44,ParCit OS,O'Reilly & Stockwell,PF,UT/US,Park City,In
+45,ParCit WE,Williams & Efrusy,PF,UT/US,Park City,In
+46,RocMou JB,Barningham & Jenkins,PF,ID/,Rocky Mountain ID,In
+47,RowHal MM,Mulford & Mitcham,PF,UT/US,Rowland Hall,In
+48,RowHal PG,Polishchuk & Goh,PF,UT/US,Rowland Hall,In
+49,RowHal SZ,Sheinberg & Zeng,PF,UT/US,Rowland Hall,In
+50,RowHal ZD,Zeng & Davis,PF,UT/US,Rowland Hall,In
+51,SFRoo GS,Grismer & Svenningsen,PF,SD/US,SF Roosevelt,In
+52,SFRoo HC,Howard & Campbell,PF,SD/US,SF Roosevelt,In
+53,SFRoo LM,Loera & Moshoeshoe,PF,SD/US,SF Roosevelt,In
+54,SLCWes CH,Carlin & Haskins,PF,UT/US,SLC West HS,In
+55,SLCWes ChHo,Chalapathi & Hoffmann,PF,UT/US,SLC West HS,In
+56,SLCWes TL,Taussky & Liu,PF,UT/US,SLC West HS,In
+57,SkyVie AD,Apgood & Dayton,PF,UT/,Sky View,In
+58,SkyVie LK,Larsen & Kim,PF,UT/,Sky View,In
+59,Summit BE,Benjamin & Elsberry,PF,UT/US,Summit Academy HS,In
+60,Summit LW,Long & Whitaker,PF,UT/US,Summit Academy HS,In
+61,QuaLan AA,Atluri & Atluri,PF,CA/US,The Quarry Lane School,In
+62,QuaLan PJ,Pendurthi & Jain,PF,CA/US,The Quarry Lane School,In
+63,QuaLan SK,Saini & Kodnad,PF,CA/US,The Quarry Lane School,In
+64,QuaLan VS,Vijapure & Sen,PF,CA/US,The Quarry Lane School,In
+65,Timber HM,Hagge & Manibusan,PF,ID/,Timberline HS,In
+66,Timber PW,Paschke & Wu,PF,ID/,Timberline HS,In
+0,Bingham NP,Nielson & Prasad,Policy,UT/US,Bingham HS,
+1,Bingham TH,Tran & Hatch,Policy,UT/US,Bingham HS,
+2,Borah DD,Dengler & Dengler,Policy,ID/US,Borah HS,
+3,CK McClatchy BG,Burrell & Getahun,Policy,CA/US,CK McClatchy High School,
+4,CK McClatchy FS,Fleming & Spurlock,Policy,CA/US,CK McClatchy High School,
+5,CK McClatchy RP,Reynolds & Pham,Policy,CA/US,CK McClatchy High School,
+6,Capital TW,Talcott & Walhof,Policy,ID/US,Capital HS,
+7,Centennial AH,Abajian & Hansen,Policy,ID/US,Centennial,
+8,College Prep BM,Bittner & Mukherjee,Policy,CA/US,College Prep,
+9,Copper Hills LP,Lassen & Pengue,Policy,UT/US,Copper Hills HS,
+10,Davis Senior MK,Ma & Komessar,Policy,CA/US,Davis Senior HS,
+11,Davis Senior WN,Walsh & Niemela,Policy,CA/US,Davis Senior HS,
+12,Eagle GB,Butler & Gordon,Policy,ID/,Eagle HS,
+13,Eagle LC,Liu & Caragio,Policy,ID/,Eagle HS,
+14,Eagle WM,Ward & Mahoney,Policy,ID/,Eagle HS,
+15,Ferris OS,Owen & Sposito,Policy,WA/US,Ferris High School,
+16,Fort Collins FK,Fang & Khosla,Policy,CO/,Fort Collins HS,
+17,Fort Collins YS,Yu & Schipman,Policy,CO/,Fort Collins HS,
+18,George Washington GH,Galpern & Hughes,Policy,CO/US,George Washington HS,
+19,George Washington SH,Smith & Hilty,Policy,CO/US,George Washington HS,
+20,George Washington SW,Schwartz & Wright,Policy,CO/US,George Washington HS,
+21,George Washington WH,Waldstreicher & Huynh,Policy,CO/US,George Washington HS,
+22,Green Canyon FW,Fausett & White,Policy,UT/,Green Canyon High School,
+23,Gulliver Prep CV,Casado & Vair,Policy,FL/US,Gulliver Prep,
+24,Gulliver Prep RP,Roades & Podrog,Policy,FL/US,Gulliver Prep,
+25,Harvard-Westlake ND,Nayar & Davidson,Policy,CA/US,Harvard-Westlake School,
+26,Head Royce NK,Navarro & Kopelnik,Policy,CA/US,Head Royce School,
+27,Head Royce RW,Ramaswamy & Wogan,Policy,CA/US,Head Royce School,
+28,Head Royce WS,Wong & Shaw,Policy,CA/US,Head Royce School,
+29,Highland BP,Barker & Peck,Policy,ID/US,Highland High School,
+30,IDIndependent CL,Carranza & Larsen,Policy,ID/US,IDIndependent,
+31,Interlake LC,Lee & Cai,Policy,WA/US,Interlake HS,
+32,Interlake NT,Nemani & Tang,Policy,WA/US,Interlake HS,
+33,Juan Diego Catholic BS,Brunisholz & Severo,Policy,UT/US,Juan Diego Catholic High School,
+34,Juan Diego Catholic RA,Anaya & Riveros,Policy,UT/US,Juan Diego Catholic High School,
+35,Kent Denver HS,Halverson & Sullivan,Policy,CO/,Kent Denver School,
+36,Kent Denver JL,Joseph & Landgraff,Policy,CO/,Kent Denver School,
+37,Kent Denver KL,Kim & London,Policy,CO/,Kent Denver School,
+38,Kent Denver TR,Tamkin & Rolls,Policy,CO/,Kent Denver School,
+39,Logan JS,Stafford & Ji,Policy,UT/US,Logan HS,
+40,McQueen CL,Christiansen & Leutzinger,Policy,NV/,McQueen HS,
+41,McQueen RR,Reese & Reese,Policy,NV/,McQueen HS,
+42,Mountain View HS,Hobson & Schroeder,Policy,ID/US,Mountain View High School,
+43,Nevada Union AN,Anderson & Noyes,Policy,CA/US,Nevada Union High School,
+44,Notre Dame AK,Anagnos & Kim,Policy,CA/US,Notre Dame High School,
+45,Notre Dame DS,Di Filippo & Suico,Policy,CA/US,Notre Dame High School,
+46,Notre Dame ND,Navare & Davidson,Policy,CA/US,Notre Dame High School,
+47,Notre Dame PK,Paguio & Kwon,Policy,CA/US,Notre Dame High School,
+48,Notre Dame PM,Park & McNiff,Policy,CA/US,Notre Dame High School,
+49,Notre Dame SY,Snitman & Yepremian,Policy,CA/US,Notre Dame High School,
+50,OES OW,O'Hare & Williams,Policy,OR/US,OES,
+51,OES TC,Tsai & Chang,Policy,OR/US,OES,
+52,Oak Hill BC,Bellavita & Carrier,Policy,OR/US,Oak Hill School,
+53,Oak Hill CH,Carrier & Hagen,Policy,OR/US,Oak Hill School,
+54,Park City KR,Kanarowski & Rothwell,Policy,UT/US,Park City,
+55,Park City SP,Seaver & Primo,Policy,UT/US,Park City,
+56,Presentation RV,Ramchandani & Vasan,Policy,CA/US,Presentation HS,
+57,Rocky Mountain KC,Kaan & Clarke,Policy,CO/US,Rocky Mountain CO,
+58,Rosemont NW,Nielsen & Waweru,Policy,CA/US,Rosemont,
+59,Rowland Hall DP,Dau & Park,Policy,UT/US,Rowland Hall,
+60,Rowland Hall FP,Fowler & Peng,Policy,UT/US,Rowland Hall,
+61,Rowland Hall GY,Gushin & Young,Policy,UT/US,Rowland Hall,
+62,Rowland Hall HC,Hickman & Chase,Policy,UT/US,Rowland Hall,
+63,Rowland Hall MD,McGraw & Doctorman,Policy,UT/US,Rowland Hall,
+64,Rowland Hall TA,Torres & Amiel,Policy,UT/US,Rowland Hall,
+65,SF Roosevelt KL,Kroger & Luckett,Policy,SD/US,SF Roosevelt,
+66,SF Roosevelt MW,Moriarty & Wells,Policy,SD/US,SF Roosevelt,
+67,SF Roosevelt WT,Wong & Torguson,Policy,SD/US,SF Roosevelt,
+68,SLC West BN,Banuri & Nelson,Policy,UT/US,SLC West HS,
+69,SLC West GR,Galian & Rice,Policy,UT/US,SLC West HS,
+70,SLC West HO,Hefley & Ortiz,Policy,UT/US,SLC West HS,
+71,SLC West KB,Kim & Banuri,Policy,UT/US,SLC West HS,
+72,SLC West SW,Summerhays & Wall,Policy,UT/US,SLC West HS,
+73,Salem Hills MG,Mead & Gallacher,Policy,UT/US,Salem Hills,
+74,Salem Hills WA,Ward & Abbott,Policy,UT/US,Salem Hills,
+75,San Marino TW,Tran & Wen,Policy,CA/US,San Marino HS,
+76,Sky View HS,Housley & Sickler,Policy,UT/,Sky View,
+77,Skyline FS,Feinauer & Simpson,Policy,UT/US,Skyline,
+78,Skyline MT,Machado & Tatarevic,Policy,UT/US,Skyline,
+79,St. Vincent De Paul BC,Brandt & Crosby,Policy,CA/US,St. Vincent De Paul High School,
+80,St. Vincent De Paul BP,Birkenstock & Page,Policy,CA/US,St. Vincent De Paul High School,
+81,Davidson Academy Of Nevada HK,Hamilton & Kelso-Mooney,Policy,NV/,The Davidson Academy Of Nevada,
+82,Meadows NS,Nguyen & Salehian,Policy,NV/US,The Meadows School,
+83,Meadows YH,Yeager & Howard,Policy,NV/US,The Meadows School,
