@@ -1,3 +1,4 @@
+# imports
 import urllib.request, urllib.parse, urllib.error
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
@@ -6,16 +7,15 @@ import csv
 import os.path
 from os import path
 
-
 TOURNAMENT_CSV = 'processed.csv'
 
-# event names
-ld_names = ["LD", "VLD", "Varsity LD", "Lincoln Douglas", "Varsity Lincoln Douglas", "Lincoln-Douglas Debate", "Open LD", "Open Lincoln Douglas"]
-pf_names = ["PF", "PFD", "VPF", "Varsity PF", "Public Forum", "Varsity Public Forum", "Public Forum Debate", "Open PF", "Open Public Forum"]
-policy_names = ["CX", "VCX", "Varsity CX", "Policy", "Varsity Policy", "Policy Debate", "Open CX", "Open Policy", "Varisty Policy Debate", "Glendinning Varisty Policy"]
+# get LD, PF, and CX event names
+LD_NAMES = [name for name in open('ld_eventnames.txt', 'r')]
+PF_NAMES = [name for name in open('pf_eventnames.txt', 'r')]
+CX_NAMES = [name for name in open('cx_eventnames.txt', 'r')]
 
 # set events to scrape
-events = ld_names + pf_names + policy_names
+TARGET_EVENTS = LD_NAMES + PF_NAMES + CX_NAMES
 
 def main():
 
@@ -56,7 +56,7 @@ def main():
                     event = event_url[0]
                     
                     # append results
-                    if event in events:
+                    if event in TARGET_EVENTS:
                         print(event)
                         frames = frames + [getEntries(url, event)]
 
