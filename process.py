@@ -4,16 +4,22 @@
 import pandas as pd
 import csv
 
-def main():
-    convertLD()
+CLEAN_PATH = "tourn_data/cleaned.csv"
+PROCESS_PATH = "tourn_data/processed.csv"
+CALENDAR_PATH = "tourn_data/calendar.xlsx"
 
-def convertLD():
+def main():
+
+    # clean(CALENDAR_PATH)
+    # convert(CLEAN_PATH, PROCESS_PATH)
+
+def convert(clean_csv, processed_csv):
     
     # get list of tournaments
-    insheet = csv.reader(open('cleaned.csv', 'r'))
+    insheet = csv.reader(open(clean_csv, 'r'))
     headers = next(insheet)
 
-    outsheet = csv.writer(open('processed.csv', 'w'), lineterminator='\n')
+    outsheet = csv.writer(open(processed_csv, 'w'), lineterminator='\n')
     outsheet.writerow(["Name", "URL"])
 
     for row in insheet:
@@ -34,10 +40,10 @@ def convertLD():
 
 # excluded bluekey, sunvite, myerspark
 
-def cleanLD():
+def clean(calendar):
 
     # read excel file
-    exceldata = pd.read_excel("calendar.xlsx",sheet_name = "Sheet1")
+    exceldata = pd.read_excel(calendar,sheet_name = "Sheet1")
 
     # find columns
     col_results17 = exceldata['LD 17-18 Results']
