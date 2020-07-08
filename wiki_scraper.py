@@ -1,51 +1,63 @@
+"""
+Wiki Scraper
+Collects information off the NDCA High School wikis.
+@author petez
+"""
+
+
 import urllib.request, urllib.parse, urllib.error
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 import csv
 
-aberdeen_url = "https://hsld18.debatecoaches.org/Aberdeen%20Central/"
-ab_url= "https://hsld18.debatecoaches.org/Acton-Boxborough/"
+PAGES = [["LD18", "https://hsld18.debatecoaches.org/"], ["LD17", "https://hsld17.debatecoaches.org/"]]
+
+
 def main():
+    
+    for page in PAGES:
+        
+        page_name = page[0]
+        page_url = page[1]
 
-    url = "https://hsld18.debatecoaches.org/"
-    schools = getSchools(url)
+        schools = getSchools(page_url)
 
-    school_writer = csv.writer(open("wiki_data/schools_wiki.csv", 'w'), lineterminator = "\n")
-    school_writer.writerow(["School Name", "Entries"])
+        school_writer = csv.writer(open("wiki_data/" + page_name + "schools_wiki.csv", 'w'), lineterminator = "\n")
+        school_writer.writerow(["School Name", "Entries"])
 
-    debater_writer = csv.writer(open("wiki_data/debaters_wiki.csv", 'w'), lineterminator = "\n")
-    debater_writer.writerow(["State", "School", "First", "Last", "Side", "Rounds", "Cites", "Round Reports", "Open Source", "Full Text", "Facebook?"])
+        debater_writer = csv.writer(open("wiki_data/" + page_name + "debaters_wiki.csv", 'w'), lineterminator = "\n")
+        debater_writer.writerow(["State", "School", "First", "Last", "Side", "Rounds", "Cites", "Round Reports", "Open Source", "Full Text", "Facebook?"])
 
-    num_schools = len(schools)
-    counter = 0
+        num_schools = len(schools)
+        counter = 0
 
-    for school in schools:
+        for school in schools:
 
-        counter += 1
+            counter += 1
 
-        school_code = school[0]
-        school_name = " ".join(school_code.split()[:-1])
+            school_code = school[0]
+            school_name = " ".join(school_code.split()[:-1])
 
-        state = school_code.split()[-1].strip('()')
-        school_url = url + school[1]
+            state = school_code.split()[-1].strip('()')
+            school_url = url + school[1]
 
-        print(school_name, str(counter),"/", str(num_schools))
-        table = checkSchool(school_url)
-        if not isinstance(table, str):
-            school_writer.writerow([school_name, len(table)])
+            print(school_name, str(counter),"/", str(num_schools))
+            table = checkSchool(school_url)
+            if not isinstance(table, str):
+                school_writer.writerow([school_name, len(table)])
 
-            for index, row in table.iterrows():
-                debater_name = row['Debater']
-                first_name = debater_name.split()[-2]
-                last_name = debater_name.split()[-1]
-                aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
-                neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
-                debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
-                debater_writer.writerow([state, school_name, first_name, last_name, "Neg"] + neg_results)
+                for index, row in table.iterrows():
+                    debater_name = row['Debater']
+                    first_name = debater_name.split()[-2]
+                    last_name = debater_name.split()[-1]
+                    aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
+                    neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
+                    debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
+                    debater_writer.writerow([state, school_name, first_name, last_name, "Neg"] + neg_results)
 
-        else:
-            school_writer.writerow([school_name, 0])
+            else:
+                school_writer.writerow([school_name, 0])
             
 
 # for a given archive year, return all schools
