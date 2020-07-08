@@ -11,8 +11,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import csv
 
-PAGES = [["LD18", "https://hsld18.debatecoaches.org/"], ["LD17", "https://hsld17.debatecoaches.org/"]]
+#PAGES = [["LD18", "https://hsld18.debatecoaches.org/"], ["LD17", "https://hsld17.debatecoaches.org/"]]
 
+PAGES = [["LD17", "https://hsld17.debatecoaches.org/"]]
 
 def main():
     
@@ -40,7 +41,7 @@ def main():
             school_name = " ".join(school_code.split()[:-1])
 
             state = school_code.split()[-1].strip('()')
-            school_url = url + school[1]
+            school_url = page_url + school[1]
 
             print(school_name, str(counter),"/", str(num_schools))
             table = checkSchool(school_url)
@@ -80,7 +81,10 @@ def checkSchool(url):
         return "Broken!"
     soup = BeautifulSoup(html, "html.parser")
 
-    table = soup.find_all("table")[0]
+    if len(soup.find_all("table")) > 0:
+        table = soup.find_all("table")[0]
+    else:
+        return "No page setup!"
 
     n_rows = 0
     n_columns = 0
