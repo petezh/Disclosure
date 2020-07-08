@@ -1,3 +1,9 @@
+"""
+Tabroom Scraper
+Gets tournament info and entry information from the ID number of tournaments.
+@author petez & ehu
+"""
+
 # imports
 import urllib.request, urllib.parse, urllib.error
 from urllib.request import urlopen
@@ -7,7 +13,11 @@ import csv
 import os.path
 from os import path
 
-TOURNAMENT_CSV = 'processed.csv'
+# controls
+NO_REPEAT = True
+
+# point to CSV with tournaments
+TOURNAMENT_CSV = 'tourn_data/tourn_info.csv'
 
 # get LD, PF, and CX event names
 LD_NAMES = [name for name in open('ld_eventnames.txt', 'r')]
@@ -15,94 +25,110 @@ PF_NAMES = [name for name in open('pf_eventnames.txt', 'r')]
 CX_NAMES = [name for name in open('cx_eventnames.txt', 'r')]
 
 # set events to scrape
-TARGET_EVENTS = LD_NAMES + PF_NAMES + CX_NAMES
+TARGET_EVENTS = ["LD", "PF", "CX"]
 
 def main():
 
-    # get tournament list
-    with open(TOURNAMENT_CSV, 'r') as tourn_csv:
-        tournies = csv.reader(tourn_csv)
-        tourny_rows = [["Name", "ID", "Year", "Date", "City", "State"]]
+    # read tourn list
+    with open(TOURNAMENT_CSV, 'r') as tourn_file:
 
-        
+        tourn_reader = csv.reader(tourn_file)
+
         # skip headers
-        next(tournies)
+        headers = next(tourn_reader)
+
+        # create new list
+        tourn_rows = [headers]
         
-        # for all selected tournies
-        for tourny in tournies:
+        # for all selected tourns
+        for tourn in tourn_reader:
+                
+            # get tourn name and url
+            tourn_name = tourn[0]
+            tourn_id = tourn[1]
 
-            tourny_name = tourny[0]
-            url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourny[1]
+            print("Checking", tourn_name)
 
-            print("Trying " + tourny_name)
-
-            if len(tourny) < 6:
-                tourny_rows += [[tourny_name, tourny[1]] + getInfo("https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourny[1])]
+            # if info is incomplete, get info
+            if len(tourn) < 6:
+                tourn_rows += [[tourn_name, tourn[1]] + getInfo(tourn_id)]
             else:
-                tourny_rows += [tourny]
+                tourn_rows += [tourn]
 
+            # check if entry data exists
+            if(NO_REPEAT & path.exists("tab_data/" + tourn_name + ".csv")):
+                print("Exists already.\n")
 
-            if(path.exists("tab_data/" + tourny_name + ".csv")):
-                print("Exists already.")
             else:
-                # get events
-                event_urls = getEvents(url)
-
+                
+                # frames for aggrevating results
                 frames = []
+
+                # go through events
+                event_urls = getEvents(tourn_id)
 
                 for event_url in event_urls:
                     
+                    # get info
+                    event_rawName = event_url[0]
+                    event_name = processName(event_rawName)
                     url = event_url[1]
-                    event = event_url[0]
                     
                     # append results
-                    if event in TARGET_EVENTS:
-                        print(event)
+                    if event_name in TARGET_EVENTS:
+
+                        # do scraping
+                        print("Scraping", event)
                         frames = frames + [getEntries(url, event)]
 
                 # send to csv
                 if len(frames) == 0:
-                    print("No entries found for " + tourny_name)
+                    print("No entries found for ", tourn_name, "\n")
+
                 else:
-                    pd.concat(frames).to_csv("tab_data/" + tourny_name + ".csv")
-                    print("Done!")
+                    pd.concat(frames).to_csv("tab_data/" + tourn_name + ".csv")
+                    print("Entries saved!\n")
 
-    tourny_info = csv.writer(open(TOURNAMENT_CSV, 'w'),lineterminator = "\n")
-    tourny_info.writerows(tourny_rows)
+    # write tourn info
+    tourn_info = csv.writer(open(TOURNAMENT_CSV, 'w'), lineterminator = "\n")
+    tourn_info.writerows(tourn_rows)
 
-# extract tournament info
-def getInfo(url):
+"""
+getInfo gets tournamnet information from an invite page.
+"""
+def getInfo(tourn_id):
 
+    url = "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=" + tourn_id
+
+    # load page
     html = urlopen(url).read()
     soup = BeautifulSoup(html, "html.parser")
 
-    info = soup.select('h5')[0].text.strip()
+    # find header
+    header = soup.select('h5')[0].text.strip()
     
-    year = info.split('—')[0].strip()
-    location = info.split('—')[1].strip()
+    # get sub-header
+    year = header.split('—')[0].strip()
+    location = header.split('—')[1].strip()
     if ',' in location:
         city = location.split(',')[0].strip()
         state = location.split(',')[1].strip()
+    
     else:
-        city = ""
+        city = "None"
         state = location
 
-    
+    # get info box
     info = soup.find_all('span', {'class' : 'smaller half'})[0].text
     date = ' '.join(info.split())
 
     return [date, year, city, state]
 
-    
-# convert invite url to entries url
-def toEntries(url):
-    
-    return url.replace("index.mhtml", "fields.mhtml")
-
-
 # from entries page, retrieves tagged urls for each event
-def getEvents(url):
+def getEvents(tourn_id):
     
+    url = "https://www.tabroom.com/index/tourn/fields.mhtml?tourn_id=" + tourn_id
+
     html = urlopen(url).read()
     soup = BeautifulSoup(html, "html.parser")
     
@@ -148,6 +174,29 @@ def getEntries(url, event):
     datatable["Event"] = event
     
     return datatable
+
+"""
+Helper functions
+"""
+
+
+# convert invite url to entries url
+def toEntries(url):
+    
+    return url.replace("index.mhtml", "fields.mhtml")
+
+def processName(raw_name):
+
+    if raw_name in LD_NAMES:
+        return "LD"
+
+    if raw_name in PF_NAMES:
+        return "PF"
+
+    if raw_name in CX_NAMES:
+        return "CX"
+
+    return "None"
 
 if __name__ == "__main__":
     main()

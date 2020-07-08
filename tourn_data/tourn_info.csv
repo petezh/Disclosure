@@ -1,10 +1,10 @@
-Name,ID,Year,Date,City,State
+Name,URL
 grapevine17,8134,9/8 to 9/9,2017,Grapevine,TX/US
 grapevine18,10621,9/7 to 9/8,2018,Grapevine High School,TX/US
 loyola17,7730,9/8 to 9/10,2017,Los Angeles,CA/US
 loyola18,10173,9/7 to 9/9,2018,Los Angeles,CA/US
 uk17,7171,9/8 to 9/11,2017,Lexington,KY/US
-uk18,10038,9/7 to 9/10,2018,,KY/US
+uk18,10038,9/7 to 9/10,2018,None,KY/US
 yale17,7788,9/15 to 9/17,2017,New Haven,CT/US
 yale18,10180,9/14 to 9/16,2018,New Haven,CT/US
 greenhill17,7627,9/16 to 9/18,2017,Addison,TX/US
@@ -12,7 +12,7 @@ greenhill18,10561,9/13 to 9/17,2018,Dallas,TX/US
 jackhowe17,7272,9/30 to 10/1,2017,Long Beach,CA/US
 jackhowe18,10364,9/22 to 9/24,2018,Long Beach,CA/US
 valley17,7831,9/23 to 9/25,2017,West Des Moines,IA/US
-valley18,10610,9/21 to 9/24,2018,,IA/US
+valley18,10610,9/21 to 9/24,2018,None,IA/US
 holycross17,7671,9/29 to 9/30,2017,New Orleans,LA/US
 holycross18,10192,9/28 to 9/29,2018,New Orleans,LA/US
 presentation17,7397,10/6 to 10/9,2017,San Jose,CA/US
@@ -24,33 +24,33 @@ marks18,7699,10/13 to 10/16,2017,Dallas,TX/US
 bronx17,7543,10/13 to 10/15,2017,Bronx,New York
 bronx18,8739,10/12 to 10/14,2018,Bronx,NY/US
 meadows17,7473,10/27 to 10/29,2017,Las Vegas,NV/US
-meadows18,10101,10/26 to 10/28,2018,,NV/US
+meadows18,10101,10/26 to 10/28,2018,None,NV/US
 damus17,7843,11/2 to 11/6,2017,Sherman Oaks,CA/US
 damus18,10100,11/1 to 11/5,2018,Los Angeles,CA
 applevalley17,7975,11/3 to 11/5,2017,Apple Valley,MN
 applevalley18,10560,11/2 to 11/4,2018,Apple Valley,MN/US
 scarsdale17,8447,11/10 to 11/11,2017,Scarsdale,NY/US
 scarsdale18,11148,11/10 to 11/11,2018,Scarsdale,NY/US
-cypress17,7557,10/7 to 10/8,2017,,FL/US
+cypress17,7557,10/7 to 10/8,2017,None,FL/US
 cypress18,10196,11/10 to 11/11,2018,Weston,FL/US
-badgerland17,7948,11/10 to 11/11,2017,,WI/US
+badgerland17,7948,11/10 to 11/11,2017,None,WI/US
 badgerland18,11050,11/9 to 11/10,2018,Madison,WI
 glenbrooks17,7581,11/18 to 11/20,2017,Northbrook and Glenview,IL/US
 glenbrooks18,9270,11/17 to 11/19,2018,Northbrook and Glenview,IL/US
 alta17,7551,11/30 to 12/2,2017,Sandy,UT/US
-alta18,10197,11/29 to 12/1,2018,,UT/US
+alta18,10197,11/29 to 12/1,2018,None,UT/US
 princeton17,8050,12/1 to 12/3,2017,Princeton,NJ/US
 princeton18,11044,11/30 to 12/2,2018,Princeton,NJ/US
-longhorn17,8712,12/1 to 12/2,2017,,TX/US
+longhorn17,8712,12/1 to 12/2,2017,None,TX/US
 longhorn18,11564,12/7 to 12/10,2018,Austin,TX/US
 dowling17,7734,12/8 to 12/10,2017,West Des Moines,IA/US
 dowling18,10569,12/7 to 12/9,2018,Des Moines,IA/US
 isidore17,7590,12/8 to 12/10,2017,New Orleans,LA/US
 isidore18,10171,12/7 to 12/9,2018,New Orleans,LA/US
 ridge17,7847,12/8 to 12/9,2017,Basking Ridge,NJ/US
-ridge18,10512,12/7 to 12/8,2018,,NJ/US
+ridge18,10512,12/7 to 12/8,2018,None,NJ/US
 blake17,8561,12/15 to 12/17,2017,Minneapolis,MN/US
-blake18,10519,12/14 to 12/16,2018,,MN/US
+blake18,10519,12/14 to 12/16,2018,None,MN/US
 strake17,8699,12/15 to 12/16,2017,Houston,TX/US
 strake18,11400,12/21 to 12/22,2018,Houston,TX/US
 cps17,8101,12/16 to 12/17,2017,Oakland,CA
@@ -59,11 +59,11 @@ newark18,9048,1/4 to 1/6,2018,Newark,NJ/US
 newark19,11784,1/3 to 1/5,2019,Newark,NJ
 houston18,8994,1/12 to 1/13,2018,Houston,TX/US
 houston19,10701,1/11 to 1/12,2019,Houston,TX/US
-asu18,7003,1/5 to 1/8,2018,Tempe,AZ/US
-asu19,10037,1/4 to 1/6,2019,,AZ/US
+asu18,7003,1/5 to 1/7,2018,Tempe,AZ/US
+asu19,10037,1/4 to 1/6,2019,None,AZ/US
 ups18,8697,1/5 to 1/6,2018,Tacoma,WA/US
 ups19,11652,1/11 to 1/12,2019,Tacoma,WA/US
-churchill18,9158,1/5 to 1/6,2018,,TX/US
+churchill18,9158,1/5 to 1/6,2018,None,TX/US
 churchill19,12159,1/11 to 1/12,2019,San Antonio,TX/US
 peninsula18,7547,1/19 to 1/21,2018,Rolling Hills Estates,CA/US
 peninsula19,9578,1/12 to 1/14,2019,Rolling Hills,CA/US
@@ -76,9 +76,9 @@ ward18,9013,1/20 to 1/21,2018,Portland,OR/US
 ward19,11696,1/19 to 1/20,2019,Portland,OR
 emory18,7663,1/26 to 1/28,2018,Atlanta,GA/US
 emory19,10796,1/25 to 1/27,2019,Atlanta,GA/US
-columbia18,9079,1/19 to 1/21,2018,,NY/US
+columbia18,9079,1/19 to 1/21,2018,None,NY/US
 columbia19,11622,1/25 to 1/27,2019,New York,NY/US
-colleyville18,9473,2/2 to 2/3,2018,,TX/US
+colleyville18,9473,2/2 to 2/3,2018,None,TX/US
 colleyville19,11616,2/1 to 2/2,2019,Colleyville,TX/US
 goldendesert18,8881,2/3 to 2/5,2018,Las Vegas,NV/US
 goldendesert19,11447,2/2 to 2/4,2019,Las Vegas,NV/US
@@ -94,5 +94,5 @@ cal18,8476,2/17 to 2/19,2018,Berkeley,CA/US
 cal19,10274,2/16 to 2/18,2019,Berkeley,CA/US
 milo18,7733,2/16 to 2/17,2018,Omaha,NE/US
 milo19,10763,2/15 to 2/16,2019,Omaha,NE/US
-marlborough18,9609,3/2 to 3/4,2018,,CA/US
+marlborough18,9609,3/2 to 3/4,2018,None,CA/US
 marlborough19,12350,3/1 to 3/3,2019,Los Angeles,CA/US
