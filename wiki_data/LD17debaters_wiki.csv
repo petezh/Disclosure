@@ -1480,3 +1480,678 @@ WA,Newport,Anne,Lim,Neg,1,1,0,0,0,False
 WA,Newport,Vanessa,Chen,Aff,1,1,0,0,0,False
 WA,Newport,Vanessa,Chen,Neg,1,1,0,0,0,False
 WA,Newport,Sarah,Xu,Aff,1,1,0,0,0,False
+WA,Newport,Sarah,Xu,Neg,1,1,0,0,0,False
+WA,Newport,Akhil,Mandala,Aff,3,3,0,0,0,False
+WA,Newport,Akhil,Mandala,Neg,2,2,0,0,0,False
+WA,Newport,Aaron,Xie,Aff,0,0,0,0,0,False
+WA,Newport,Aaron,Xie,Neg,0,0,0,0,0,False
+FL,Newsome,Dylan,Burke,Aff,5,3,2,0,2,False
+FL,Newsome,Dylan,Burke,Neg,4,9,2,0,5,False
+FL,Newsome,Adam,Gorman,Aff,0,0,0,0,0,False
+FL,Newsome,Adam,Gorman,Neg,0,0,0,0,0,False
+NY,Niskayuna,Shreyas,Ramanujam,Aff,1,1,0,0,0,False
+NY,Niskayuna,Shreyas,Ramanujam,Neg,0,0,0,0,0,False
+PA,North Allegheny,Joy,Fu,Aff,6,5,0,0,0,False
+PA,North Allegheny,Joy,Fu,Neg,12,9,0,0,0,False
+CA,North Hollywood,Jack,Stern,Aff,24,26,0,4,5,False
+CA,North Hollywood,Jack,Stern,Neg,43,95,0,2,2,False
+TX,Northland Christian,Kaitlyn,England,Aff,3,3,2,0,0,False
+TX,Northland Christian,Kaitlyn,England,Neg,11,11,10,0,1,False
+TX,Northland Christian,Grace,Rogers,Aff,12,12,0,0,1,False
+TX,Northland Christian,Grace,Rogers,Neg,15,17,0,0,0,False
+TX,Northland Christian,Jordan,Wang,Aff,8,7,0,2,2,False
+TX,Northland Christian,Jordan,Wang,Neg,7,13,0,0,2,False
+TX,Northland Christian,Andy,Van,Aff,5,3,0,0,0,False
+TX,Northland Christian,Andy,Van,Neg,5,6,0,0,0,False
+TX,Northland Christian,Austin,Broussard,Aff,13,5,0,0,1,False
+TX,Northland Christian,Austin,Broussard,Neg,18,24,0,0,0,False
+TX,Northland Christian,Jack,Quisenberry,Aff,3,3,0,0,2,False
+TX,Northland Christian,Jack,Quisenberry,Neg,7,7,0,0,3,False
+TX,Northland Christian,Sydney,OConnell,Aff,1,1,1,0,0,False
+TX,Northland Christian,Sydney,OConnell,Neg,1,1,1,0,0,False
+TX,Northland Christian,Eathan,Newman,Aff,3,3,1,0,0,False
+TX,Northland Christian,Eathan,Newman,Neg,2,2,1,0,0,False
+TX,Northland Christian,Aaron,Barcio,Aff,1,1,1,0,0,False
+TX,Northland Christian,Aaron,Barcio,Neg,1,1,1,0,0,False
+NV,Northwest Career and Technical,Cosette,Fronczek,Aff,2,1,2,0,0,False
+NV,Northwest Career and Technical,Cosette,Fronczek,Neg,1,1,1,0,0,False
+CA,Northwood,Garrett,Arnold,Aff,7,6,6,0,4,True
+CA,Northwood,Garrett,Arnold,Neg,12,24,10,1,13,False
+CA,Northwood,Viren,Abhyankar,Aff,21,26,20,0,3,False
+CA,Northwood,Viren,Abhyankar,Neg,36,62,32,0,5,False
+CA,Northwood,Karthik,Krishnan,Aff,10,10,9,0,5,False
+CA,Northwood,Karthik,Krishnan,Neg,23,53,22,0,1,False
+CA,Northwood,Allison,Huang,Aff,2,2,0,0,1,False
+CA,Northwood,Allison,Huang,Neg,1,1,0,0,1,False
+CA,Northwood,Andrew,Do,Aff,3,3,0,0,2,False
+CA,Northwood,Andrew,Do,Neg,6,6,0,0,1,False
+CA,Northwood,David,Choi,Aff,1,1,1,0,1,False
+CA,Northwood,David,Choi,Neg,2,2,2,0,0,False
+CA,Northwood,Sasha,Anand,Aff,2,2,0,0,1,False
+CA,Northwood,Sasha,Anand,Neg,6,7,0,0,0,False
+CA,Northwood,Ekas,Chawla,Aff,2,2,1,0,1,False
+CA,Northwood,Ekas,Chawla,Neg,3,3,0,0,1,False
+CA,Northwood,Daniel,Luo,Aff,6,8,6,0,4,False
+CA,Northwood,Daniel,Luo,Neg,8,21,8,0,0,False
+CA,Northwood,Lara,Elhassan,Aff,0,0,0,0,0,False
+CA,Northwood,Lara,Elhassan,Neg,1,1,0,0,0,False
+CA,Notre Dame,Arushi,Bansal,Aff,5,5,2,3,4,False
+CA,Notre Dame,Arushi,Bansal,Neg,5,5,3,3,4,False
+CA,Notre Dame,Dipashreya,Sur,Aff,3,2,0,1,0,False
+CA,Notre Dame,Dipashreya,Sur,Neg,3,2,0,1,0,False
+CA,Nueva,Adam,Keller,Aff,7,9,4,4,2,False
+CA,Nueva,Adam,Keller,Neg,13,26,7,4,9,False
+FL,Oak Hall,Kumail,Zaidi,Aff,21,17,11,0,1,False
+FL,Oak Hall,Kumail,Zaidi,Neg,115,99,21,0,0,False
+CA,Oakwood,Wolf,Valdes,Aff,-1,-1,-1,-1
+CA,Oakwood,Wolf,Valdes,Neg,-1,-1,-1,-1
+CA,Oakwood,Arlo,Weiner,Aff,8,7,1,2,1,True
+CA,Oakwood,Arlo,Weiner,Neg,13,16,1,1,2,True
+CA,Oakwood,Logan,Bauman,Aff,1,1,0,0,0,False
+CA,Oakwood,Logan,Bauman,Neg,1,1,0,0,0,False
+CA,Oakwood,Wyatt,Alpert,Aff,16,9,5,0,5,False
+CA,Oakwood,Wyatt,Alpert,Neg,13,12,4,0,2,False
+CA,Oakwood,Sarah,Mostow,Aff,6,6,0,0,2,False
+CA,Oakwood,Sarah,Mostow,Neg,9,9,0,0,3,False
+CA,Oakwood,Nikki,Bayat,Aff,3,3,0,0,1,False
+CA,Oakwood,Nikki,Bayat,Neg,5,5,0,0,1,False
+CA,Oakwood,August,Orser,Aff,5,5,0,0,2,False
+CA,Oakwood,August,Orser,Neg,6,6,0,0,1,False
+OH,Oakwood,Madelynn,Einhorn,Aff,2,1,0,1,0,False
+OH,Oakwood,Madelynn,Einhorn,Neg,2,1,0,1,0,False
+MS,Oxford,Bennett,Brown,Aff,2,1,0,0,0,False
+MS,Oxford,Bennett,Brown,Neg,3,1,1,0,0,False
+CA,Pacific Hills,Alexander,Shaikh,Aff,1,1,0,1,0,False
+CA,Pacific Hills,Alexander,Shaikh,Neg,1,1,0,1,0,False
+CA,Palo Alto Independent,Frances,Zhuang,Aff,10,10,0,0,3,False
+CA,Palo Alto Independent,Frances,Zhuang,Neg,17,24,2,1,0,False
+CA,Palo Alto Independent,Barry,He,Aff,1,1,1,0,0,False
+CA,Palo Alto Independent,Barry,He,Neg,4,4,1,0,0,False
+NV,Palo Verde,Madison,Gardecki,Aff,1,1,0,0,0,False
+NV,Palo Verde,Madison,Gardecki,Neg,0,0,0,0,0,False
+MO,Parkview,Andre,Swai,Aff,1,1,0,0,0,False
+MO,Parkview,Andre,Swai,Neg,1,1,0,0,0,False
+PA,Pennsbury,Carolyn,Zou,Aff,25,7,24,0,2,False
+PA,Pennsbury,Carolyn,Zou,Neg,20,25,19,0,0,False
+AZ,Perry,Clayton,Marfori,Aff,6,6,1,0,1,False
+AZ,Perry,Clayton,Marfori,Neg,9,9,5,0,0,False
+AZ,Perry,Mariah,Hays,Aff,0,0,0,0,0,False
+AZ,Perry,Mariah,Hays,Neg,0,0,0,0,0,False
+TX,Pflugerville,Hoden,AbdiYusuf,Aff,1,1,0,0,0,False
+TX,Pflugerville,Hoden,AbdiYusuf,Neg,1,1,0,0,0,False
+MA,Phillips Academy Andover,Tiffany,Chang,Aff,10,4,2,1,4,False
+MA,Phillips Academy Andover,Tiffany,Chang,Neg,11,9,3,1,5,False
+FL,Pine Crest,Zachary,Vlessing,Aff,0,0,0,0,0,False
+FL,Pine Crest,Zachary,Vlessing,Neg,0,0,0,0,0,False
+AZ,Pinnacle,Kristen,Arnold,Aff,2,2,1,1,1,False
+AZ,Pinnacle,Kristen,Arnold,Neg,1,1,0,0,0,False
+TX,Plano East,Cedric,Zhou,Aff,1,0,1,0,0,False
+TX,Plano East,Cedric,Zhou,Neg,0,0,0,0,0,False
+TX,Plano East,Jonathan,Lee,Aff,5,4,4,0,0,False
+TX,Plano East,Jonathan,Lee,Neg,5,6,2,0,0,False
+TX,Plano East,Ameera,Khan,Aff,1,1,0,0,0,False
+TX,Plano East,Ameera,Khan,Neg,5,1,3,0,0,False
+TX,Plano East,Catherine,Vo,Aff,0,0,0,0,0,False
+TX,Plano East,Catherine,Vo,Neg,1,1,0,0,1,False
+TX,Plano East,Vandan,Patel,Aff,0,0,0,0,0,False
+TX,Plano East,Vandan,Patel,Neg,0,0,0,0,0,False
+TX,Plano East,William,Zhang,Aff,0,1,0,0,1,False
+TX,Plano East,William,Zhang,Neg,2,0,0,0,0,False
+TX,Plano Senior,Allen,Wu,Aff,1,1,0,0,0,False
+TX,Plano Senior,Allen,Wu,Neg,0,0,0,0,0,False
+TX,Plano West,Bora,Oztekin,Aff,0,0,0,0,0,False
+TX,Plano West,Bora,Oztekin,Neg,0,0,0,0,0,False
+TX,Plano West,Anirudh,Garg,Aff,3,3,3,3,0,False
+TX,Plano West,Anirudh,Garg,Neg,6,5,6,6,0,False
+TX,Plano West,Dhruv,Vaishnav,Aff,0,0,0,0,0,False
+TX,Plano West,Dhruv,Vaishnav,Neg,0,0,0,0,0,False
+TX,Plano West,Nabeeha,Qazi,Aff,1,1,1,0,0,False
+TX,Plano West,Nabeeha,Qazi,Neg,1,1,1,0,0,False
+NY,Poly Prep,Katie,Futterman,Aff,4,4,2,0,0,False
+NY,Poly Prep,Katie,Futterman,Neg,0,0,0,0,0,False
+NY,Poly Prep,David,Bogner,Aff,2,2,0,0,0,False
+NY,Poly Prep,David,Bogner,Neg,1,1,0,0,0,False
+NY,Poly Prep,Lois,AppiahAgyeman,Aff,0,0,0,0,0,False
+NY,Poly Prep,Lois,AppiahAgyeman,Neg,0,0,0,0,0,False
+CA,Polytechnic,Esteban,Mendoza,Aff,0,0,0,0,0,False
+CA,Polytechnic,Esteban,Mendoza,Neg,1,0,0,1,0,False
+CA,Polytechnic,Jonathan,Liu,Aff,2,2,1,0,1,False
+CA,Polytechnic,Jonathan,Liu,Neg,1,4,1,0,3,False
+CA,Presentation,Nikhita,Vasan,Aff,2,2,0,1,0,False
+CA,Presentation,Nikhita,Vasan,Neg,2,0,2,2,0,False
+CA,Presentation,Nina,Ramchandani,Aff,2,2,2,0,0,False
+CA,Presentation,Nina,Ramchandani,Neg,3,3,3,0,0,False
+CA,Presentation,Shachi,Prasad,Aff,2,2,0,0,0,False
+CA,Presentation,Shachi,Prasad,Neg,3,3,0,0,0,False
+CA,Presentation,Monica,Schneck,Aff,2,2,1,0,0,False
+CA,Presentation,Monica,Schneck,Neg,4,4,2,0,0,False
+CA,Presentation,Jessica,Wei,Aff,0,0,0,0,0,False
+CA,Presentation,Jessica,Wei,Neg,0,0,0,0,0,False
+NJ,Princeton,Shahab,Diaz,Aff,-1,-1,-1,-1
+NJ,Princeton,Shahab,Diaz,Neg,-1,-1,-1,-1
+NJ,Princeton,Devansh,Chauhan,Aff,7,6,0,0,4,True
+NJ,Princeton,Devansh,Chauhan,Neg,26,43,0,0,23,True
+NJ,Princeton,Elizabeth,Zhang,Aff,2,2,0,0,0,True
+NJ,Princeton,Elizabeth,Zhang,Neg,1,1,0,0,0,False
+NJ,Princeton,Daniel,Lin,Aff,9,9,0,0,3,True
+NJ,Princeton,Daniel,Lin,Neg,15,15,0,0,6,False
+NJ,Princeton,Nick,Eikelberner,Aff,7,6,1,0,1,False
+NJ,Princeton,Nick,Eikelberner,Neg,5,7,1,0,3,False
+NJ,Princeton,Michael,Meyer,Aff,0,0,0,0,0,False
+NJ,Princeton,Michael,Meyer,Neg,0,0,0,0,0,False
+NJ,Princeton,Isabella,Phillips,Aff,1,0,0,0,0,False
+NJ,Princeton,Isabella,Phillips,Neg,1,0,0,0,0,False
+TX,Prosper,Alec,Antonakakis,Aff,26,18,0,0,1,True
+TX,Prosper,Alec,Antonakakis,Neg,40,34,0,0,0,False
+TX,Prosper,Kaleb,Simes,Aff,0,0,0,0,0,False
+TX,Prosper,Kaleb,Simes,Neg,0,0,0,0,0,False
+TX,Prosper,Jai,Ravipoti,Aff,0,0,0,0,0,False
+TX,Prosper,Jai,Ravipoti,Neg,0,0,0,0,0,False
+CA,Quarry Lane,Saianurag,Karavadi,Aff,21,20,0,0,1,False
+CA,Quarry Lane,Saianurag,Karavadi,Neg,41,39,4,0,1,False
+CA,Quarry Lane,Lori,Luo,Aff,0,0,0,0,0,False
+CA,Quarry Lane,Lori,Luo,Neg,0,0,0,0,0,False
+CA,Quarry Lane,Vineela,Gogineni,Aff,7,7,0,0,3,False
+CA,Quarry Lane,Vineela,Gogineni,Neg,7,9,0,0,3,False
+CA,Quarry Lane,Zachary,Davis,Aff,9,7,2,0,4,False
+CA,Quarry Lane,Zachary,Davis,Neg,6,7,0,0,1,False
+WA,Raisbeck-Aviation,Hong,Ta,Aff,1,1,0,0,0,False
+WA,Raisbeck-Aviation,Hong,Ta,Neg,0,0,0,0,0,False
+CA,Rancho Bernardo,Jonathan,Jeong,Aff,3,2,3,0,1,False
+CA,Rancho Bernardo,Jonathan,Jeong,Neg,1,9,1,0,0,False
+CA,Rancho Bernardo,Austin,Khoja,Aff,1,1,1,0,0,False
+CA,Rancho Bernardo,Austin,Khoja,Neg,1,2,0,0,0,False
+TX,Reagan,Michael,Corser,Aff,6,6,6,4,1,False
+TX,Reagan,Michael,Corser,Neg,7,12,7,2,1,False
+TX,Reagan,Deena,Mainali,Aff,1,1,1,1,0,False
+TX,Reagan,Deena,Mainali,Neg,1,1,1,1,0,False
+TX,Reagan,Grant,Stringham,Aff,1,1,0,0,0,False
+TX,Reagan,Grant,Stringham,Neg,2,2,0,0,0,False
+TX,Reagan,Laura,Morales,Aff,0,0,0,0,0,False
+TX,Reagan,Laura,Morales,Neg,0,0,0,0,0,False
+TX,Reagan,Afra,Khan,Aff,0,0,0,0,0,False
+TX,Reagan,Afra,Khan,Neg,0,0,0,0,0,False
+TX,Reagan,Valeria,Haim,Aff,0,0,0,0,0,False
+TX,Reagan,Valeria,Haim,Neg,0,0,0,0,0,False
+TX,Reagan,Carlos,Solis,Aff,0,0,0,0,0,False
+TX,Reagan,Carlos,Solis,Neg,0,0,0,0,0,False
+TX,Reagan,Haaris,Siddiqi,Aff,1,1,1,0,0,False
+TX,Reagan,Haaris,Siddiqi,Neg,1,1,1,0,0,False
+TX,Reagan,Katie,Pham,Aff,1,1,1,1,1,False
+TX,Reagan,Katie,Pham,Neg,1,3,1,1,0,False
+NJ,Ridge,Alan,Liu,Aff,9,7,0,4,2,False
+NJ,Ridge,Alan,Liu,Neg,8,8,0,6,2,False
+NJ,Ridge,Jennifer,Tang,Aff,2,2,0,0,1,False
+NJ,Ridge,Jennifer,Tang,Neg,3,3,0,2,0,False
+NJ,Ridge,Marko,Cukar,Aff,1,1,0,0,0,False
+NJ,Ridge,Marko,Cukar,Neg,1,1,0,0,0,False
+NJ,Ridge,Alex,Smyth,Aff,2,2,0,0,1,False
+NJ,Ridge,Alex,Smyth,Neg,4,4,0,0,1,False
+NJ,Ridge,Dion,Peng,Aff,4,2,0,0,1,False
+NJ,Ridge,Dion,Peng,Neg,2,1,0,0,0,False
+NJ,Ridge,Tanvi,Namjoshi,Aff,1,2,0,0,0,False
+NJ,Ridge,Tanvi,Namjoshi,Neg,0,0,0,0,0,False
+NJ,Ridge,Namita,Kalghatgi,Aff,2,1,0,0,0,False
+NJ,Ridge,Namita,Kalghatgi,Neg,0,0,0,0,0,False
+NJ,Ridge,Dhruv,Dalal,Aff,0,0,0,0,0,False
+NJ,Ridge,Dhruv,Dalal,Neg,1,1,0,1,0,False
+NJ,Ridge,Jerry,Yang,Aff,1,1,0,0,0,False
+NJ,Ridge,Jerry,Yang,Neg,1,1,0,0,0,False
+MN,Roseville,Elizabeth,Booms,Aff,1,1,0,1,0,False
+MN,Roseville,Elizabeth,Booms,Neg,0,0,0,0,0,False
+MN,Roseville,Daley,Tubbs,Aff,1,1,0,1,0,False
+MN,Roseville,Daley,Tubbs,Neg,1,1,0,0,0,False
+NY,Roslyn,Asher,Bykov,Aff,3,3,0,0,0,False
+NY,Roslyn,Asher,Bykov,Neg,2,2,0,0,0,False
+NY,Roslyn,Brandon,Lee,Aff,2,2,0,0,0,False
+NY,Roslyn,Brandon,Lee,Neg,1,1,0,0,0,False
+TX,Round Rock,Sreya,Gandra,Aff,2,2,1,0,2,False
+TX,Round Rock,Sreya,Gandra,Neg,3,2,1,0,2,False
+UT,Rowland Hall,Joseph,Wang,Aff,1,1,1,1,1,False
+UT,Rowland Hall,Joseph,Wang,Neg,0,0,0,0,0,False
+UT,Rowland Hall,Ria,Agarwal,Aff,1,1,0,0,0,False
+UT,Rowland Hall,Ria,Agarwal,Neg,1,1,0,0,0,False
+UT,Rowland Hall,Leonie,Anderson,Aff,3,3,0,0,0,False
+UT,Rowland Hall,Leonie,Anderson,Neg,3,4,0,0,0,False
+TX,Royse City,Parker,Pogue,Aff,6,5,0,0,0,False
+TX,Royse City,Parker,Pogue,Neg,8,6,0,0,0,False
+MS,Sacred Heart,Sarah,Pierce,Aff,7,7,7,2,0,False
+MS,Sacred Heart,Sarah,Pierce,Neg,19,23,19,2,0,False
+CA,Sage Hill,Ali,Ansari,Aff,7,6,5,0,0,False
+CA,Sage Hill,Ali,Ansari,Neg,7,11,6,0,0,False
+CA,Sage Hill,Timothy,Guo,Aff,3,3,3,0,3,False
+CA,Sage Hill,Timothy,Guo,Neg,5,7,4,0,4,False
+CA,Sage Hill,Maya,Jaffe,Aff,2,0,0,0,0,False
+CA,Sage Hill,Maya,Jaffe,Neg,4,4,0,3,0,False
+TX,San Marcos,Daisy,Obregon,Aff,7,7,7,3,0,False
+TX,San Marcos,Daisy,Obregon,Neg,8,10,8,3,0,False
+TX,San Marcos,Will,Hutchinson,Aff,5,5,4,1,1,False
+TX,San Marcos,Will,Hutchinson,Neg,13,22,12,3,1,False
+TX,San Marcos,Sean,Bryan,Aff,2,2,0,1,0,False
+TX,San Marcos,Sean,Bryan,Neg,0,0,0,0,0,False
+CA,San Marino,Ian,Chen,Aff,8,6,0,0,4,True
+CA,San Marino,Ian,Chen,Neg,10,7,0,0,6,False
+CA,San Marino,Eric,Deng,Aff,46,32,46,45,3,True
+CA,San Marino,Eric,Deng,Neg,49,94,49,48,0,True
+CA,San Marino,Justin,Jang,Aff,1,1,1,0,1,False
+CA,San Marino,Justin,Jang,Neg,0,0,0,0,0,False
+CA,San Marino,Brian,Kam,Aff,8,6,0,0,6,False
+CA,San Marino,Brian,Kam,Neg,12,22,0,0,17,False
+CA,San Marino,Vincent,Liu,Aff,9,8,0,1,4,True
+CA,San Marino,Vincent,Liu,Neg,10,24,1,0,11,False
+CA,San Marino,Kyle,Weng,Aff,4,4,3,0,0,True
+CA,San Marino,Kyle,Weng,Neg,5,10,4,0,0,True
+CA,San Marino,Aaron,Fong,Aff,2,2,0,0,1,False
+CA,San Marino,Aaron,Fong,Neg,0,0,0,0,0,False
+CA,San Marino,Kelly,Wong,Aff,5,5,4,0,2,True
+CA,San Marino,Kelly,Wong,Neg,9,10,8,0,4,False
+CA,San Marino,Daniel,Khoshnan,Aff,2,2,1,0,0,True
+CA,San Marino,Daniel,Khoshnan,Neg,2,4,1,0,0,False
+CA,San Marino,Tobiah,Abravanel,Aff,2,1,0,0,1,False
+CA,San Marino,Tobiah,Abravanel,Neg,1,2,0,0,1,False
+CA,Santa Monica,Rex,Evans,Aff,32,20,29,20,9,False
+CA,Santa Monica,Rex,Evans,Neg,65,66,56,30,15,False
+FL,Sarasota,Charles,Karcher,Aff,3,2,1,0,0,False
+FL,Sarasota,Charles,Karcher,Neg,3,3,2,0,0,False
+CA,Saratoga,Ujjwal,Krishnamurthi,Aff,4,4,2,0,3,False
+CA,Saratoga,Ujjwal,Krishnamurthi,Neg,10,18,8,0,6,False
+CA,Saratoga,David,Koh,Aff,5,5,3,0,1,True
+CA,Saratoga,David,Koh,Neg,6,11,6,0,0,True
+CA,Saratoga,Alvin,Liu,Aff,1,1,0,0,0,False
+CA,Saratoga,Alvin,Liu,Neg,1,1,0,0,0,False
+CA,Saratoga,Satvik,Narasimhan,Aff,5,3,2,0,2,False
+CA,Saratoga,Satvik,Narasimhan,Neg,0,0,0,0,0,False
+CA,Saratoga,Victor,Li,Aff,2,2,0,0,0,False
+CA,Saratoga,Victor,Li,Neg,3,3,0,0,0,False
+CA,Saratoga,Chris,Feng,Aff,1,1,1,0,0,False
+CA,Saratoga,Chris,Feng,Neg,2,1,2,0,1,False
+NY,Scarsdale,Will,Musoff,Aff,3,2,0,0,0,True
+NY,Scarsdale,Will,Musoff,Neg,0,0,0,0,0,False
+NY,Scarsdale,Ananta,Wadhwa,Aff,5,5,0,0,0,False
+NY,Scarsdale,Ananta,Wadhwa,Neg,5,5,0,0,0,False
+NY,Scarsdale,Sanjana,Bhatnagar,Aff,4,4,0,0,0,True
+NY,Scarsdale,Sanjana,Bhatnagar,Neg,5,5,0,0,0,True
+NY,Scarsdale,Natalie,Isak,Aff,3,2,0,0,0,False
+NY,Scarsdale,Natalie,Isak,Neg,2,2,0,0,0,False
+NY,Scarsdale,Sally,Ho,Aff,1,1,0,0,0,False
+NY,Scarsdale,Sally,Ho,Neg,3,3,2,0,1,False
+NY,Scarsdale,Cukier,I,Aff,-1,-1,-1,-1
+NY,Scarsdale,Cukier,I,Neg,-1,-1,-1,-1
+NY,Scarsdale,Nikki,Lerner,Aff,4,1,0,0,0,False
+NY,Scarsdale,Nikki,Lerner,Neg,8,2,0,0,0,False
+NY,Scarsdale,Felicity,Huang,Aff,1,1,0,0,0,False
+NY,Scarsdale,Felicity,Huang,Neg,1,1,0,0,0,False
+NY,Scarsdale,Brandon,Yazdi,Aff,1,1,0,0,0,False
+NY,Scarsdale,Brandon,Yazdi,Neg,1,1,0,0,0,False
+NY,Scarsdale,Ezra,Levine,Aff,1,1,0,0,0,False
+NY,Scarsdale,Ezra,Levine,Neg,1,3,1,0,0,False
+CA,Servite,Patrick,Aimone,Aff,6,6,0,0,0,False
+CA,Servite,Patrick,Aimone,Neg,13,16,0,0,0,False
+TX,Seven Lakes,Rohan,Rao,Aff,7,13,6,0,9,False
+TX,Seven Lakes,Rohan,Rao,Neg,6,10,5,0,7,False
+TX,Seven Lakes,Victoria,Zhang,Aff,2,5,0,0,0,False
+TX,Seven Lakes,Victoria,Zhang,Neg,4,6,0,0,0,False
+TX,Seven Lakes,Jaekyung,Sim,Aff,4,4,2,0,3,False
+TX,Seven Lakes,Jaekyung,Sim,Neg,6,6,1,0,5,False
+TX,Seven Lakes,Varun,Naik,Aff,1,0,0,0,0,False
+TX,Seven Lakes,Varun,Naik,Neg,0,0,0,0,0,False
+KS,Shawnee Mission Northwest,Emmanuel,Osei,Aff,2,2,2,0,1,False
+KS,Shawnee Mission Northwest,Emmanuel,Osei,Neg,2,1,2,0,0,False
+OR,South Eugene,Wiley,Kohler,Aff,13,11,13,7,4,False
+OR,South Eugene,Wiley,Kohler,Neg,11,27,10,3,8,False
+OR,South Eugene,William,Race,Aff,3,2,2,0,1,False
+OR,South Eugene,William,Race,Neg,5,6,4,0,0,False
+TX,Southlake Carroll,Samir,Mohsin,Aff,25,25,25,0,22,True
+TX,Southlake Carroll,Samir,Mohsin,Neg,41,67,41,0,50,False
+TX,Southlake Carroll,Gautam,Iyer,Aff,17,14,15,0,11,True
+TX,Southlake Carroll,Gautam,Iyer,Neg,31,23,25,0,17,True
+TX,Southlake Carroll,Aman,Patel,Aff,11,11,2,0,10,False
+TX,Southlake Carroll,Aman,Patel,Neg,14,21,5,0,18,False
+TX,Southlake Carroll,Rishik,Puppala,Aff,1,1,0,0,0,False
+TX,Southlake Carroll,Rishik,Puppala,Neg,1,1,0,0,0,False
+TX,Southlake Carroll,Jonathan,Chiang,Aff,7,7,2,0,7,False
+TX,Southlake Carroll,Jonathan,Chiang,Neg,7,12,1,0,12,False
+TX,Southlake Carroll,Ty,Ponzo,Aff,1,1,1,0,0,False
+TX,Southlake Carroll,Ty,Ponzo,Neg,1,1,1,0,0,False
+TX,Southlake Carroll,Tarun,Ratnasabapathy,Aff,4,4,4,0,3,False
+TX,Southlake Carroll,Tarun,Ratnasabapathy,Neg,6,12,6,0,8,False
+TX,Southlake Carroll,Ankith,Kurapati,Aff,0,0,0,0,0,False
+TX,Southlake Carroll,Ankith,Kurapati,Neg,1,3,1,0,0,False
+OR,Sprague,Lindsey,Williams,Aff,9,2,2,0,0,False
+OR,Sprague,Lindsey,Williams,Neg,16,4,5,0,0,False
+OR,Sprague,Santiago,Monleon,Aff,7,4,0,0,0,True
+OR,Sprague,Santiago,Monleon,Neg,4,4,0,0,0,True
+TX,St Agnes,Lydia,Huang,Aff,3,3,0,0,2,False
+TX,St Agnes,Lydia,Huang,Neg,7,7,0,0,7,False
+MS,St Andrews,Ishan,Bhatt,Aff,19,22,18,18,6,False
+MS,St Andrews,Ishan,Bhatt,Neg,31,61,30,30,0,False
+MS,St Andrews,Osose,Ewaleifoh,Aff,4,3,4,0,0,False
+MS,St Andrews,Osose,Ewaleifoh,Neg,4,3,4,0,0,False
+MS,St Andrews,Clay,Morris,Aff,1,1,0,0,0,False
+MS,St Andrews,Clay,Morris,Neg,0,0,0,0,0,False
+CA,St Francis,Deep,Joshi,Aff,7,7,0,0,1,False
+CA,St Francis,Deep,Joshi,Neg,8,8,0,0,1,False
+CA,St Francis,Kushaal,Rao,Aff,0,0,0,0,0,False
+CA,St Francis,Kushaal,Rao,Neg,0,0,0,0,0,False
+CA,St Francis,Dude,Natarajan,Aff,0,0,0,0,0,False
+CA,St Francis,Dude,Natarajan,Neg,0,0,0,0,0,False
+CA,Stockdale,Warren,Alphonso,Aff,5,3,4,4,1,False
+CA,Stockdale,Warren,Alphonso,Neg,7,13,7,5,0,False
+CA,Stockdale,Rishi,Shah,Aff,3,2,2,1,0,False
+CA,Stockdale,Rishi,Shah,Neg,4,1,4,3,0,False
+VA,Stone Bridge,Yiyang,Chen,Aff,0,0,0,0,0,False
+VA,Stone Bridge,Yiyang,Chen,Neg,1,1,0,1,0,False
+TX,Strake Jesuit,Matthew,Chen,Aff,48,46,46,19,14,False
+TX,Strake Jesuit,Matthew,Chen,Neg,65,121,61,27,22,False
+TX,Strake Jesuit,Charles,Li,Aff,31,30,27,0,26,False
+TX,Strake Jesuit,Charles,Li,Neg,37,65,33,0,31,False
+TX,Strake Jesuit,Joshua,Herrera,Aff,17,18,0,0,16,False
+TX,Strake Jesuit,Joshua,Herrera,Neg,17,27,1,0,11,False
+TX,Strake Jesuit,Nick,Malanga,Aff,15,15,0,0,13,False
+TX,Strake Jesuit,Nick,Malanga,Neg,13,24,0,0,17,False
+TX,Strake Jesuit,Vincent,Liu,Aff,19,15,0,0,13,False
+TX,Strake Jesuit,Vincent,Liu,Neg,29,27,0,0,14,False
+TX,Strake Jesuit,Wyatt,Hatfield,Aff,7,7,4,0,6,False
+TX,Strake Jesuit,Wyatt,Hatfield,Neg,9,18,5,0,11,False
+TX,Strake Jesuit,Drew,Thorburn,Aff,22,20,20,0,18,True
+TX,Strake Jesuit,Drew,Thorburn,Neg,23,35,22,0,15,False
+TX,Strake Jesuit,Andrew,Nguyen,Aff,7,7,0,0,6,False
+TX,Strake Jesuit,Andrew,Nguyen,Neg,18,26,0,0,12,False
+TX,Strake Jesuit,Cameron,Raschke,Aff,13,1,1,0,0,False
+TX,Strake Jesuit,Cameron,Raschke,Neg,10,1,1,0,0,False
+TX,Strake Jesuit,Neville,Tom,Aff,12,15,11,0,10,False
+TX,Strake Jesuit,Neville,Tom,Neg,18,30,15,0,11,False
+TX,Strake Jesuit,Aneel,Mehra,Aff,8,7,6,0,5,False
+TX,Strake Jesuit,Aneel,Mehra,Neg,13,11,12,0,7,False
+TX,Strake Jesuit,Jack,Marsh,Aff,3,3,0,0,2,True
+TX,Strake Jesuit,Jack,Marsh,Neg,4,4,0,0,3,True
+TX,Strake Jesuit,Joey,Georges,Aff,18,21,15,1,17,False
+TX,Strake Jesuit,Joey,Georges,Neg,25,43,18,0,27,False
+TX,Strake Jesuit,David,DHerrera,Aff,5,5,2,0,3,False
+TX,Strake Jesuit,David,DHerrera,Neg,3,4,2,0,2,False
+TX,Strake Jesuit,Aiden,Sherwood,Aff,2,1,0,0,1,False
+TX,Strake Jesuit,Aiden,Sherwood,Neg,2,2,0,0,1,False
+TX,Strake Jesuit,Shawn,Xie,Aff,1,1,1,0,1,False
+TX,Strake Jesuit,Shawn,Xie,Neg,0,0,0,0,0,False
+TX,Strake Jesuit,Ben,Erdmann,Aff,23,22,17,0,18,False
+TX,Strake Jesuit,Ben,Erdmann,Neg,13,10,6,1,5,False
+TX,Strake Jesuit,Arun,AAMehra,Aff,8,3,1,0,3,False
+TX,Strake Jesuit,Arun,AAMehra,Neg,11,6,0,0,5,False
+TX,Strake Jesuit,Krishna,Nayar,Aff,2,3,1,0,1,False
+TX,Strake Jesuit,Krishna,Nayar,Neg,1,1,1,0,0,False
+TX,Strake Jesuit,E,Nguyen,Aff,7,7,0,0,6,False
+TX,Strake Jesuit,E,Nguyen,Neg,18,26,0,0,12,False
+TX,Strake Jesuit,Joshua,Porter,Aff,5,7,5,1,2,True
+TX,Strake Jesuit,Joshua,Porter,Neg,10,19,10,0,7,True
+TX,Strake Jesuit,Jett,Poskey,Aff,2,0,2,2,0,False
+TX,Strake Jesuit,Jett,Poskey,Neg,0,0,0,0,0,False
+TX,Strake Jesuit,Nathaniel,Fernandes,Aff,1,1,1,0,0,False
+TX,Strake Jesuit,Nathaniel,Fernandes,Neg,0,0,0,0,0,False
+TX,Strake Jesuit,Brendan,Barrett,Aff,3,3,3,0,2,False
+TX,Strake Jesuit,Brendan,Barrett,Neg,3,5,3,0,2,False
+PA,Strath Haven,William,Lee,Aff,2,2,1,0,1,False
+PA,Strath Haven,William,Lee,Neg,0,0,0,0,0,False
+NY,Stuyvesant,Kevin,Li,Aff,20,18,0,8,0,False
+NY,Stuyvesant,Kevin,Li,Neg,39,39,2,1,0,False
+NY,Stuyvesant,Pacy,Yan,Aff,26,19,25,0,0,True
+NY,Stuyvesant,Pacy,Yan,Neg,36,64,36,0,0,False
+NY,Stuyvesant,Claire,Liu,Aff,15,14,13,0,5,True
+NY,Stuyvesant,Claire,Liu,Neg,20,25,14,0,5,False
+NY,Stuyvesant,Kelly,Wang,Aff,1,1,1,0,0,False
+NY,Stuyvesant,Kelly,Wang,Neg,2,3,2,0,0,False
+NY,Stuyvesant,Alvin,Yao,Aff,0,0,0,0,0,False
+NY,Stuyvesant,Alvin,Yao,Neg,0,0,0,0,0,False
+NY,Stuyvesant,David,Dascher,Aff,4,3,2,0,0,False
+NY,Stuyvesant,David,Dascher,Neg,4,4,1,0,0,False
+NY,Stuyvesant,Geena,Kim,Aff,1,1,1,0,0,False
+NY,Stuyvesant,Geena,Kim,Neg,2,2,2,0,0,False
+NY,Stuyvesant,Joseph,Lee,Aff,2,2,0,0,0,False
+NY,Stuyvesant,Joseph,Lee,Neg,4,4,0,0,0,False
+NY,Stuyvesant,Irene,Lam,Aff,1,1,1,0,0,False
+NY,Stuyvesant,Irene,Lam,Neg,1,2,1,0,0,False
+NY,Stuyvesant,Gallo,Patel,Aff,0,0,0,0,0,False
+NY,Stuyvesant,Gallo,Patel,Neg,0,0,0,0,0,False
+NY,Success Academy,Aida,Bathily,Aff,8,8,0,0,0,False
+NY,Success Academy,Aida,Bathily,Neg,6,6,0,0,0,False
+NY,Success Academy,Sekou,Black,Aff,6,6,2,0,2,False
+NY,Success Academy,Sekou,Black,Neg,28,28,0,0,0,False
+NY,Success Academy,Tajaih,Robinson,Aff,15,15,3,0,0,False
+NY,Success Academy,Tajaih,Robinson,Neg,36,35,3,0,0,False
+NY,Success Academy,Bintou,Cisse,Aff,2,2,1,0,0,False
+NY,Success Academy,Bintou,Cisse,Neg,0,0,0,0,0,False
+NY,Success Academy,Lala,Diallo,Aff,0,0,0,0,0,False
+NY,Success Academy,Lala,Diallo,Neg,0,0,0,0,0,False
+NY,Success Academy,Chase,Earland,Aff,0,0,0,0,0,False
+NY,Success Academy,Chase,Earland,Neg,0,0,0,0,0,False
+OR,Summit,Colin,White,Aff,0,0,0,0,0,False
+OR,Summit,Colin,White,Neg,1,1,1,0,0,False
+NY,Syosset,Michael,Wang,Aff,9,6,0,0,2,False
+NY,Syosset,Michael,Wang,Neg,11,7,0,0,0,False
+WA,Tahoma,Guzman,Soto,Aff,-1,-1,-1,-1
+WA,Tahoma,Guzman,Soto,Neg,-1,-1,-1,-1
+WA,Tahoma,Jeremiah,Briere,Aff,2,2,0,0,0,False
+WA,Tahoma,Jeremiah,Briere,Neg,1,1,0,0,0,False
+WA,Tahoma,Daniela,Perezchicha,Aff,1,1,0,0,0,False
+WA,Tahoma,Daniela,Perezchicha,Neg,1,1,0,0,0,False
+TX,Texas Academy of Math and Science,Maya,Xia,Aff,7,7,5,0,1,False
+TX,Texas Academy of Math and Science,Maya,Xia,Neg,18,27,16,0,3,False
+VA,Thomas Jefferson,Rishabh,Krishnan,Aff,4,2,0,0,1,True
+VA,Thomas Jefferson,Rishabh,Krishnan,Neg,7,5,0,2,2,False
+VA,Thomas Jefferson,Yukta,Chidanandan,Aff,1,1,0,0,0,False
+VA,Thomas Jefferson,Yukta,Chidanandan,Neg,1,1,0,0,0,False
+VA,Thomas Jefferson,Amitesh,Kotwal,Aff,9,6,0,4,0,False
+VA,Thomas Jefferson,Amitesh,Kotwal,Neg,16,12,1,9,0,False
+VA,Thomas Jefferson,Priyanka,Mehta,Aff,0,0,0,0,0,False
+VA,Thomas Jefferson,Priyanka,Mehta,Neg,2,1,2,0,0,False
+VA,Thomas Jefferson,Vinay,Bhaip,Aff,2,1,0,0,0,False
+VA,Thomas Jefferson,Vinay,Bhaip,Neg,0,1,0,0,0,False
+VA,Thomas Jefferson,Prerak,Thakkar,Aff,0,0,0,0,0,False
+VA,Thomas Jefferson,Prerak,Thakkar,Neg,0,0,0,0,0,False
+VA,Thomas Jefferson,Avyuk,Dixit,Aff,3,3,1,0,1,False
+VA,Thomas Jefferson,Avyuk,Dixit,Neg,4,7,2,0,5,False
+VA,Thomas Jefferson,Pranav,Rao,Aff,1,1,0,0,1,False
+VA,Thomas Jefferson,Pranav,Rao,Neg,1,1,1,0,0,False
+CA,Torrey Pines,Farzaan,Kaiyom,Aff,9,9,0,2,4,False
+CA,Torrey Pines,Farzaan,Kaiyom,Neg,14,14,0,2,8,False
+CA,Torrey Pines,Joshua,Chung,Aff,7,6,2,2,5,False
+CA,Torrey Pines,Joshua,Chung,Neg,15,17,3,2,16,True
+KY,Trinity,Mark,Hughes,Aff,6,8,5,2,0,False
+KY,Trinity,Mark,Hughes,Neg,6,7,5,1,0,False
+FL,Trinity Prep,Alexandre,Spallone,Aff,4,4,3,0,0,False
+FL,Trinity Prep,Alexandre,Spallone,Neg,2,2,1,0,0,False
+FL,Trinity Prep,David,Escue,Aff,0,0,0,0,0,False
+FL,Trinity Prep,David,Escue,Neg,0,0,0,0,0,False
+TX,Trinity Valley,Kishan,Kalaria,Aff,2,2,0,2,0,False
+TX,Trinity Valley,Kishan,Kalaria,Neg,0,0,0,0,0,False
+CA,Troy,Lavanaya,Garg,Aff,4,3,0,0,0,True
+CA,Troy,Lavanaya,Garg,Neg,15,12,0,0,0,False
+CA,Troy,Allen,Pau,Aff,6,2,0,0,0,False
+CA,Troy,Allen,Pau,Neg,7,4,0,0,0,False
+CA,Troy,Gunn,Hyun,Aff,1,1,0,0,0,False
+CA,Troy,Gunn,Hyun,Neg,1,1,0,0,0,False
+NJ,University,Ryan,Hemnarine,Aff,5,5,1,0,3,False
+NJ,University,Ryan,Hemnarine,Neg,4,3,0,0,0,False
+CA,Valencia,Caitlin,Lee,Aff,3,3,0,0,0,True
+CA,Valencia,Caitlin,Lee,Neg,3,5,0,0,0,False
+IA,Valley,Kyle,Kopf,Aff,18,7,0,0,1,False
+IA,Valley,Kyle,Kopf,Neg,13,13,0,0,2,False
+IA,Valley,Animesh,Joshi,Aff,17,14,1,0,1,False
+IA,Valley,Animesh,Joshi,Neg,15,12,2,1,0,False
+IA,Valley,Conal,ThomasMcGinnis,Aff,20,17,4,0,1,True
+IA,Valley,Conal,ThomasMcGinnis,Neg,14,13,2,0,0,False
+IA,Valley,Carly,Rieger,Aff,3,2,0,0,0,False
+IA,Valley,Carly,Rieger,Neg,3,3,0,0,0,False
+IA,Valley,Lauren,Gilbert,Aff,12,4,0,0,1,False
+IA,Valley,Lauren,Gilbert,Neg,5,3,0,0,0,False
+IA,Valley,Isabella,Nadel,Aff,11,3,0,0,0,False
+IA,Valley,Isabella,Nadel,Neg,10,2,0,0,0,False
+IA,Valley,Henry,Schwob,Aff,3,3,0,0,0,False
+IA,Valley,Henry,Schwob,Neg,4,4,0,0,0,False
+IA,Valley,Andy,Waters,Aff,1,1,0,0,0,False
+IA,Valley,Andy,Waters,Neg,3,4,0,0,0,False
+IA,Valley,Connor,Liu,Aff,2,2,0,0,0,False
+IA,Valley,Connor,Liu,Neg,1,2,0,0,0,False
+IA,Valley,Lucas,Bryant,Aff,28,28,0,0,5,False
+IA,Valley,Lucas,Bryant,Neg,32,47,0,0,0,False
+IA,Valley,Caleb,Bray,Aff,7,7,0,0,2,False
+IA,Valley,Caleb,Bray,Neg,4,5,0,0,0,False
+IA,Valley,Braedon,Kirkpatrick,Aff,1,1,0,0,0,False
+IA,Valley,Braedon,Kirkpatrick,Neg,0,0,0,0,0,False
+IA,Valley,Ayden,Johnson,Aff,0,0,0,0,0,False
+IA,Valley,Ayden,Johnson,Neg,0,0,0,0,0,False
+IA,Valley,Rachel,Bartholomew,Aff,1,1,0,0,0,False
+IA,Valley,Rachel,Bartholomew,Neg,1,1,0,0,0,False
+IA,Valley,James,Meng,Aff,11,7,0,0,0,False
+IA,Valley,James,Meng,Neg,6,6,0,0,0,False
+IA,Valley,Joseph,Whisler,Aff,0,0,0,0,0,False
+IA,Valley,Joseph,Whisler,Neg,0,0,0,0,0,False
+IA,Valley,Brogan,Kirkpatrick,Aff,1,1,0,0,0,False
+IA,Valley,Brogan,Kirkpatrick,Neg,0,0,0,0,0,False
+IA,Valley,Gus,Johnson,Aff,0,0,0,0,0,False
+IA,Valley,Gus,Johnson,Neg,0,0,0,0,0,False
+IA,Valley,Jalyn,Wu,Aff,2,2,2,0,0,False
+IA,Valley,Jalyn,Wu,Neg,1,1,1,0,0,False
+IA,Valley,Nick,Lucht,Aff,1,1,0,0,0,False
+IA,Valley,Nick,Lucht,Neg,0,0,0,0,0,False
+IA,Valley,Kauai,Cua,Aff,2,2,0,0,0,False
+IA,Valley,Kauai,Cua,Neg,0,0,0,0,0,False
+IA,Valley,Mia,Dukle,Aff,1,1,0,0,0,False
+IA,Valley,Mia,Dukle,Neg,2,2,0,0,0,False
+IA,Valley,Abby,Bishop,Aff,2,1,0,0,0,False
+IA,Valley,Abby,Bishop,Neg,1,1,0,0,0,False
+IA,Valley,Olivia,Brown,Aff,2,1,0,0,0,False
+IA,Valley,Olivia,Brown,Neg,2,2,0,0,0,False
+IA,Valley,Vanessa,Kawala,Aff,1,1,0,0,0,False
+IA,Valley,Vanessa,Kawala,Neg,1,0,0,0,0,False
+IA,Valley,Anthony,Holm,Aff,0,0,0,0,0,False
+IA,Valley,Anthony,Holm,Neg,0,0,0,0,0,False
+IA,Valley,Risha,Shetye,Aff,1,1,0,0,0,False
+IA,Valley,Risha,Shetye,Neg,1,2,0,0,0,False
+CO,Valor Christian,Payton,Case,Aff,1,2,1,1,0,False
+CO,Valor Christian,Payton,Case,Neg,1,3,1,1,0,False
+AL,Vestavia Hills,Mei,Sun,Aff,1,1,0,0,0,True
+AL,Vestavia Hills,Mei,Sun,Neg,1,1,0,0,0,True
+TX,Village,Aditya,Iyer,Aff,4,2,0,2,1,False
+TX,Village,Aditya,Iyer,Neg,3,1,0,2,0,False
+TX,Village,Aryan,Parikh,Aff,2,2,1,0,0,False
+TX,Village,Aryan,Parikh,Neg,1,1,1,0,0,False
+TX,Village,Aman,Kumar,Aff,1,0,0,0,0,False
+TX,Village,Aman,Kumar,Neg,1,0,0,1,0,False
+TX,Village,Adnan,Fatakdawala,Aff,1,0,0,1,0,False
+TX,Village,Adnan,Fatakdawala,Neg,1,0,0,1,0,False
+TX,Village,Hasnain,Ali,Aff,2,2,2,0,0,False
+TX,Village,Hasnain,Ali,Neg,0,0,0,0,0,False
+TX,Village,Abhay,Sirsi,Aff,1,1,1,1,0,False
+TX,Village,Abhay,Sirsi,Neg,0,0,0,0,0,False
+MD,Walt Whitman,Daniel,Harris,Aff,27,36,26,13,10,False
+MD,Walt Whitman,Daniel,Harris,Neg,31,66,29,16,24,False
+MD,Walt Whitman,Ben,Waldman,Aff,22,11,22,0,4,False
+MD,Walt Whitman,Ben,Waldman,Neg,20,30,20,0,0,False
+MD,Walt Whitman,Ivy,Xun,Aff,6,5,0,0,0,False
+MD,Walt Whitman,Ivy,Xun,Neg,6,6,0,0,0,False
+MD,Walt Whitman,Jacqueline,Lydon,Aff,8,7,1,0,0,True
+MD,Walt Whitman,Jacqueline,Lydon,Neg,13,14,0,0,0,True
+MD,Walt Whitman,Camille,Caldera,Aff,15,14,0,0,4,False
+MD,Walt Whitman,Camille,Caldera,Neg,20,48,0,0,0,False
+MD,Walt Whitman,Cassandra,Branson,Aff,2,4,0,0,0,False
+MD,Walt Whitman,Cassandra,Branson,Neg,0,0,0,0,0,False
+TX,Warren,Chance,Moreno,Aff,0,0,0,0,0,False
+TX,Warren,Chance,Moreno,Neg,0,0,0,0,0,False
+WI,Waukesha South,Santana,Vannarath,Aff,1,1,0,0,0,False
+WI,Waukesha South,Santana,Vannarath,Neg,1,1,0,0,0,False
+UT,West,Gideon,Gomm,Aff,6,6,4,0,1,False
+UT,West,Gideon,Gomm,Neg,12,12,12,0,2,False
+UT,West,Kiyan,Banuri,Aff,2,2,2,0,0,False
+UT,West,Kiyan,Banuri,Neg,5,4,5,0,0,False
+UT,West,Lizzie,Peterson,Aff,1,1,1,0,1,False
+UT,West,Lizzie,Peterson,Neg,1,1,1,0,1,False
+FL,West Broward,Ethan,Massa,Aff,9,6,1,0,1,False
+FL,West Broward,Ethan,Massa,Neg,20,18,0,0,3,False
+FL,West Broward,Amanda,Ciocca,Aff,1,1,0,0,0,True
+FL,West Broward,Amanda,Ciocca,Neg,1,1,0,0,0,True
+FL,West Broward,Ali,Alwani,Aff,0,0,0,0,0,False
+FL,West Broward,Ali,Alwani,Neg,0,0,0,0,0,False
+OR,West Linn,Dennis,Tang,Aff,9,8,0,1,3,True
+OR,West Linn,Dennis,Tang,Neg,18,9,2,1,5,False
+MA,Westford,David,Towers,Aff,1,1,0,0,0,False
+MA,Westford,David,Towers,Neg,1,1,0,0,0,False
+TX,Westlake,Andrew,Lee,Aff,10,9,9,0,0,False
+TX,Westlake,Andrew,Lee,Neg,14,14,13,0,0,False
+TX,Westlake,Amanda,Chen,Aff,7,7,1,0,3,False
+TX,Westlake,Amanda,Chen,Neg,11,13,1,0,0,False
+TX,Westlake,Jackie,Ballard,Aff,4,4,0,0,0,False
+TX,Westlake,Jackie,Ballard,Neg,4,4,0,0,0,False
+TX,Westlake,Cassidy,Reynolds,Aff,1,1,0,0,0,False
+TX,Westlake,Cassidy,Reynolds,Neg,0,0,0,0,0,False
+TX,Westlake,Ethan,Abraham,Aff,1,1,0,0,0,False
+TX,Westlake,Ethan,Abraham,Neg,1,1,0,0,0,False
+TX,Westlake,Abhinav,Rachakonda,Aff,0,0,0,0,0,False
+TX,Westlake,Abhinav,Rachakonda,Neg,0,0,0,0,0,False
+CA,Westridge,Rachel,Harris,Aff,4,4,2,0,0,False
+CA,Westridge,Rachel,Harris,Neg,4,9,4,0,0,False
+CA,Westridge,Cara,Wilson,Aff,0,0,0,0,0,False
+CA,Westridge,Cara,Wilson,Neg,0,0,0,0,0,False
+OR,Westview,Rohith,Sudhakar,Aff,20,17,13,5,10,True
+OR,Westview,Rohith,Sudhakar,Neg,32,45,27,5,14,True
+TX,Westwood,Rohith,Mandavilli,Aff,46,47,46,13,35,False
+TX,Westwood,Rohith,Mandavilli,Neg,60,100,60,16,69,False
+TX,Westwood,Rishabh,Shah,Aff,23,21,18,6,14,False
+TX,Westwood,Rishabh,Shah,Neg,41,56,40,17,24,False
+TX,Westwood,Jugal,Amodwala,Aff,17,17,17,5,14,False
+TX,Westwood,Jugal,Amodwala,Neg,27,43,27,9,30,False
+TX,Westwood,Dhruva,Mambapoor,Aff,14,14,8,4,12,False
+TX,Westwood,Dhruva,Mambapoor,Neg,16,27,11,2,16,False
+TX,Westwood,Abby,Grifno,Aff,21,16,0,0,14,True
+TX,Westwood,Abby,Grifno,Neg,21,29,0,0,20,True
+TX,Westwood,Saavan,Myneni,Aff,19,18,19,4,13,False
+TX,Westwood,Saavan,Myneni,Neg,18,34,18,3,23,False
+TX,Westwood,Alice,Zhang,Aff,20,6,19,0,5,False
+TX,Westwood,Alice,Zhang,Neg,17,27,16,0,19,False
+TX,Westwood,Truman,Le,Aff,19,15,18,3,11,False
+TX,Westwood,Truman,Le,Neg,19,33,18,3,22,False
+TX,Westwood,Nishka,Kuttanna,Aff,2,2,1,0,1,False
+TX,Westwood,Nishka,Kuttanna,Neg,2,2,0,0,1,False
+TX,Westwood,Sudiksha,Pradhan,Aff,3,2,1,0,1,False
+TX,Westwood,Sudiksha,Pradhan,Neg,1,1,0,0,0,False
+TX,Westwood,Davina,Lee,Aff,7,7,7,0,6,False
+TX,Westwood,Davina,Lee,Neg,12,21,12,0,15,False
+TX,Westwood,Harsha,Jandhyala,Aff,4,3,0,0,3,False
+TX,Westwood,Harsha,Jandhyala,Neg,3,5,0,0,5,False
+TX,Westwood,Akhila,Keeranoor,Aff,3,3,2,0,2,False
+TX,Westwood,Akhila,Keeranoor,Neg,4,4,3,0,3,False
+TX,Westwood,Richard,Lai,Aff,1,1,0,0,1,False
+TX,Westwood,Richard,Lai,Neg,0,0,0,0,0,False
+WI,Whitefish Bay,Beatrice,Windorski,Aff,1,1,1,0,0,False
+WI,Whitefish Bay,Beatrice,Windorski,Neg,0,0,0,0,0,False
+TX,Wimberly,Ben,Thomas,Aff,2,0,0,0,0,False
+TX,Wimberly,Ben,Thomas,Neg,0,0,0,0,0,False
+TX,Winston Churchill,William,Coltzer,Aff,5,5,5,0,4,False
+TX,Winston Churchill,William,Coltzer,Neg,11,20,10,0,0,False
+TX,Winston Churchill,Bianca,Rathwick,Aff,4,3,3,4,1,False
+TX,Winston Churchill,Bianca,Rathwick,Neg,14,17,10,10,3,False
+TX,Winston Churchill,Maggie,Davis,Aff,5,2,0,0,2,False
+TX,Winston Churchill,Maggie,Davis,Neg,4,1,1,3,0,False
+TX,Winston Churchill,Gabriel,Pena,Aff,1,1,0,0,1,False
+TX,Winston Churchill,Gabriel,Pena,Neg,1,1,0,0,1,False
+TX,Winston Churchill,Ian,Boarnet,Aff,2,2,2,0,0,False
+TX,Winston Churchill,Ian,Boarnet,Neg,2,2,2,0,0,False
+TX,Woodlands,Camryn,Manley,Aff,4,4,4,0,1,False
+TX,Woodlands,Camryn,Manley,Neg,4,5,4,0,0,False
+TX,Woodlands,James,Harding,Aff,20,8,20,0,3,False
+TX,Woodlands,James,Harding,Neg,25,12,25,0,0,False
+TX,Woodlands,Maddie,Couling,Aff,1,1,0,0,0,False
+TX,Woodlands,Maddie,Couling,Neg,0,0,0,0,0,False
+TX,Woodlands,Shreya,Joshi,Aff,2,2,2,0,1,False
+TX,Woodlands,Shreya,Joshi,Neg,1,1,1,0,0,False
+TX,Woodlands,Joshua,Bih,Aff,4,4,4,0,0,False
+TX,Woodlands,Joshua,Bih,Neg,1,1,1,0,0,False
+TX,Woodlands,Shristi,Chitlangia,Aff,7,4,6,0,0,False
+TX,Woodlands,Shristi,Chitlangia,Neg,7,4,6,0,1,False
+TX,Woodlands,Annalaine,Whitson,Aff,0,0,0,0,0,False
+TX,Woodlands,Annalaine,Whitson,Neg,0,0,0,0,0,False
+TX,Woodlands,Allison,Aldridge,Aff,0,0,0,0,0,False
+TX,Woodlands,Allison,Aldridge,Neg,0,0,0,0,0,False
+CA,Yorba Linda,Ishaan,Vaswani,Aff,1,1,1,0,0,False
+CA,Yorba Linda,Ishaan,Vaswani,Neg,2,3,2,0,0,False
+IN,Zionsville,Maxine,Fang,Aff,2,1,0,0,0,False
+IN,Zionsville,Maxine,Fang,Neg,1,1,0,0,0,False
