@@ -4,25 +4,33 @@ Collects information off the NDCA High School wikis.
 @author petez
 """
 
-
 import urllib.request, urllib.parse, urllib.error
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 import csv
+import os.path
+from os import path
 
-#PAGES = [["LD18", "https://hsld18.debatecoaches.org/"], ["LD17", "https://hsld17.debatecoaches.org/"]]
+# controls
+OVERWRITE = False
 
-PAGES = [["LD17", "https://hsld17.debatecoaches.org/"]]
+# get page URLs
+PAGES = [row for row in csv.reader(open("tools/wiki_pages.csv", 'r'))]
 
 def main():
-    
     for page in PAGES:
         
         page_name = page[0]
         page_url = page[1]
 
         schools = getSchools(page_url)
+        print(page)
+        if (not OVERWRITE) & path.exists("wiki_data/" + page_name + "schools_wiki.csv"):
+            print(page_name, "exists already, passing...\n")
+            continue
+
+        print(page_name, "scrapping...")
 
         school_writer = csv.writer(open("wiki_data/" + page_name + "schools_wiki.csv", 'w'), lineterminator = "\n")
         school_writer.writerow(["School Name", "Entries"])

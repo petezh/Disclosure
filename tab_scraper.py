@@ -14,15 +14,15 @@ import os.path
 from os import path
 
 # controls
-NO_REPEAT = True
+OVERWRITE = False
 
 # point to CSV with tournaments
 TOURNAMENT_CSV = 'tourn_data/tourn_info.csv'
 
 # get LD, PF, and CX event names
-LD_NAMES = [name for name in open('ld_eventnames.txt', 'r')]
-PF_NAMES = [name for name in open('pf_eventnames.txt', 'r')]
-CX_NAMES = [name for name in open('cx_eventnames.txt', 'r')]
+LD_NAMES = [name for name in open('tools/ld_eventnames.txt', 'r')]
+PF_NAMES = [name for name in open('tools/pf_eventnames.txt', 'r')]
+CX_NAMES = [name for name in open('tools/cx_eventnames.txt', 'r')]
 
 # set events to scrape
 TARGET_EVENTS = ["LD", "PF", "CX"]
@@ -56,7 +56,7 @@ def main():
                 tourn_rows += [tourn]
 
             # check if entry data exists
-            if(NO_REPEAT & path.exists("tab_data/" + tourn_name + ".csv")):
+            if(not NO_REPEAT & path.exists("tab_data/" + tourn_name + ".csv")):
                 print("Exists already.\n")
 
             else:
