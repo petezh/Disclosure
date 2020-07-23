@@ -19,13 +19,19 @@ OVERWRITE = False
 PAGES = [row for row in csv.reader(open("tools/wiki_pages.csv", 'r'))]
 
 def main():
+
     for page in PAGES:
         
         page_name = page[0]
         page_url = page[1]
 
-        schools = getSchools(page_url)
-        print(page)
+        print("trying", page_url)
+        try:
+            schools = getSchools(page_url)
+        except urllib.error.HTTPError:
+            print("page down")
+            continue
+        
         if (not OVERWRITE) & path.exists("wiki_data/" + page_name + "schools_wiki.csv"):
             print(page_name, "exists already, passing...\n")
             continue
@@ -57,13 +63,25 @@ def main():
                 school_writer.writerow([school_name, len(table)])
 
                 for index, row in table.iterrows():
-                    debater_name = row['Debater']
-                    first_name = debater_name.split()[-2]
-                    last_name = debater_name.split()[-1]
-                    aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
-                    neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
-                    debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
-                    debater_writer.writerow([state, school_name, first_name, last_name, "Neg"] + neg_results)
+                    if 'Debater' in list(table):
+                        debater_name = row['Debater']
+                        first_name = debater_name.split()[-2]
+                        last_name = debater_name.split()[-1]
+                        aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
+                        neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
+                        debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
+                        debater_writer.writerow([state, school_name, first_name, last_name, "Neg"] + neg_results)
+
+                    else:
+                        debater_name = row['Team']
+                        debater1, debater2 = debater_name.split("-")
+                        
+                        first_name = debater1.split()[-2] + "-" + debater2.split()[0]
+                        last_name = debater1.split()[-1] + "-" + debater2.split()[1]
+                        aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
+                        neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
+                        debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
+                        debater_writer.writerow([state, school_name, first_name, last_name, "Neg"] + neg_results)
 
             else:
                 school_writer.writerow([school_name, 0])
