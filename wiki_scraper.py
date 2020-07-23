@@ -74,10 +74,10 @@ def main():
 
                     else:
                         debater_name = row['Team']
-                        debater1, debater2 = debater_name.split("-")
+                        split_name = debater_name.split()
                         
-                        first_name = debater1.split()[-2] + "-" + debater2.split()[0]
-                        last_name = debater1.split()[-1] + "-" + debater2.split()[1]
+                        first_name = split_name[-5] + "-" + split_name[-2]
+                        last_name = split_name[-4] + "-" + split_name[-1]
                         aff_results = checkPage(school_url + "/" + last_name + "%20Aff")
                         neg_results = checkPage(school_url + "/" + last_name + "%20Neg")
                         debater_writer.writerow([state, school_name, first_name, last_name, "Aff"] + aff_results)
@@ -138,6 +138,7 @@ def checkSchool(url):
         columns = row.find_all('td')
         for column in columns:
             datatable.iat[row_marker, column_marker] = column.get_text().strip()
+            print(column.get_text().strip())
             column_marker = column_marker + 1
         if len(columns) > 0:
             row_marker = row_marker +1

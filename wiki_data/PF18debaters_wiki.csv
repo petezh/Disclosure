@@ -1,0 +1,351 @@
+State,School,First,Last,Side,Rounds,Cites,Round Reports,Open Source,Full Text,Facebook?
+TX,AM Consolidated,Lars-Srikar,Deutz-Satish,Aff,1,2,0,0,0,False
+TX,AM Consolidated,Lars-Srikar,Deutz-Satish,Neg,1,2,0,0,0,False
+MA,Acton-Boxborough,Samuel-Allen,Qiu-Sun,Aff,1,1,0,0,0,False
+MA,Acton-Boxborough,Samuel-Allen,Qiu-Sun,Neg,2,2,0,0,0,False
+MA,Acton-Boxborough,Lee-Jonathan,Morgan-Lin,Aff,1,0,0,0,0,False
+MA,Acton-Boxborough,Lee-Jonathan,Morgan-Lin,Neg,0,0,0,0,0,False
+NV,Advanced Technologies Academy,Samuel-Phillip,Self-Irving,Aff,1,1,1,0,0,False
+NV,Advanced Technologies Academy,Samuel-Phillip,Self-Irving,Neg,1,1,1,0,0,False
+TX,Anderson,Mark-Ari,Foster-Karchmer,Aff,2,5,0,1,0,False
+TX,Anderson,Mark-Ari,Foster-Karchmer,Neg,2,5,1,1,0,False
+TX,Anderson,Dylan-Will,Canyon-Erard,Aff,0,0,0,0,0,False
+TX,Anderson,Dylan-Will,Canyon-Erard,Neg,3,2,1,1,0,False
+TX,Anderson,Builta-S,--Builta,Aff,-1,-1,-1,-1
+TX,Anderson,Builta-S,--Builta,Neg,-1,-1,-1,-1
+TX,Athens,Francisco-Oscar,Garcia-Alfaro,Aff,0,0,0,0,0,False
+TX,Athens,Francisco-Oscar,Garcia-Alfaro,Neg,0,0,0,0,0,False
+CA,BASIS Independent Silicon Valley,Stefan-Daniel,Boone-Chen,Aff,0,0,0,0,0,False
+CA,BASIS Independent Silicon Valley,Stefan-Daniel,Boone-Chen,Neg,0,0,0,0,0,False
+CA,BASIS Independent Silicon Valley,Ayush-Daphne,Agarwal-Lu,Aff,0,0,0,0,0,False
+CA,BASIS Independent Silicon Valley,Ayush-Daphne,Agarwal-Lu,Neg,0,0,0,0,0,False
+AZ,BASIS Peoria,Sukesh-David,Ram-Parau,Aff,0,0,0,0,0,False
+AZ,BASIS Peoria,Sukesh-David,Ram-Parau,Neg,1,1,1,0,0,True
+AR,Bentonville,Evan-Lukas,Beck-Bacon,Aff,0,0,0,0,0,False
+AR,Bentonville,Evan-Lukas,Beck-Bacon,Neg,0,0,0,0,0,False
+AR,Bentonville West,Ivy-Sophie,Edmondson-Price,Aff,1,1,0,0,0,False
+AR,Bentonville West,Ivy-Sophie,Edmondson-Price,Neg,1,1,0,0,0,False
+AR,Bentonville West,Julia-Nick,Masud-Moyes,Aff,1,1,0,0,0,False
+AR,Bentonville West,Julia-Nick,Masud-Moyes,Neg,1,1,0,0,0,False
+MN,Blake,Thomas-Jack,Gill-Johnson,Aff,8,7,6,7,2,False
+MN,Blake,Thomas-Jack,Gill-Johnson,Neg,6,6,4,5,1,False
+MN,Blake,Morgan-Izzy,Swigert-Wu,Aff,3,3,1,0,2,False
+MN,Blake,Morgan-Izzy,Swigert-Wu,Neg,2,2,1,0,1,False
+CA,Canyon Crest,Sai-Warren,Gantla-Chang,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Sai-Warren,Gantla-Chang,Neg,0,0,0,0,0,False
+CA,Canyon Crest,Danny-Jason,An-Yang,Aff,3,2,0,0,0,False
+CA,Canyon Crest,Danny-Jason,An-Yang,Neg,4,2,0,0,0,False
+CA,Canyon Crest,Sai-Justin,Gantla-Liu,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Sai-Justin,Gantla-Liu,Neg,0,0,0,0,0,False
+CA,Canyon Crest,Danny-Sai,An-Gantla,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Danny-Sai,An-Gantla,Neg,0,0,0,0,0,False
+CA,Canyon Crest,Andrea-Reva,Liu-Agashe,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Andrea-Reva,Liu-Agashe,Neg,0,0,0,0,0,False
+CA,Canyon Crest,Brandon-Justin,Shen-Liu,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Brandon-Justin,Shen-Liu,Neg,0,0,0,0,0,False
+CA,Canyon Crest,Razeen-David,Nasar-Zhai,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Razeen-David,Nasar-Zhai,Neg,0,0,0,0,0,False
+CA,Canyon Crest,Pratik-Luke,Rungta-Huang,Aff,0,0,0,0,0,False
+CA,Canyon Crest,Pratik-Luke,Rungta-Huang,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Sai-Warren,Gantla-Chang,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Sai-Warren,Gantla-Chang,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Danny-Jason,An-Yang,Aff,3,2,0,0,0,False
+CA,Carmel Valley Independent,Danny-Jason,An-Yang,Neg,4,2,0,0,0,False
+CA,Carmel Valley Independent,Sai-Justin,Gantla-Liu,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Sai-Justin,Gantla-Liu,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Danny-Sai,An-Gantla,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Danny-Sai,An-Gantla,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Andrea-Reva,Liu-Agashe,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Andrea-Reva,Liu-Agashe,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Brandon-Justin,Shen-Liu,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Brandon-Justin,Shen-Liu,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Razeen-David,Nasar-Zhai,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Razeen-David,Nasar-Zhai,Neg,0,0,0,0,0,False
+CA,Carmel Valley Independent,Pratik-Luke,Rungta-Huang,Aff,0,0,0,0,0,False
+CA,Carmel Valley Independent,Pratik-Luke,Rungta-Huang,Neg,0,0,0,0,0,False
+TX,Centennial,Sai-Parth,Bommineni-Wokhlu,Aff,0,0,0,0,0,False
+TX,Centennial,Sai-Parth,Bommineni-Wokhlu,Neg,0,0,0,0,0,False
+TX,Clements,Rewa-Sonia,Goyal-Nihalani,Aff,0,0,0,0,0,False
+TX,Clements,Rewa-Sonia,Goyal-Nihalani,Neg,1,1,0,0,1,False
+TX,Clements,Sreeram-Hrishi,Satish-Marakani,Aff,0,0,0,0,0,False
+TX,Clements,Sreeram-Hrishi,Satish-Marakani,Neg,0,0,0,0,0,False
+TX,Colleyville Heritage,Colin-Daniel,Wei-Li,Aff,8,3,6,0,1,False
+TX,Colleyville Heritage,Colin-Daniel,Wei-Li,Neg,7,4,3,0,0,False
+TX,Coppell,Shabbir-Sahil,Bohri-Chiniwala,Aff,3,3,2,0,0,False
+TX,Coppell,Shabbir-Sahil,Bohri-Chiniwala,Neg,2,2,1,0,0,False
+TX,Coppell,Tharani-Shradha,Muthukumar-Panatpur,Aff,1,1,0,0,0,False
+TX,Coppell,Tharani-Shradha,Muthukumar-Panatpur,Neg,1,1,0,0,0,False
+AZ,Corona Del Sol,Ryan-Sreya,Jiang-Pattipati,Aff,1,1,1,0,0,False
+AZ,Corona Del Sol,Ryan-Sreya,Jiang-Pattipati,Neg,1,2,1,0,0,False
+NV,Coronado,Dylan-Abigail,Beach-Spencer,Aff,1,1,0,0,0,False
+NV,Coronado,Dylan-Abigail,Beach-Spencer,Neg,1,1,0,0,0,False
+VA,Cosby,Jack-Sean,Merkel-Culley,Aff,0,0,0,0,0,False
+VA,Cosby,Jack-Sean,Merkel-Culley,Neg,0,0,0,0,0,False
+OK,Crossings Christian,Roby-Caleb,Roberts-King,Aff,-1,-1,-1,-1
+OK,Crossings Christian,Roby-Caleb,Roberts-King,Neg,-1,-1,-1,-1
+OK,Crossings Christian,Garrett-Jackson,Baumert-Roberts,Aff,0,0,0,0,0,False
+OK,Crossings Christian,Garrett-Jackson,Baumert-Roberts,Neg,0,0,0,0,0,False
+FL,Cypress Bay,Josh-Miles,Gavsie-Berger,Aff,1,0,0,0,0,False
+FL,Cypress Bay,Josh-Miles,Gavsie-Berger,Neg,0,0,0,0,0,False
+FL,Cypress Bay,charlie-Noah,seldin-Kaner,Aff,1,0,1,1,0,False
+FL,Cypress Bay,charlie-Noah,seldin-Kaner,Neg,1,0,1,1,0,False
+FL,Cypress Bay,Fabiola-Matthew,Sepulveda-Norman,Aff,1,1,0,1,0,False
+FL,Cypress Bay,Fabiola-Matthew,Sepulveda-Norman,Neg,1,1,0,1,0,False
+IA,Des Moines Roosevelt,Isaac-Sri,Appel-Chilukuri,Aff,4,3,4,0,2,False
+IA,Des Moines Roosevelt,Isaac-Sri,Appel-Chilukuri,Neg,1,1,1,0,1,False
+IA,Des Moines Roosevelt,Finn-Dylan,Andersen-Morgan,Aff,1,1,1,0,0,False
+IA,Des Moines Roosevelt,Finn-Dylan,Andersen-Morgan,Neg,1,1,1,0,0,False
+CA,Dougherty Valley,Srisai-Gabe,Nachuri-Lee,Aff,1,1,0,0,0,False
+CA,Dougherty Valley,Srisai-Gabe,Nachuri-Lee,Neg,1,1,0,0,0,False
+CA,Dougherty Valley,Saad-Shreyas,Jamal-Kiran,Aff,1,1,0,0,0,False
+CA,Dougherty Valley,Saad-Shreyas,Jamal-Kiran,Neg,1,1,0,0,0,False
+TX,Duchesne Academy,Sylvia-Danielle,Duarte-Linbeck,Aff,2,2,0,0,1,False
+TX,Duchesne Academy,Sylvia-Danielle,Duarte-Linbeck,Neg,2,2,0,0,1,False
+TX,Duchesne Academy,Brooke-Avnika,Blanton-Dubey,Aff,0,0,0,0,0,False
+TX,Duchesne Academy,Brooke-Avnika,Blanton-Dubey,Neg,0,0,0,0,0,False
+TX,Duchesne Academy,Barinaga-Elisa,--Perdomo,Aff,-1,-1,-1,-1
+TX,Duchesne Academy,Barinaga-Elisa,--Perdomo,Neg,-1,-1,-1,-1
+TX,Duchesne Academy,Mimi-Lorena,Bhalla-Maher,Aff,0,0,0,0,0,False
+TX,Duchesne Academy,Mimi-Lorena,Bhalla-Maher,Neg,0,0,0,0,0,False
+TX,Duchesne Academy,Brooke-Mimi,Blanton-Bhalla,Aff,0,0,0,0,0,False
+TX,Duchesne Academy,Brooke-Mimi,Blanton-Bhalla,Neg,0,0,0,0,0,False
+TX,Dulles,Robert-Shaan,Yang-Parekh,Aff,3,3,3,0,0,False
+TX,Dulles,Robert-Shaan,Yang-Parekh,Neg,2,2,2,0,1,False
+TX,Dulles,Yilin-Sofia,Chang-Li,Aff,2,2,2,0,0,False
+TX,Dulles,Yilin-Sofia,Chang-Li,Neg,0,0,0,0,0,False
+TX,Dulles,Ian-Connor,Leibowitz-Self,Aff,1,1,0,1,1,False
+TX,Dulles,Ian-Connor,Leibowitz-Self,Neg,1,1,0,1,1,False
+KY,Dupont Manual,Kevin-Mark,Cao-Raj,Aff,0,0,0,0,0,False
+KY,Dupont Manual,Kevin-Mark,Cao-Raj,Neg,0,0,0,0,0,False
+MN,Edina,Ryan-Arjun,Zhu-Maheshwari,Aff,1,1,0,0,0,False
+MN,Edina,Ryan-Arjun,Zhu-Maheshwari,Neg,1,1,0,0,0,False
+KS,Eisenhower,Jaret-Brooklyn,Jarmer-Terstriep,Aff,16,11,15,0,1,False
+KS,Eisenhower,Jaret-Brooklyn,Jarmer-Terstriep,Neg,8,11,7,0,0,False
+TX,Elkins,Nibhan-Abhi,Akbar-Pratap,Aff,1,1,1,0,0,False
+TX,Elkins,Nibhan-Abhi,Akbar-Pratap,Neg,1,1,1,0,0,False
+TX,Euless Trinity,Ryan-Asim,Cadena-Adhikari,Aff,7,5,5,0,0,False
+TX,Euless Trinity,Ryan-Asim,Cadena-Adhikari,Neg,4,4,2,0,0,False
+CA,Fairmont Prep,Matthew-Numair,Ong-Razzak,Aff,0,0,0,0,0,False
+CA,Fairmont Prep,Matthew-Numair,Ong-Razzak,Neg,0,0,0,0,0,False
+TX,Flower Mound,Suket-Kyle,Shah-Winter,Aff,0,0,0,0,0,False
+TX,Flower Mound,Suket-Kyle,Shah-Winter,Neg,1,1,1,0,0,False
+NY,Hackley,Ben-Zach,Kirsch-Yusaf,Aff,0,0,0,0,0,False
+NY,Hackley,Ben-Zach,Kirsch-Yusaf,Neg,0,0,0,0,0,False
+AZ,Hamilton,Kabir-Raj,Cheema-Chopra,Aff,0,0,0,0,0,False
+AZ,Hamilton,Kabir-Raj,Cheema-Chopra,Neg,0,0,0,0,0,False
+AZ,Hamilton,Anika-Sazma,Desai-Sarwar,Aff,1,1,0,0,0,False
+AZ,Hamilton,Anika-Sazma,Desai-Sarwar,Neg,0,0,0,0,0,False
+CA,Harker,joe-krish,li-mysoor,Aff,0,0,0,0,0,False
+CA,Harker,joe-krish,li-mysoor,Neg,0,0,0,0,0,False
+CA,Harker,maths-like,--debates,Aff,-1,-1,-1,-1
+CA,Harker,maths-like,--debates,Neg,-1,-1,-1,-1
+CA,Harker,giorgio-jean,Agamben-Baudrillard,Aff,0,0,0,0,0,False
+CA,Harker,giorgio-jean,Agamben-Baudrillard,Neg,0,0,0,0,0,False
+TX,Hendrickson,Bryce-Sofia,Hann-Valdespino,Aff,0,0,0,0,0,False
+TX,Hendrickson,Bryce-Sofia,Hann-Valdespino,Neg,0,0,0,0,0,False
+TX,Hendrickson,Eliana-Alyssa,Galan-Vargas,Aff,0,0,0,0,0,False
+TX,Hendrickson,Eliana-Alyssa,Galan-Vargas,Neg,0,0,0,0,0,False
+TX,Hendrickson,Jazmin-Sydney,Gonzalez-Stogel,Aff,0,0,0,0,0,False
+TX,Hendrickson,Jazmin-Sydney,Gonzalez-Stogel,Neg,1,1,1,0,0,False
+ID,Highland,Jaxson-Arunabh,Nield-Sarkar,Aff,2,2,1,0,2,True
+ID,Highland,Jaxson-Arunabh,Nield-Sarkar,Neg,2,2,1,0,2,False
+TX,Kempner,Raj-Bryan,Solanki-Benitez,Aff,1,1,1,0,0,False
+TX,Kempner,Raj-Bryan,Solanki-Benitez,Neg,1,1,1,0,0,False
+TX,Klein,Andy-Brandon,Zhou-Wu,Aff,1,1,1,0,1,False
+TX,Klein,Andy-Brandon,Zhou-Wu,Neg,1,1,1,0,1,False
+FL,Lake Highland,Anoosh-Jaspar,Kumar-Ou,Aff,2,2,2,1,0,False
+FL,Lake Highland,Anoosh-Jaspar,Kumar-Ou,Neg,2,2,2,1,0,False
+MN,Lakeville,Gus-Henry,Gerlach-Nomeland,Aff,0,0,0,0,0,False
+MN,Lakeville,Gus-Henry,Gerlach-Nomeland,Neg,0,0,0,0,0,False
+MN,Lakeville,Andrew-Roman,Hentges-Sciamanda,Aff,0,0,0,0,0,False
+MN,Lakeville,Andrew-Roman,Hentges-Sciamanda,Neg,0,0,0,0,0,False
+TX,Langham Creek,Phillip-John,Trevino-Ezell,Aff,0,0,0,0,0,False
+TX,Langham Creek,Phillip-John,Trevino-Ezell,Neg,0,0,0,0,0,False
+TX,Langham Creek,Vivian-Connor,Gutierrez-Ferguson,Aff,0,0,0,0,0,False
+TX,Langham Creek,Vivian-Connor,Gutierrez-Ferguson,Neg,0,0,0,0,0,False
+TX,Langham Creek,Gillian-Daniela,Flores-Iraheta,Aff,0,0,0,0,0,False
+TX,Langham Creek,Gillian-Daniela,Flores-Iraheta,Neg,0,0,0,0,0,False
+MA,Lincoln Sudbury,Brooks-Sandeep,Howell-Shankar,Aff,0,0,0,0,0,False
+MA,Lincoln Sudbury,Brooks-Sandeep,Howell-Shankar,Neg,0,0,0,0,0,False
+MA,Lincoln Sudbury,Daniel-Sandeep,Cigale-Shankar,Aff,1,1,0,0,1,False
+MA,Lincoln Sudbury,Daniel-Sandeep,Cigale-Shankar,Neg,1,1,0,0,1,False
+MA,Lincoln Sudbury,Jessica-Joel,Pan-George,Aff,1,1,0,0,0,False
+MA,Lincoln Sudbury,Jessica-Joel,Pan-George,Neg,0,0,0,0,0,False
+CA,Los Altos,Vivek-Anthony,Chudasama-Jin,Aff,0,0,0,0,0,False
+CA,Los Altos,Vivek-Anthony,Chudasama-Jin,Neg,1,1,1,0,0,False
+TX,Lovejoy,Pierce-Shalin,Richardson-Mehta,Aff,6,6,5,5,5,False
+TX,Lovejoy,Pierce-Shalin,Richardson-Mehta,Neg,6,6,5,5,5,False
+TX,Lovejoy,Brianna-Garrett,Kim-Larson,Aff,0,0,0,0,0,False
+TX,Lovejoy,Brianna-Garrett,Kim-Larson,Neg,0,0,0,0,0,False
+GA,Marist,Sophie-Will,Verska-Sjostrom,Aff,24,19,5,0,5,False
+GA,Marist,Sophie-Will,Verska-Sjostrom,Neg,28,24,5,0,5,False
+GA,Marist,Maggie-Sydney,Nahas-Vance,Aff,2,2,0,0,0,False
+GA,Marist,Maggie-Sydney,Nahas-Vance,Neg,0,0,0,0,0,False
+GA,Marist,Sydney-Lauryn,Vance-Walker,Aff,8,8,0,0,2,False
+GA,Marist,Sydney-Lauryn,Vance-Walker,Neg,10,10,0,0,4,False
+GA,Marist,Jane-Maggie,Hamilton-Nahas,Aff,1,1,0,0,0,False
+GA,Marist,Jane-Maggie,Hamilton-Nahas,Neg,1,1,0,0,0,False
+GA,Marist,Maggie-Gigi,Nahas-Sedeno,Aff,0,0,0,0,0,False
+GA,Marist,Maggie-Gigi,Nahas-Sedeno,Neg,0,0,0,0,0,False
+GA,Marist,Maggie-Ryan,Nahas-Langner,Aff,1,1,0,0,0,False
+GA,Marist,Maggie-Ryan,Nahas-Langner,Neg,0,0,0,0,0,False
+GA,Marist,Maggie-Sophie,Nahas-Verska,Aff,3,2,0,0,0,False
+GA,Marist,Maggie-Sophie,Nahas-Verska,Neg,2,2,0,0,0,False
+NE,Millard North,Oliver-Charlie,Niu-Jackson,Aff,1,1,0,0,0,False
+NE,Millard North,Oliver-Charlie,Niu-Jackson,Neg,1,1,0,0,0,False
+CA,Milpitas,Rachel-Brandon,Wu-Schletzbaum,Aff,1,1,0,0,0,False
+CA,Milpitas,Rachel-Brandon,Wu-Schletzbaum,Neg,1,1,0,0,0,False
+MD,Montgomery Blair,Lawrence-Dheeraj,Tang-Keshav,Aff,0,0,0,0,0,False
+MD,Montgomery Blair,Lawrence-Dheeraj,Tang-Keshav,Neg,0,0,0,0,0,False
+MD,Montgomery Blair,Alex-Eli,Jiang-Qian,Aff,0,0,0,0,0,False
+MD,Montgomery Blair,Alex-Eli,Jiang-Qian,Neg,0,0,0,0,0,False
+AL,Mountain Brook,Patton-Wells,Hahn-Finch,Aff,2,0,0,2,0,False
+AL,Mountain Brook,Patton-Wells,Hahn-Finch,Neg,2,0,0,2,0,False
+MA,Newton South,Will-Andrew,Chasse-Li,Aff,0,0,0,0,0,False
+MA,Newton South,Will-Andrew,Chasse-Li,Neg,0,0,0,0,0,False
+FL,North Broward,Giorgio-Nicholas,Rabbini-Mancini,Aff,2,2,2,2,1,False
+FL,North Broward,Giorgio-Nicholas,Rabbini-Mancini,Neg,1,1,1,1,0,False
+FL,North Broward,Tyler-Drew,Katz-Peterson,Aff,8,1,8,7,0,False
+FL,North Broward,Tyler-Drew,Katz-Peterson,Neg,0,0,0,0,0,False
+NC,North Mecklenburg,Robert-Serena,MurrayGramlich-Raj,Aff,0,0,0,0,0,False
+NC,North Mecklenburg,Robert-Serena,MurrayGramlich-Raj,Neg,0,0,0,0,0,False
+CA,Nueva,Ben-Ben,Shahar-Cheng,Aff,7,9,0,0,7,True
+CA,Nueva,Ben-Ben,Shahar-Cheng,Neg,8,7,0,0,5,True
+VA,Oakton,Lawrence-Nathaniel,Zhu-Yoon,Aff,1,1,1,0,0,False
+VA,Oakton,Lawrence-Nathaniel,Zhu-Yoon,Neg,1,1,1,0,0,False
+VA,Oakton,Zoe-Nathaniel,Spicer-Yoon,Aff,3,2,3,0,1,False
+VA,Oakton,Zoe-Nathaniel,Spicer-Yoon,Neg,3,1,3,0,1,False
+VA,Oakton,Chas-Irene,Huang-Do,Aff,0,0,0,0,0,False
+VA,Oakton,Chas-Irene,Huang-Do,Neg,0,0,0,0,0,False
+TX,Plano East,neel-jay,kanamangala-namdhari,Aff,1,1,0,0,0,True
+TX,Plano East,neel-jay,kanamangala-namdhari,Neg,1,1,0,0,0,True
+TX,Plano Senior,Walter-Ritvik,Stark-Mahendra,Aff,6,6,6,4,1,False
+TX,Plano Senior,Walter-Ritvik,Stark-Mahendra,Neg,9,8,6,6,3,False
+NY,Poly Prep,Daniel-Noah,Fernandez-Kaye,Aff,7,5,0,1,0,True
+NY,Poly Prep,Daniel-Noah,Fernandez-Kaye,Neg,7,5,0,1,0,False
+NY,Poly Prep,Daniel-Noah,Daniel-Noah,Aff,1,1,0,0,1,False
+NY,Poly Prep,Daniel-Noah,Daniel-Noah,Neg,0,0,0,0,0,False
+NY,Poly Prep,Dey-Abigail,Meyer-Meyer,Aff,-1,-1,-1,-1
+NY,Poly Prep,Dey-Abigail,Meyer-Meyer,Neg,-1,-1,-1,-1
+NY,Poly Prep,Etta-Claudia,Humes-Leduc,Aff,0,0,0,0,0,False
+NY,Poly Prep,Etta-Claudia,Humes-Leduc,Neg,0,0,0,0,0,False
+CA,Quarry Lane,Keya-Anik,Vijapure-Sen,Aff,0,0,0,0,0,False
+CA,Quarry Lane,Keya-Anik,Vijapure-Sen,Neg,0,0,0,0,0,False
+TN,Ravenwood,Ashwin-Rohan,Balaje-Jaisinghani,Aff,0,0,0,0,0,False
+TN,Ravenwood,Ashwin-Rohan,Balaje-Jaisinghani,Neg,0,0,0,0,0,False
+MD,Richard Montgomery,Amanda-Johnathan,Wu-Sun,Aff,0,0,0,0,0,False
+MD,Richard Montgomery,Amanda-Johnathan,Wu-Sun,Neg,0,0,0,0,0,False
+MD,Richard Montgomery,Danny-Tejas,Shao-Nazare,Aff,0,0,0,0,0,False
+MD,Richard Montgomery,Danny-Tejas,Shao-Nazare,Neg,0,0,0,0,0,False
+MD,Richard Montgomery,Jason-Michelle,Hu-Zhao,Aff,0,0,0,0,0,False
+MD,Richard Montgomery,Jason-Michelle,Hu-Zhao,Neg,0,0,0,0,0,False
+MD,Richard Montgomery,Carina-Jennifer,Guo-Lin,Aff,0,0,0,0,0,False
+MD,Richard Montgomery,Carina-Jennifer,Guo-Lin,Neg,1,0,0,1,0,False
+MD,Richard Montgomery,Junzhi-idk,Xie-idk,Aff,0,0,0,0,0,False
+MD,Richard Montgomery,Junzhi-idk,Xie-idk,Neg,0,0,0,0,0,False
+TX,Saint Mary's Hall,Rylan-Nicholas,Schendel-Trujillo,Aff,0,0,0,0,0,False
+TX,Saint Mary's Hall,Rylan-Nicholas,Schendel-Trujillo,Neg,0,0,0,0,0,False
+TX,Saint Mary's Hall,Trey-Sam,Plante-Hernandez,Aff,3,1,2,2,0,False
+TX,Saint Mary's Hall,Trey-Sam,Plante-Hernandez,Neg,4,1,3,3,0,False
+MN,Saint Michael-Albertville,Lillian-Cobin,Albrecht-Szymanski,Aff,1,1,0,0,0,False
+MN,Saint Michael-Albertville,Lillian-Cobin,Albrecht-Szymanski,Neg,1,1,0,0,0,False
+TX,Seven Lakes,Andrew-Alex,Chan-Zhong,Aff,4,2,2,0,2,False
+TX,Seven Lakes,Andrew-Alex,Chan-Zhong,Neg,2,2,1,0,2,False
+TX,Seven Lakes,Gargi-Aditya,Samarth-Manjul,Aff,1,1,1,1,1,False
+TX,Seven Lakes,Gargi-Aditya,Samarth-Manjul,Neg,1,1,1,1,1,False
+TX,Seven Lakes,Angela-Rohit,Gao-Rao,Aff,1,0,0,0,0,False
+TX,Seven Lakes,Angela-Rohit,Gao-Rao,Neg,0,0,0,0,0,False
+TX,Seven Lakes,Shivank-Megha,Srivastaa-Neelala,Aff,0,0,0,0,0,False
+TX,Seven Lakes,Shivank-Megha,Srivastaa-Neelala,Neg,0,0,0,0,0,False
+KS,Shawnee Mission South,Arden-Cyan,Larsen-Ridge,Aff,0,0,0,0,0,False
+KS,Shawnee Mission South,Arden-Cyan,Larsen-Ridge,Neg,0,0,0,0,0,False
+SD,Sioux Falls Washington,page-HS,of-SD,Aff,-1,-1,-1,-1
+SD,Sioux Falls Washington,page-HS,of-SD,Neg,-1,-1,-1,-1
+TX,Southlake Carroll,Aamir-Saaketh,Mohsin-Chennaiahgari,Aff,1,1,0,0,0,False
+TX,Southlake Carroll,Aamir-Saaketh,Mohsin-Chennaiahgari,Neg,0,0,0,0,0,False
+TX,Southlake Carroll,Ankith-Alanna,Kurapati-Miller,Aff,1,0,0,1,0,False
+TX,Southlake Carroll,Ankith-Alanna,Kurapati-Miller,Neg,0,0,0,0,0,False
+TX,Southlake Carroll,Darren-Arnav,Shen-Kasarla,Aff,0,0,0,0,0,False
+TX,Southlake Carroll,Darren-Arnav,Shen-Kasarla,Neg,0,0,0,0,0,False
+TX,Southlake Carroll,Eesha-Neha,Bethi-Boyapati,Aff,1,1,1,0,0,False
+TX,Southlake Carroll,Eesha-Neha,Bethi-Boyapati,Neg,0,0,0,0,0,False
+TX,St Marys Hall,Rylan-Nicholas,Schendel-Trujillo,Aff,1,1,0,0,0,False
+TX,St Marys Hall,Rylan-Nicholas,Schendel-Trujillo,Neg,0,0,0,0,0,False
+TX,St Marys Hall,Trey-Sam,Plante-Hernandez,Aff,1,1,0,0,0,False
+TX,St Marys Hall,Trey-Sam,Plante-Hernandez,Neg,1,1,0,0,0,False
+TX,St Marys Hall,Schendel-Newman,--Menendez,Aff,-1,-1,-1,-1
+TX,St Marys Hall,Schendel-Newman,--Menendez,Neg,-1,-1,-1,-1
+PA,State College,Jack-Taran,Piazza-Samarth,Aff,0,0,0,0,0,False
+PA,State College,Jack-Taran,Piazza-Samarth,Neg,0,0,0,0,0,False
+CA,Stockdale,Mahima-Miller,Kunani-McCraw,Aff,0,0,0,0,0,False
+CA,Stockdale,Mahima-Miller,Kunani-McCraw,Neg,0,0,0,0,0,False
+TX,Strake Jesuit,RJ-Caden,Shah-Day,Aff,41,17,38,0,14,False
+TX,Strake Jesuit,RJ-Caden,Shah-Day,Neg,21,21,20,0,19,True
+TX,Strake Jesuit,Cooper-Santiago,Carlile-Weiland,Aff,8,8,4,0,7,False
+TX,Strake Jesuit,Cooper-Santiago,Carlile-Weiland,Neg,5,4,4,0,4,False
+TX,Strake Jesuit,Ali-Zain,Jalal-Ashraf,Aff,7,7,5,0,4,False
+TX,Strake Jesuit,Ali-Zain,Jalal-Ashraf,Neg,12,12,8,0,9,True
+TX,Strake Jesuit,Joseph-Joseph,Dowdall-Donowho,Aff,3,3,0,0,3,False
+TX,Strake Jesuit,Joseph-Joseph,Dowdall-Donowho,Neg,4,4,0,0,3,True
+TX,Strake Jesuit,Ethan-Neo,Dupre-Curry,Aff,10,10,0,0,8,True
+TX,Strake Jesuit,Ethan-Neo,Dupre-Curry,Neg,9,9,0,0,7,True
+TX,Strake Jesuit,Beck-Joaquin,Hassen-Calvillo,Aff,1,1,1,0,1,False
+TX,Strake Jesuit,Beck-Joaquin,Hassen-Calvillo,Neg,1,1,1,0,1,False
+TX,Strake Jesuit,Caden-Neo,Day-Curry,Aff,5,2,4,0,1,False
+TX,Strake Jesuit,Caden-Neo,Day-Curry,Neg,3,2,2,0,1,False
+NY,Stuyvesant,Jeremy-Justin,Lee-Sword,Aff,0,0,0,0,0,False
+NY,Stuyvesant,Jeremy-Justin,Lee-Sword,Neg,0,0,0,0,0,False
+NJ,Summit,Jeremiah-Anthony,Cohn-Yu,Aff,0,0,0,0,0,False
+NJ,Summit,Jeremiah-Anthony,Cohn-Yu,Neg,0,0,0,0,0,False
+CA,Torrey Pines,Albert-Jungwoo,Hwang-Seo,Aff,2,2,2,0,0,False
+CA,Torrey Pines,Albert-Jungwoo,Hwang-Seo,Neg,2,2,2,0,0,False
+CA,Torrey Pines,Cady-Kelly,Hsu-Wang,Aff,1,1,1,0,0,False
+CA,Torrey Pines,Cady-Kelly,Hsu-Wang,Neg,1,1,1,0,0,False
+CA,Torrey Pines,Albert-Inesh,Hwang-Chakrabarti,Aff,0,0,0,0,0,False
+CA,Torrey Pines,Albert-Inesh,Hwang-Chakrabarti,Neg,0,0,0,0,0,False
+PA,Unionville,David-Jake,Kinane-Ryan,Aff,1,1,1,0,0,False
+PA,Unionville,David-Jake,Kinane-Ryan,Neg,1,1,0,0,0,False
+PA,Unionville,Noelle-Gaurav,Lambert-Sett,Aff,1,1,0,0,0,False
+PA,Unionville,Noelle-Gaurav,Lambert-Sett,Neg,1,1,0,0,0,False
+PA,Unionville,Naman-Soumil,Razdan-Zachariah,Aff,0,0,0,0,0,False
+PA,Unionville,Naman-Soumil,Razdan-Zachariah,Neg,0,0,0,0,0,False
+PA,Unionville,Darshak-Evan,Gadagkar-Wang,Aff,0,0,0,0,0,False
+PA,Unionville,Darshak-Evan,Gadagkar-Wang,Neg,0,0,0,0,0,False
+CA,University,Deven-Pranav,Gupta-Moudgalya,Aff,1,1,0,0,0,True
+CA,University,Deven-Pranav,Gupta-Moudgalya,Neg,0,0,0,0,0,False
+IL,Urbana,Dylan-Khaled,Patel-Messai,Aff,6,10,2,0,1,False
+IL,Urbana,Dylan-Khaled,Patel-Messai,Neg,0,0,0,0,0,False
+CA,Valley International,Gabe-Daniel,Grodan-Timor,Aff,0,0,0,0,0,False
+CA,Valley International,Gabe-Daniel,Grodan-Timor,Neg,0,0,0,0,0,False
+CA,Valley International,Alec-Jackson,Boulton-Loze,Aff,0,0,0,0,0,False
+CA,Valley International,Alec-Jackson,Boulton-Loze,Neg,0,0,0,0,0,False
+TX,Village,Dhruv-Varun,Saligram-Agarwal,Aff,1,1,0,0,0,False
+TX,Village,Dhruv-Varun,Saligram-Agarwal,Neg,1,1,0,0,0,False
+TX,Vista Ridge,Mark-Maxwell,Awadallah-Fuller,Aff,1,0,0,0,0,False
+TX,Vista Ridge,Mark-Maxwell,Awadallah-Fuller,Neg,1,0,0,1,0,False
+SD,Washington,Kylie-Cailin,Banouvong-Williams,Aff,0,0,0,0,0,False
+SD,Washington,Kylie-Cailin,Banouvong-Williams,Neg,0,0,0,0,0,False
+SD,Washington,Katherine-Mya,Escalante-Lo,Aff,0,0,0,0,0,False
+SD,Washington,Katherine-Mya,Escalante-Lo,Neg,0,0,0,0,0,False
+FL,West Broward,Robert-Christian,Quinn-Wing,Aff,1,0,0,0,0,False
+FL,West Broward,Robert-Christian,Quinn-Wing,Neg,1,4,0,0,1,False
+MA,Westborough,Ananthan-Raaj,Sadagopan-Kumar,Aff,0,0,0,0,0,False
+MA,Westborough,Ananthan-Raaj,Sadagopan-Kumar,Neg,0,0,0,0,0,False
+TX,Westlake,Miles-Jason,Dintzner-Luo,Aff,0,0,0,0,0,False
+TX,Westlake,Miles-Jason,Dintzner-Luo,Neg,0,0,0,0,0,False
+TX,Westlake,Xuechen-Jennifer,Yin-Yu,Aff,1,1,1,1,0,False
+TX,Westlake,Xuechen-Jennifer,Yin-Yu,Neg,1,0,1,0,0,False
+TX,Westside,Timothy-Ronald,Gao-Poole,Aff,2,2,0,0,1,False
+TX,Westside,Timothy-Ronald,Gao-Poole,Neg,1,1,0,0,0,False
+OR,Westview,Sim-Rohan,Low-Ajjarapu,Aff,0,0,0,0,0,False
+OR,Westview,Sim-Rohan,Low-Ajjarapu,Neg,0,0,0,0,0,False
+TX,Westwood,Arnav-Jeff,Gunwani-Freeman,Aff,3,3,0,0,0,False
+TX,Westwood,Arnav-Jeff,Gunwani-Freeman,Neg,1,0,0,0,0,False
+TX,Westwood,Sophia-Mika,Wang-Freund,Aff,0,0,0,0,0,False
+TX,Westwood,Sophia-Mika,Wang-Freund,Neg,0,0,0,0,0,False
+TX,Westwood,Frank-Harsha,Lai-Rajesh,Aff,0,0,0,0,0,False
+TX,Westwood,Frank-Harsha,Lai-Rajesh,Neg,0,0,0,0,0,False
+TX,Westwood,Anand-Pranav,Singh-Kulkarni,Aff,0,0,0,0,0,False
+TX,Westwood,Anand-Pranav,Singh-Kulkarni,Neg,0,0,0,0,0,False
+TX,Westwood,Sidh-Sruthi,Pandit-Ramaswamy,Aff,0,0,0,0,0,False
+TX,Westwood,Sidh-Sruthi,Pandit-Ramaswamy,Neg,0,0,0,0,0,False
