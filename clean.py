@@ -1,13 +1,24 @@
+"""
+Clean
+Does compiling and cleaning for datasets
+@author petez
+"""
+
 import csv
 
+# to analyze
 TOURNAMENTS = ["harvard19", "yale18", "grapevine18", "greenhill18", "cal19", "hwestlake19", "blake18", "scarsdale18", "goldendesert19"]
 
-ld_names = ["LD", "VLD", "Varsity LD", "Lincoln Douglas", "Varsity Lincoln Douglas", "Lincoln-Douglas Debate", "Open LD", "Open Lincoln Douglas"]
-pf_names = ["PF", "PFD", "VPF", "Varsity PF", "Public Forum", "Varsity Public Forum", "Public Forum Debate", "Open PF", "Open Public Forum"]
-policy_names = ["CX", "VCX", "Varsity CX", "Policy", "Varsity Policy", "Policy Debate", "Open CX", "Open Policy", "Varisty Policy Debate", "Glendinning Varisty Policy"]
+# get LD, PF, and CX event names
+LD_NAMES = [name for name in open('tools/ld_eventnames.txt', 'r')]
+PF_NAMES = [name for name in open('tools/pf_eventnames.txt', 'r')]
+CX_NAMES = [name for name in open('tools/cx_eventnames.txt', 'r')]
+
 wiki_dict = {}
 wiki_reader = csv.reader(open("wiki_data.csv", 'r'))
+
 next(wiki_reader)
+
 for row in wiki_reader:
     name = " ".join(row[1:3]).lower()
     wiki_dict[name] = row
