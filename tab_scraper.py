@@ -65,7 +65,7 @@ def main():
                 frames = []
 
                 # go through events
-                event_urls = getEvents(tourn_id)
+                eventUrls = getEvents(tourn_id)
 
                 for event_url in event_urls:
                     
