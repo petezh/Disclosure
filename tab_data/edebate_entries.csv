@@ -110,7 +110,7 @@ strake20,LD,American Heritage Broward HS,FL/US,Mary Abi-Karam,American Heritage 
 strake20,LD,American Heritage Broward HS,FL/US,Mason Cheng,American Heritage Broward MC
 strake20,LD,American Heritage Broward HS,FL/US,Nicholas Randazzo,American Heritage Broward NR
 strake20,LD,Austin SFA High School,TX/US,James Hartline,Austin SFA JH
-strake20,LD,Ayala High School,HI/US,Adam Mimou,Ayala AM
+strake20,LD,Ayala High School,CA/US,Adam Mimou,Ayala AM
 strake20,LD,Bergen County Academies,NJ/US,Andrew Kim,Bergen County Academies AK
 strake20,LD,Cardinal Gibbons HS Independent,FL/US,Alex Dumas,Cardinal Gibbons HS Independent AD
 strake20,LD,Cardinal Gibbons Independent,NH/US,Roberto Sosa,Cardinal Gibbons Independent RS
@@ -2164,7 +2164,7 @@ loyola20,LD,Immaculate Heart High School,CA/US,Lucia Botham,Immaculate Heart LB,
 loyola20,LD,Immaculate Heart High School,CA/US,Riley Rees,Immaculate Heart RR,In
 loyola20,LD,Immaculate Heart High School,CA/US,Shelby O'Connell,Immaculate Heart SO,In
 loyola20,LD,Immaculate Heart High School,CA/US,Zofia Barr,Immaculate Heart ZB,In
-loyola20,LD,Independent Ayala HS,HI/US,Adam Mimou,Independent Ayala AM,In
+loyola20,LD,Independent Ayala HS,CA/US,Adam Mimou,Independent Ayala AM,In
 loyola20,LD,James Logan High School,CA/US,Anakha Ganesh,James Logan AG,In
 loyola20,LD,James Logan High School,CA/US,Atifah Shaikh,James Logan AS,In
 loyola20,LD,James Logan High School,CA/US,Cherry Lam,James Logan CL,In
@@ -2262,7 +2262,7 @@ loyola20,LD,Woodlands Independent,TX/US,Nathan Wei,Woodlands Independent NW,In
 loyola20,LD,"Young Genius, Bay Area Speech and D",CA/US,Drishti Sethia,"Young Genius, Bay Area DS",In
 meadows20,LD,Advanced Technologies,NV/US,Jonah Gentleman,Advanced Technologies JG
 meadows20,LD,American High,CA/US,Krish Parikh,American KP
-meadows20,LD,Ayala High School,HI/US,Adam Mimou,Ayala AM
+meadows20,LD,Ayala High School,CA/US,Adam Mimou,Ayala AM
 meadows20,LD,BASIS San Antonio Shavano,TX/US,PranavKrishna Kandikayala,BASIS San Antonio Shavano PK
 meadows20,LD,Brentwood School,CA/US,Sophie Rubin,Brentwood SR
 meadows20,LD,Carmel Valley Independent,CA/US,Andrew Kang,Carmel Valley Independent AK
@@ -2510,7 +2510,7 @@ presentation20,LD,Archbishop Mitty,CA/US,Aarav Billore,Archbishop Mitty AB
 presentation20,LD,Archbishop Mitty,CA/US,Arnav Simha,Archbishop Mitty AS
 presentation20,LD,Archbishop Mitty,CA/US,Jessica Hsu,Archbishop Mitty JH
 presentation20,LD,Archbishop Mitty,CA/US,Priscilla Kim,Archbishop Mitty PK
-presentation20,LD,Ayala High School,HI/US,Adam Mimou,Ayala AM
+presentation20,LD,Ayala High School,CA/US,Adam Mimou,Ayala AM
 presentation20,LD,BASIS Independent Silicon Valley In,CA/US,Shreyas Kapavarapu,BASIS Independent Silicon Valley Independent SK
 presentation20,LD,BASIS Peoria,AZ/US,Adyant Mishra,BASIS Peoria AM
 presentation20,LD,BASIS San Antonio Shavano,TX/US,PranavKrishna Kandikayala,BASIS San Antonio Shavano PK
@@ -3200,7 +3200,7 @@ holycross20,LD,Albuquerque Academy,NM/US,Diego Sanchez,Albuquerque DS
 holycross20,LD,Albuquerque Academy,NM/US,Lily Nakakura,Albuquerque LN
 holycross20,LD,Albuquerque Academy,NM/US,Naima Pyarali,Albuquerque NP
 holycross20,LD,American High,CA/US,Kavin Goyal,American KG
-holycross20,LD,Ayala High School,HI/US,Adam Mimou,Ayala AM
+holycross20,LD,Ayala High School,CA/US,Adam Mimou,Ayala AM
 holycross20,LD,Baton Rouge High School,LA/US,Channing Hall,Baton Rouge CH
 holycross20,LD,Cary Academy,NC/US,Casey Powell,Cary Acad CP
 holycross20,LD,Claremont,CA/US,Gordon Krauss,Claremont GK
@@ -3583,7 +3583,7 @@ jackhowe20,LD,Immaculate Heart High School,CA/US,Lucia Botham,Immaculate Heart L
 jackhowe20,LD,Immaculate Heart High School,CA/US,Riley Rees,Immaculate Heart RR,In
 jackhowe20,LD,Immaculate Heart High School,CA/US,Shelby O'Connell,Immaculate Heart SO,In
 jackhowe20,LD,Independence High School,TX/US,Ayan Khan,Independence AK,In
-jackhowe20,LD,Independent Ayala High School,HI/US,Adam Mimou,Independent Ayala AM,In
+jackhowe20,LD,Independent Ayala High School,CA/US,Adam Mimou,Independent Ayala AM,In
 jackhowe20,LD,Interlake HS,WA/US,Daniel Bomberger,Interlake DB,In
 jackhowe20,LD,Interlake HS,WA/US,Ellie Liu,Interlake EL,In
 jackhowe20,LD,Interlake HS,WA/US,Hayun Bae,Interlake HB,In
@@ -4175,3 +4175,1225 @@ UT20,LD,Westwood,TX/US,Wesley Yeung,Westwood Wesley Yeung
 UT20,LD,Winston Churchill HS,TX/US,Antares Hofmann,Winston Churchill Antares Hofmann
 UT20,LD,Winston Churchill HS,TX/US,Bindi Kaplan,Winston Churchill Bindi Kaplan
 UT20,LD,Wylie Sr High School,TX/US,Timothy Minney,Wylie Timothy Minney
+cypress19,LD,Albuquerque Academy,NM/US,Adeeb Khan,Albuquerque AK
+cypress19,LD,Albuquerque Academy,NM/US,Johannes Bauer,Albuquerque JB
+cypress19,LD,Albuquerque Academy,NM/US,Naima Pyarali,Albuquerque NP
+cypress19,LD,American Heritage Boca/Delray HS,FL/US,Nikita Tanguturi,American Heritage Boca/Delray NT
+cypress19,LD,American Heritage Plantation HS,FL/US,Anika Dham,American Heritage Plantation AD
+cypress19,LD,American Heritage Plantation HS,FL/US,Asha Patra,American Heritage Plantation AP
+cypress19,LD,American Heritage Plantation HS,FL/US,Jordan Antevy,American Heritage Plantation JA
+cypress19,LD,American Heritage Plantation HS,FL/US,Mary Abi-Karam,American Heritage Plantation MA
+cypress19,LD,American Heritage Plantation HS,FL/US,Nicholas Randazzo,American Heritage Plantation NR
+cypress19,LD,American Heritage Plantation HS,FL/US,Prateek Gupta,American Heritage Plantation PG
+cypress19,LD,American Heritage Plantation HS,FL/US,Sophia Abati,American Heritage Plantation SA
+cypress19,LD,American Heritage Plantation HS,FL/US,Sarah Dufays,American Heritage Plantation SD
+cypress19,LD,Cardinal Gibbons,FL/US,Roberto Sosa,Cardinal Gibbons RS
+cypress19,LD,Cooper City HS,FL/US,Matthew Furstein,Cooper City MF
+cypress19,LD,Cooper City HS,FL/US,Nathan Reed,Cooper City NR
+cypress19,LD,Coral Glades High,FL/US,Kristopher Wallen,Coral Glades KW
+cypress19,LD,Coral Glades High,FL/US,Maxwell Tenenbaum,Coral Glades MT
+cypress19,LD,FAU High School,FL/US,Imaan Nanji,FAU IN
+cypress19,LD,FAU High School,FL/US,Katherine Horan,FAU KH
+cypress19,LD,H.B. Plant High School,FL/US,Taman Kanchanapalli,H.B. Plant TK
+cypress19,LD,Miramar High School,FL/US,Jarvis Tait,Miramar JT
+cypress19,LD,Miramar High School,FL/US,Katelyn Gordon,Miramar KG
+cypress19,LD,Miramar High School,FL/US,Tarentz Charite,Miramar TC
+cypress19,LD,NSU University School,FL/US,Emmanuel Alboher,NSU EA
+cypress19,LD,NSU University School,FL/US,Evan Ozovoritz,NSU EO
+cypress19,LD,NSU University School,FL/US,Sebastian Frazier,NSU SF
+cypress19,LD,North Broward Preparatory School,FL/US,Fabian Salvador,North Broward Prep FS
+cypress19,LD,Pembroke Pines Charter HS,FL/US,Astrid Villarroel,Pembroke Pines Charter AV
+cypress19,LD,Pembroke Pines Charter HS,FL/US,Kylie Fernandez,Pembroke Pines Charter KF
+cypress19,LD,Pembroke Pines Charter HS,FL/US,Mariana Colicchio,Pembroke Pines Charter MC
+cypress19,LD,Pembroke Pines Charter HS,FL/US,Michael Omole,Pembroke Pines Charter MO
+cypress19,LD,Stoneman Douglas HS,FL/,Grainne Popen,Stoneman Douglas GP
+cypress19,LD,Stoneman Douglas HS,FL/,Johanna Tam,Stoneman Douglas JT
+cypress19,LD,West Broward HS,FL/US,Christian Wing,West Broward CW
+cypress19,LD,West Broward HS,FL/US,Ethan Greenberg,West Broward EG
+cypress19,LD,West Broward HS,FL/US,Nathania Mullings,West Broward NM
+cypress20,LD,Acton-Boxborough Regional High Scho,MA/US,Bellerina Hu,Acton-Boxborough BH,In
+cypress20,LD,American Heritage Boca/Delray HS,FL/US,Madison Smith,American Heritage Boca/Delray MS,In
+cypress20,LD,American Heritage Boca/Delray HS,FL/US,Nikita Tanguturi,American Heritage Boca/Delray NT,In
+cypress20,LD,American Heritage Plantation HS,FL/US,Jordan Antevy,American Heritage Plantation JA,In
+cypress20,LD,American Heritage Plantation HS,FL/US,Mary Abi-Karam,American Heritage Plantation MA,In
+cypress20,LD,American Heritage Plantation HS,FL/US,Mason Cheng,American Heritage Plantation MC,In
+cypress20,LD,American Heritage Plantation HS,FL/US,Spencer Swickle,American Heritage Plantation SS,In
+cypress20,LD,Bishop's,CA/US,Advay Chandra,Bishop's AC,In
+cypress20,LD,Bishop's,CA/US,Shea Rueda,Bishop's SR,In
+cypress20,LD,Cardinal Gibbons,FL/US,Alex Dumas,Cardinal Gibbons AD,In
+cypress20,LD,Cardinal Gibbons,FL/US,Roberto Sosa,Cardinal Gibbons RS,In
+cypress20,LD,Cardinal Gibbons,FL/US,Ricardo Sosa,Cardinal Gibbons RSo,In
+cypress20,LD,Cardinal Gibbons,FL/US,Zach Dumas,Cardinal Gibbons ZD,In
+cypress20,LD,Charlotte Latin School,NC/US,Sarah Picciola,Charlotte Latin SP,In
+cypress20,LD,College Park Independent,TX/US,Nathan Wei,College Park Independent NW,In
+cypress20,LD,Copper Hills High School,UT/US,Jessica VanGesen,Copper Hills JV,In
+cypress20,LD,Flintridge Preparatory,CA/US,Thomas Vandenburg,Flintridge Prep TV,In
+cypress20,LD,Ft Lauderdale High School,FL/US,Alexandria Arinah-Pierre,Ft Lauderdale AA,In
+cypress20,LD,Ft Lauderdale High School,FL/US,Emilio Bastardo,Ft Lauderdale EB,In
+cypress20,LD,Ft Lauderdale High School,FL/US,Fabrice Etienne,Ft Lauderdale FE,In
+cypress20,LD,Ft Lauderdale High School,FL/US,Michelle Grant,Ft Lauderdale MG,In
+cypress20,LD,Huntington High School,WV/US,Ben Patrick,Huntington BP,In
+cypress20,LD,Lake Highland Preparatory School,FL/US,Mayah Singh,Lake Highland Prep MS,In
+cypress20,LD,Nova High School,FL/US,Zariah Powell,Nova ZP,In
+cypress20,LD,Oxbridge Academy of the Palm Beache,FL/US,Jeri Pryor,Oxbridge Academy of the Palm Beaches JP,In
+cypress20,LD,San Mateo High,CA/US,Yesh Rao,San Mateo YR,In
+cypress20,LD,Southlake Carroll,TX/US,Pranav Kaginele,Southlake Carroll PK,In
+cypress20,LD,Stoneman Douglas High School,FL/,Grainne Popen,Stoneman Douglas GP,In
+cypress20,LD,The Oxford Academy,CA/US,Vaibhav Dara,Oxford VD,In
+cypress20,LD,The Oxford Academy,CA/US,Viren Mehta,Oxford VM,In
+cypress20,LD,Troy Independent,CA/US,Andrew Park,Troy Independent AP,In
+cypress20,LD,Vestavia Hills High School,AL/US,Graham Johnstone,Vestavia Hills GJ,In
+cypress20,LD,Westwood,TX/US,Aaditya Ganesan,Westwood AG,In
+cypress20,LD,Westwood,TX/US,Anya Yaksh,Westwood AY,In
+cypress20,LD,Westwood,TX/US,Sandali Srivastava,Westwood SS,In
+cypress20,LD,Westwood,TX/US,Wesley Yeung,Westwood WY,In
+duke20,LD,Apex Friendship High School,NC/,Aurea Michael,Apex Friendship AM,In
+duke20,LD,Apex Friendship High School,NC/,Clare O'Dea,Apex Friendship CO,In
+duke20,LD,Apex Friendship High School,NC/,Faatimah Bell,Apex Friendship FB,In
+duke20,LD,Apex Friendship High School,NC/,Jai Saravanan,Apex Friendship JS,In
+duke20,LD,Asheville High School,NC/US,Gabe Johnson,Asheville GJ,In
+duke20,LD,Asheville High School,NC/US,Hope Robinson,Asheville HR,In
+duke20,LD,Bentonville High School,AR/US,Ruby Ayers,Bentonville RA,In
+duke20,LD,Bentonville West High School,AR/US,Anna Dean,Bentonville West AD,In
+duke20,LD,Branham,CA/US,Alexander Goldberg,Branham AG,In
+duke20,LD,Branham,CA/US,Callum Wooster,Branham CW,In
+duke20,LD,Brecksville Broadview Hts High Scho,OH/,Andrew Youssef,Brecksville Broadview Hts AY,In
+duke20,LD,Brecksville Broadview Hts High Scho,OH/,William Liu,Brecksville Broadview Hts WL,In
+duke20,LD,Byram Hills High School,NY/US,Eric Szilagyi,Byram Hills ES,In
+duke20,LD,Byram Hills High School,NY/US,Eleanor Wangensteen,Byram Hills EW,In
+duke20,LD,Byram Hills High School,NY/US,Magdalena Whelley,Byram Hills MW,In
+duke20,LD,Byram Hills High School,NY/US,Sydney Black,Byram Hills SB,In
+duke20,LD,Cape Fear Academy,NC/US,Frederick Meine,Cape Fear FM,In
+duke20,LD,Cape Fear Academy,NC/US,Katherine Meine,Cape Fear KM,In
+duke20,LD,Cape Fear Academy,NC/US,Noah Durham,Cape Fear ND,In
+duke20,LD,Cardinal Gibbons,FL/US,Zach Dumas,Cardinal Gibbons ZD,In
+duke20,LD,Carlsbad High School,CA/US,Raina Seth,Carlsbad RS,In
+duke20,LD,Cary Academy,NC/US,Allie Chandler,Cary Acad AC,In
+duke20,LD,Cary Academy,NC/US,Casey Powell,Cary Acad CP,In
+duke20,LD,Cary Academy,NC/US,Emily Wang,Cary Acad EW,In
+duke20,LD,Cary Academy,NC/US,Natasha Sachar,Cary Acad NS,In
+duke20,LD,Cary High School,NC/US,Jack Morgenstein,Cary HS JM,In
+duke20,LD,Catonsville High School,MD/US,Nate Frenkel,Catonsville NF,In
+duke20,LD,Chaminade High School,NY/US,Lance Allen,Chaminade LA,In
+duke20,LD,Chaminade High School,NY/US,Nathaniel Bernich,Chaminade NB,In
+duke20,LD,Chantilly,VA/US,Mrudula Rapaka,Chantilly MR,In
+duke20,LD,Chantilly,VA/US,Noyanika Vattathara,Chantilly NV,In
+duke20,LD,Charlotte Latin School,NC/US,Andrew Chang,Charlotte Latin AC,In
+duke20,LD,Charlotte Latin School,NC/US,Elaine Liu,Charlotte Latin EL,In
+duke20,LD,Charlotte Latin School,NC/US,Laura Han,Charlotte Latin LH,In
+duke20,LD,Charlotte Latin School,NC/US,Sarah Picciola,Charlotte Latin SP,In
+duke20,LD,Claudia Taylor Johnson High School,TX/US,Abhived Pulapaka,Claudia Taylor Johnson AP,In
+duke20,LD,Clover Hill High School,VA/US,Katy Stenner,Clover Hill KS,In
+duke20,LD,Colonial Forge High School,VA/US,Sebastian Rao,Colonial Forge SR,In
+duke20,LD,Davis High,UT/US,Bryn Montierth,Davis BM,In
+duke20,LD,Davis High,UT/US,Sugar Santillan,Davis SS,In
+duke20,LD,Desert Ridge High School,AZ/US,Mackenzie Spencer,Desert Ridge MS,In
+duke20,LD,Desert Vista High School,AZ/US,Rhegan Crabtree,Desert Vista RC,In
+duke20,LD,Desert Vista High School,AZ/US,Valerie Peters,Desert Vista VP,In
+duke20,LD,Dublin High,CA/US,Yash Chhatre,Dublin YC,In
+duke20,LD,Durham Academy,NC/US,Aadesh Anchailya,Durham AA,In
+duke20,LD,Durham Academy,NC/US,Chris Burkhard,Durham CB,In
+duke20,LD,Durham Academy,NC/US,Graham Hairston,Durham GH,In
+duke20,LD,Durham Academy,NC/US,Sara Shaikh,Durham SS,In
+duke20,LD,Durham Academy,NC/US,Vika Wei,Durham VW,In
+duke20,LD,Eden Prairie High School,MN/US,Avik Garg,Eden Prairie AG,In
+duke20,LD,Fremont High School,CA/US,Irina Vardapetyan,Fremont IV,In
+duke20,LD,Fremont High School,CA/US,Karthik Iyer,Fremont KI,In
+duke20,LD,Fremont High School,CA/US,Manogna Tatapudi,Fremont MT,In
+duke20,LD,Helix Charter High School,CA/US,Angelina Echaves,Helix Charter AE,In
+duke20,LD,Helix Charter High School,CA/US,George Stullich,Helix Charter GS,In
+duke20,LD,Helix Charter High School,CA/US,Simonei Medina,Helix Charter SM,In
+duke20,LD,Holy Trinity Episcopal Academy,FL/,Priya Gutta,Holy Trinity Episcopal PG,In
+duke20,LD,Milton Academy,MA/US,Andrew Tsang,Milton Acad AT,In
+duke20,LD,Myers Park High School,NC/US,Elias Altman,Myers Park EA,In
+duke20,LD,Myers Park High School,NC/US,Katarina Sparling,Myers Park KS,In
+duke20,LD,Ohio Virtual Academy,OH/,Spencer Kawalek,Ohio Virtual SK,In
+duke20,LD,Pembroke Pines Charter High School,FL/US,Astrid Villarroel,Pembroke Pines Charter AV,In
+duke20,LD,Pembroke Pines Charter High School,FL/US,Brady Garrison,Pembroke Pines Charter BG,In
+duke20,LD,Pembroke Pines Charter High School,FL/US,Carolina Calonge,Pembroke Pines Charter CC,In
+duke20,LD,Pembroke Pines Charter High School,FL/US,Radliff Jeantinor,Pembroke Pines Charter RJ,In
+duke20,LD,Perry High School,AZ/US,Joey Antonelli,Perry JA,In
+duke20,LD,Providence High School,NC/US,Aum Kendapadi,Providence AK,In
+duke20,LD,Research Triangle High School,NC/US,Sneha Singh,Research Triangle SS,In
+duke20,LD,Ridge High School,NJ/US,Esha Tripathi,Ridge ET,In
+duke20,LD,Ridge High School,NJ/US,Gargi Koul,Ridge GK,In
+duke20,LD,Ridge High School,NJ/US,Logan Aviles,Ridge LA,In
+duke20,LD,Ridge High School,NJ/US,Nicholas Ge,Ridge NG,In
+duke20,LD,Riverside HS,SC/US,Cameron Tsai,Riverside CT,In
+duke20,LD,Riverside HS,SC/US,Kritika Sethi,Riverside KS,In
+duke20,LD,Shady Side Academy,PA/US,Nichole Poltinnikov,Shady Side NP,In
+duke20,LD,St. Croix Prep,MN/US,Avery DeWitt,St Croix Prep AD,In
+duke20,LD,St. Croix Prep,MN/US,Alexandriana Davis,St Croix Prep ADa,In
+duke20,LD,Syosset High School,NY/US,Isabella Souza,Syosset IS,In
+duke20,LD,Syosset High School,NY/US,Lilia Guizatoullina,Syosset LG,In
+duke20,LD,The Woodlands High School,TX/US,Allison Aldridge,Woodlands AA,In
+duke20,LD,University School,OH/US,Aetan Parmar,University AP,In
+duke20,LD,University School,OH/US,Steven Kim,University SK,In
+duke20,LD,Valor Christian High School,CO/US,Lucy Sarkissian,Valor Christian LS,In
+duke20,LD,William G. Enloe HS,NC/US,Anthony Cui,William G. Enloe AC,In
+duke20,LD,William G. Enloe HS,NC/US,Kaitlyn Han,William G. Enloe KH,In
+duke20,LD,William T. Dwyer,FL/,Anna Theissen,William T. Dwyer AT,In
+duke20,LD,William T. Dwyer,FL/,Ryan Hauser,William T. Dwyer RH,In
+duke20,LD,William Tennent High School,PA/US,Evan Miller,William Tennent EM,In
+duke20,LD,Woodrow Wilson High School,DC/US,Chris O'Brien,Woodrow Wilson CO,In
+duke20,LD,Woodrow Wilson High School,DC/US,Karam Weigert,Woodrow Wilson KW,In
+duke20,LD,Woodrow Wilson High School,DC/US,Leah Braden,Woodrow Wilson LB,In
+duke20,LD,Woodrow Wilson High School,DC/US,Sophie Reeves,Woodrow Wilson SR,In
+duke20,LD,Woodrow Wilson High School,DC/US,Tristan May,Woodrow Wilson TM,In
+duke19,LD,Apex Friendship High School,NC/,Amani Hafeez,Apex Friendship AH,In
+duke19,LD,Apex Friendship High School,NC/,Jordanna Baldauf,Apex Friendship JB,In
+duke19,LD,Apex Friendship High School,NC/,Thomas Jablonski,Apex Friendship TJ,In
+duke19,LD,Cape Fear Academy,NC/US,Frederick Meine,Cape Fear FM,In
+duke19,LD,Cape Fear Academy,NC/US,Katherine Meine,Cape Fear KM,In
+duke19,LD,Cape Fear Academy,NC/US,Maya Arora,Cape Fear MA,In
+duke19,LD,Cape Fear Academy,NC/US,Noah Durham,Cape Fear ND,In
+duke19,LD,Cary Academy,NC/US,Allie Chandler,Cary AC,In
+duke19,LD,Cary Academy,NC/US,Casey Powell,Cary CP,In
+duke19,LD,Cary Academy,NC/US,Emily Wang,Cary EW,In
+duke19,LD,Cary Academy,NC/US,Natasha Sachar,Cary NS,In
+duke19,LD,Charlotte Catholic HS,NC/US,Amy Budzichowski,Charlotte Catholic AB,In
+duke19,LD,Charlotte Latin School,NC/US,Andrew Chang,Charlotte Latin AC,In
+duke19,LD,Charlotte Latin School,NC/US,Anna Nesmelova,Charlotte Latin AN,In
+duke19,LD,Charlotte Latin School,NC/US,Elaine Liu,Charlotte Latin EL,In
+duke19,LD,Charlotte Latin School,NC/US,Laura Han,Charlotte Latin LH,In
+duke19,LD,Charlotte Latin School,NC/US,Shreyas Iyer,Charlotte Latin SI,In
+duke19,LD,College Preparatory School of Ameri,IL/US,Aaliya Khaja,College Preparatory School of America (CPSA) AK,In
+duke19,LD,College Preparatory School of Ameri,IL/US,Abdallah Marzouki,College Preparatory School of America (CPSA) AM,In
+duke19,LD,Durham Academy,NC/US,Aadesh Anchailya,Durham AA,In
+duke19,LD,Durham Academy,NC/US,Bohan Gao,Durham BG,In
+duke19,LD,Durham Academy,NC/US,Chris Burkhard,Durham CB,In
+duke19,LD,Durham Academy,NC/US,Graham Hairston,Durham GH,In
+duke19,LD,Durham Academy,NC/US,Jacob Palmer,Durham JP,In
+duke19,LD,Durham Academy,NC/US,Sara Shaikh,Durham SS,In
+duke19,LD,Durham Academy,NC/US,Tate Staples,Durham TS,In
+duke19,LD,Durham Academy,NC/US,Vika Wei,Durham VW,In
+duke19,LD,Durham Academy,NC/US,Zihan Gao,Durham ZG,In
+duke19,LD,Fox Independent,MD/US,Uma Fox,Fox Independent UF,In
+duke19,LD,Gayle Middle School,VA/US,Sebastian Rao,Gayle SR,In
+duke19,LD,Hickory Ridge High,NC/,Shrey Chande,Hickory Ridge SC,In
+duke19,LD,Kellenberg Memorial HS,NY/US,Veronica Tadross,Kellenberg Memorial VT,In
+duke19,LD,Massey Hill Classical HS,NC/US,Nick Schultz,Massey Hill Classical NS,In
+duke19,LD,Massey Hill Classical HS,NC/US,Sedrick Brown,Massey Hill Classical SB,In
+duke19,LD,Milton Academy,MA/US,Andrew Tsang,Milton AT,In
+duke19,LD,Myers Park High School,NC/US,Annie Vedder,Myers Park AV,In
+duke19,LD,Myers Park High School,NC/US,Sidhant Panda,Myers Park SP,In
+duke19,LD,Myers Park High School,NC/US,Zoe Macomber,Myers Park ZM,In
+duke19,LD,NC School Of Science & Math,NC/US,Alan Ma,NC School Of Science & Math AM,In
+duke19,LD,NC School Of Science & Math,NC/US,Rohit Jagga,NC School Of Science & Math RJ,In
+duke19,LD,North Mecklenburg HS,NC/US,Louis Ewington,North Mecklenburg LE,In
+duke19,LD,North Mecklenburg HS,NC/US,Patrick Mays,North Mecklenburg PM,In
+duke19,LD,Pinecrest HS,NC/US,Bailey Voight,Pinecrest BV,In
+duke19,LD,SandHoke Early College,NC/US,Francisco Delgado,SandHoke Early FD,In
+duke19,LD,SandHoke Early College,NC/US,Megan Surprise,SandHoke Early MS,In
+duke19,LD,St.Petersburg High School,FL/US,Kasha Tyranski,St.Petersburg KT,In
+duke19,LD,Stone Ridge School of the Sacred He,MD/US,Clare Barloon,Stone Ridge School of the Sacred Heart CB,In
+duke19,LD,Stone Ridge School of the Sacred He,MD/US,Charlotte Gidley,Stone Ridge School of the Sacred Heart CG,In
+duke19,LD,Stone Ridge School of the Sacred He,MD/US,Ciara Jacobs,Stone Ridge School of the Sacred Heart CJa,In
+duke19,LD,Stone Ridge School of the Sacred He,MD/US,Mihi Dormeville,Stone Ridge School of the Sacred Heart MD,In
+duke19,LD,Thales Academy Rolesville Speech an,NC/US,Meigan Bagwell,Thales Academy Rolesville MB,In
+duke19,LD,The Pingry School,NJ/US,Julia Fu,Pingry JF,In
+duke19,LD,William G. Enloe HS,NC/US,Tiffany Kwong,William G. Enloe TK,In
+duke19,LD,Woodrow Wilson High School,DC/US,Chris O'Brien,Woodrow Wilson CO',In
+duke19,LD,Woodrow Wilson High School,DC/US,Leah Braden,Woodrow Wilson LB,In
+duke19,LD,Woodrow Wilson High School,DC/US,Sophie Reeves,Woodrow Wilson SRe,In
+duke19,LD,Woodrow Wilson High School,DC/US,Talie Ehrenbeg,Woodrow Wilson TEh,In
+duke19,LD,Woodrow Wilson High School,DC/US,Tristan May,Woodrow Wilson TMa,In
+heritage19,LD,Alief Taylor,TX/US,Sherrod Session,Alief Taylor SS
+heritage19,LD,All Saints Episcopal School,TX/US,Gabrielle Lea,All Saints Episcopal GL
+heritage19,LD,CMS Southlake Junior Debate,TX/US,Samhith Dharani,CMS Southlake Junior SD
+heritage19,LD,Cabot High School,AR/US,Alex Mills,Cabot AM
+heritage19,LD,Cabot High School,AR/US,Christian Huggins,Cabot CH
+heritage19,LD,Cabot High School,AR/US,Damion Reeves,Cabot DR
+heritage19,LD,Cabot High School,AR/US,Lawson Hudson,Cabot LH
+heritage19,LD,Coppell High School,TX/US,Lok Katasani,Coppell LK
+heritage19,LD,Cypress Ranch,US,Michael Zhou,Cypress Ranch MZ
+heritage19,LD,Cypress Woods,TX/US,Allison Kerstein,Cypress Woods AK
+heritage19,LD,Cypress Woods,TX/US,Angela Zhong,Cypress Woods AZ
+heritage19,LD,Cypress Woods,TX/US,Maya Trivedi,Cypress Woods MT
+heritage19,LD,Elkins High School,TX/US,Kedar Pandya,Elkins KP
+heritage19,LD,Episcopal School Of Dallas,TX/US,Jiaying Fu,Episcopal School Of Dallas JF
+heritage19,LD,Episcopal School Of Dallas,TX/US,Zan Haq,Episcopal School Of Dallas ZH
+heritage19,LD,Garland HS,TX/US,Brandon Molina,Garland BM
+heritage19,LD,George Ranch HS,TX/US,Mohammad Sheikh,George Ranch MS
+heritage19,LD,Grapevine High School,TX/US,Dhiraj Veerappan,Grapevine DV
+heritage19,LD,Grapevine High School,TX/US,Ian McArthur,Grapevine IM
+heritage19,LD,Grapevine High School,TX/US,Nidhish Nerur,Grapevine NN
+heritage19,LD,Greenhill School,TX/US,Arush Adabala,Greenhill AA
+heritage19,LD,Greenhill School,TX/US,Krutin Devesh,Greenhill KD
+heritage19,LD,Greenhill School,TX/US,Mihir Rai,Greenhill MR
+heritage19,LD,Guyer HS,TX/,Ciarra McClinton,Guyer CM
+heritage19,LD,Hebron High School,TX/US,Aashir Sanjrani,Hebron AS
+heritage19,LD,Hebron High School,TX/US,Lucas Chan,Hebron LC
+heritage19,LD,Hebron High School,TX/US,Philip Ng,Hebron PN
+heritage19,LD,Irma Rangel YWLS,TX/US,Valerie Gutierrez,Irma Rangel YWLS VG
+heritage19,LD,Jack C Hays High School,TX/US,Patrick Fox,Jack C Hays PF
+heritage19,LD,Keller High School,TX/US,Jada Bourne,Keller JB
+heritage19,LD,LC Anderson,TX/US,Sesh Joe,LC Anderson SJ
+heritage19,LD,Lovejoy High School,TX/US,Collins Morgan,Lovejoy CM
+heritage19,LD,Lovejoy High School,TX/US,Kaya Czyz,Lovejoy KC
+heritage19,LD,Marcus High School,TX/US,Cynthia Domergue,Marcus CD
+heritage19,LD,Marcus High School,TX/US,Kyle Lleras,Marcus KL
+heritage19,LD,McMillen HS,TX/US,Nevin Gera,McMillen NG
+heritage19,LD,Montgomery,TX/US,Devin Hernandez,Montgomery DH
+heritage19,LD,Montgomery,TX/US,Grayson Constantine,Montgomery GC
+heritage19,LD,Newman Smith,TX/US,Kaushik Jampala,Newman Smith KJ
+heritage19,LD,Newman Smith,TX/US,Yeji Ghil,Newman Smith YG
+heritage19,LD,Northland Christian School,TX/US,Austin Broussard,Northland Christian AB
+heritage19,LD,Northland Christian School,TX/US,Aaron Barcio,Northland Christian ABa
+heritage19,LD,Northland Christian School,TX/US,Jack Quisenberry,Northland Christian JQ
+heritage19,LD,Plano East,TX/US,Ameera Khan,Plano East AK
+heritage19,LD,Plano East,TX/US,Hari Namdhari,Plano East HN
+heritage19,LD,Plano East,TX/US,Joseph-Charles D'Antuono,Plano East JD
+heritage19,LD,Plano East,TX/US,Sanjana Hiremath,Plano East SH
+heritage19,LD,Plano East,TX/US,William Zhang,Plano East WZ
+heritage19,LD,Plano Senior,TX/US,Aryan Jasani,Plano Senior AJ
+heritage19,LD,Prosper HS,TX/US,Alecxander Antonakakis,Prosper AA
+heritage19,LD,Prosper HS,TX/US,Kaleb Simes,Prosper KS
+heritage19,LD,Round Rock HS,TX/US,Sreya Gandra,Round Rock SG
+heritage19,LD,Southlake Carroll,TX/US,Gautam Iyer,Southlake Carroll GI
+heritage19,LD,Southlake Carroll,TX/US,Samir Mohsin,Southlake Carroll SM
+heritage19,LD,Southlake Carroll,TX/US,Tarun Ratnasabapathy,Southlake Carroll TR
+heritage19,LD,THEO Christian,TX/US,Austin Schwartz,THEO Christian AS
+heritage19,LD,THEO Christian,TX/US,Jacob Muir,THEO Christian JM
+heritage19,LD,The Hockaday School,TX/US,Mia Xia,Hockaday MX
+heritage19,LD,Timber Creek HS,TX/US,Ethan McQuhae,Timber Creek EM
+heritage19,LD,Timber Creek HS,TX/US,Gus Jones,Timber Creek GJ
+heritage19,LD,Timber Creek HS,TX/US,Ian Smith,Timber Creek IS
+heritage19,LD,Trinity High School,TX/US,Rebecca Lembrino-Crowe,Trinity RL
+heritage19,LD,Trinity Valley,TX/US,Asan Batyrbayev,Trinity Valley AB
+heritage19,LD,Trinity Valley,TX/US,Kishan Kalaria,Trinity Valley KK
+heritage19,LD,Trinity Valley,TX/US,Raj Baweja,Trinity Valley RB
+heritage19,LD,UT High School,TX/US,Ian Boarnet,UT IB
+heritage19,LD,Village High School,TX/US,Adnan Fatakdawala,Village AF
+heritage19,LD,Village High School,TX/US,Aditya Iyer,Village AI
+heritage19,LD,Village High School,TX/US,Aryan Parikh,Village AP
+heritage19,LD,Westwood HS,TX/US,Alice Zhang,Westwood AZ
+heritage19,LD,Westwood HS,TX/US,Davina Le,Westwood DL
+heritage19,LD,Westwood HS,TX/US,Saavan Myneni,Westwood SM
+heritage19,LD,Westwood HS,TX/US,Truman Le,Westwood TL
+heritage19,LD,Winston Churchill HS,TX/US,Maggie Davis,Winston Churchill MD
+heritage20,LD,Appleton North,WI/US,Mihir Uberoi,Appleton North MU
+heritage20,LD,BASIS Independent Silicon Valley In,CA/US,Shreyas Kapavarapu,BASIS Independent Silicon Valley Independent SK
+heritage20,LD,Coppell High School,TX/US,Cameron Delgado,Coppell CD
+heritage20,LD,Coppell High School,TX/US,Vansh Nanda,Coppell VN
+heritage20,LD,Coppell High School,TX/US,Vishal Sivamani,Coppell VS
+heritage20,LD,Coppell High School,TX/US,Zachary Li,Coppell ZL
+heritage20,LD,Edmond Santa Fe,OK/US,DeKaylie Thompson,Edmond Santa Fe DT
+heritage20,LD,Edmond Santa Fe,OK/US,Nicolas Bost,Edmond Santa Fe NB
+heritage20,LD,Evergreen Valley,CA/US,Saurish Srivastava,Evergreen Valley SS
+heritage20,LD,Harvard-Westlake School,CA/US,Alex Lee,Harvard-Westlake AL
+heritage20,LD,Harvard-Westlake School,CA/US,Joie Zhang,Harvard-Westlake JZ
+heritage20,LD,Harvard-Westlake School,CA/US,Maxwell Lee,Harvard-Westlake ML
+heritage20,LD,Lake Oswego Senior High School,OR/US,Lauren Zhang,Lake Oswego Senior LZ
+heritage20,LD,Little Rock Central,AR/US,Abdullah Ahmed,Little Rock Central AA
+heritage20,LD,Little Rock Central,AR/US,Glenna Ratcliff,Little Rock Central GR
+heritage20,LD,Little Rock Central,AR/US,Laila Meredith,Little Rock Central LM
+heritage20,LD,Los Altos High School,CA/US,Ben Freda-Eskenazi,Los Altos BF
+heritage20,LD,Mount Vernon High School,WA/US,Ausha Curry,Mount Vernon AC
+heritage20,LD,Nashua HS South,NH/US,Enya Gu,Nashua HS South EG
+heritage20,LD,Norman High School,OK/US,Max Crowther-Heyck,Norman MC
+heritage20,LD,Norman North High School,OK/US,Audrey Zhou,Norman North AZ
+heritage20,LD,Norman North High School,OK/US,Leon Shepkaru,Norman North LS
+heritage20,LD,Norman North High School,OK/US,Tuqa Alibadi,Norman North TA
+heritage20,LD,Northern Valley HS Independent,NJ/US,Daniel Nam,Northern Valley HS Independent DN
+heritage20,LD,Northern Valley HS Independent,NJ/US,Jing Li,Northern Valley HS Independent JL
+heritage20,LD,Northwood (Independent),CA/US,Rutvij Holay,Northwood (Independent) RH
+heritage20,LD,Ridgevue High School,ID/US,Taylor Jepson,Ridgevue TJ
+heritage20,LD,Riverfied Day School,OK/US,Robert Hale,Riverfied Day RH
+heritage20,LD,Rye Country Day Independent,NY/US,Samuel Kobi,Rye Country Day Independent SK
+heritage20,LD,San Mateo High,CA/US,Yesh Rao,San Mateo YR
+heritage20,LD,The Oxford Academy,CA/US,Viren Mehta,Oxford VM
+heritage20,LD,Westwood,TX/US,Aaditya Ganesan,Westwood AG
+heritage20,LD,Westwood,TX/US,Anushka Saini,Westwood AS
+heritage20,LD,Westwood,TX/US,Eric Gao,Westwood EG
+heritage20,LD,Westwood,TX/US,Shawkin Kabir,Westwood SK
+heritage20,LD,Westwood,TX/US,Wesley Yeung,Westwood WY
+heritage20,LD,Wilcox High School,CA/US,Keith Maben,Wilcox KM
+ridge20,LD,BASIS Phoenix High School,AZ/US,Zachary Jones,BASIS Phoenix ZJ
+ridge20,LD,Bergen County Academies,NJ/US,Andrew Kim,Bergen County Academies AK
+ridge20,LD,Bergen County Academies,NJ/US,Elvin Ko,Bergen County Academies EK
+ridge20,LD,Bridgewater Raritan,NJ/US,Abheek Dhara,Bridgewater Raritan AD
+ridge20,LD,Bridgewater Raritan,NJ/US,Anushka Karthik,Bridgewater Raritan AK
+ridge20,LD,Bridgewater Raritan,NJ/US,Ananya Natchukuri,Bridgewater Raritan AN
+ridge20,LD,Bridgewater Raritan,NJ/US,Amulya Natchukuri,Bridgewater Raritan ANa
+ridge20,LD,Bridgewater Raritan,NJ/US,Eric Zou,Bridgewater Raritan EZo
+ridge20,LD,Bridgewater Raritan,NJ/US,Jeffrey Wen,Bridgewater Raritan JW
+ridge20,LD,Bridgewater Raritan,NJ/US,Robbin Luo,Bridgewater Raritan RL
+ridge20,LD,Bridgewater Raritan,NJ/US,Sujay Edavalapati,Bridgewater Raritan SE
+ridge20,LD,Bridgewater Raritan,NJ/US,Shaunak Gaiki,Bridgewater Raritan SG
+ridge20,LD,Bridgewater Raritan,NJ/US,Venkat Subramanian,Bridgewater Raritan VS
+ridge20,LD,CR North High School,PA/US,Julia Walton,CR North JW
+ridge20,LD,CR North High School,PA/US,Marguerite Speaker,CR North MS
+ridge20,LD,Chaminade High School,NY/US,Zachary Stoyer,Chaminade ZS
+ridge20,LD,Edgemont Junior-Senior High School,NY/US,Avik Agarwal,Edgemont Junior-Senior AA
+ridge20,LD,Edgemont Junior-Senior High School,NY/US,Anuj Jain,Edgemont Junior-Senior AJ
+ridge20,LD,Fordham Preparatory School,NY/US,Declan Collins,Fordham Prep DC
+ridge20,LD,Fordham Preparatory School,NY/US,William Carroll,Fordham Prep WC
+ridge20,LD,Freehold Township,NJ/US,Shubhum Agrawal,Freehold Township SA
+ridge20,LD,Hunter College,NY/US,Andrei Iosifescu,Hunter AI
+ridge20,LD,Hunter College,NY/US,Natalie Vihodet,Hunter NV
+ridge20,LD,Irvington HS,CA/US,Akshaj Gupta,Irvington AG
+ridge20,LD,Irvington HS,CA/US,Gauri Renjith,Irvington GR
+ridge20,LD,Irvington HS,CA/US,Lahari Karmuchi,Irvington LK
+ridge20,LD,Irvington HS,CA/US,Sanjith Shanmugavel,Irvington SS
+ridge20,LD,Irvington HS,CA/US,Trishla Mehta,Irvington TM
+ridge20,LD,Lexington HS,MA/US,Aanya Ghosh,Lexington AG
+ridge20,LD,Lexington HS,MA/US,Amy Ma,Lexington AM
+ridge20,LD,Lexington HS,MA/US,Mahad Sohail,Lexington MS
+ridge20,LD,Millburn High School,NJ/US,Andy Xu,Millburn AX
+ridge20,LD,Millburn High School,NJ/US,Hannah Rubinstein,Millburn HR
+ridge20,LD,Milton Academy,MA/US,Andrew Tsang,Milton AT
+ridge20,LD,Montville,NJ/US,Aaron Pottinger,Montville AP
+ridge20,LD,Montville,NJ/US,Nilay Patel,Montville NP
+ridge20,LD,Montville,NJ/US,Ram Pantula,Montville RP
+ridge20,LD,Montville,NJ/US,Sunay Hedge,Montville SH
+ridge20,LD,Montville,NJ/US,Tanay Vysyaraju,Montville TV
+ridge20,LD,Perry High School,AZ/US,Joey Antonelli,Perry JA
+ridge20,LD,Princeton,NJ/US,Constantine Oskiper,Princeton CO
+ridge20,LD,Princeton,NJ/US,Junkai Gong,Princeton JG
+ridge20,LD,Randolph High School,NJ/US,Alvis Sharra,Randolph AS
+ridge20,LD,Randolph High School,NJ/US,Jonah Perelman,Randolph JP
+ridge20,LD,Scarsdale High School,NY/US,Bryan Shi,Scarsdale BS
+ridge20,LD,Scarsdale High School,NY/US,Jaden Tepper,Scarsdale JT
+ridge20,LD,Scarsdale High School,NY/US,Sebastian Verrelli,Scarsdale SV
+ridge20,LD,Solebury School,PA/US,Jan Mejia-Toro,Solebury JM
+ridge20,LD,Solebury School,PA/US,Leo Mokriski,Solebury LM
+ridge20,LD,Solebury School,PA/US,Liam Nyberg,Solebury LN
+ridge20,LD,Solebury School,PA/US,Tim Carroll,Solebury TC
+ridge20,LD,Success Academy HS - Liberal Arts,NY/US,Silma Bathily,Success Academy HS - Liberal Arts SB
+ridge20,LD,The Bronx High School Of Science,NY/US,Angela Phuong,Bronx Science AP
+ridge20,LD,The Bronx High School Of Science,NY/US,Dahlia Bekong,Bronx Science DB
+ridge20,LD,The Bronx High School Of Science,NY/US,Nicolas Kim,Bronx Science NK
+ridge20,LD,The Bronx High School Of Science,NY/US,Nora Sissenich,Bronx Science NS
+ridge20,LD,Unionville,PA/US,Medha Patel,Unionville MP
+ridge20,LD,Unionville,PA/US,Phillis Wan,Unionville PW
+ridge20,LD,University High School,NJ/US,Mercy Wah,University MW
+ridge19,LD,Blair Academy,NJ/US,Arjun Chopra,Blair AC
+ridge19,LD,Bridgewater Raritan,NJ/US,Anika Kathuria,Bridgewater Raritan AK
+ridge19,LD,Bridgewater Raritan,NJ/US,Anushka Karthik,Bridgewater Raritan AKa
+ridge19,LD,Bridgewater Raritan,NJ/US,Ananya Natchukuri,Bridgewater Raritan AN
+ridge19,LD,Bridgewater Raritan,NJ/US,Amulya Natchukuri,Bridgewater Raritan ANa
+ridge19,LD,Bridgewater Raritan,NJ/US,Ashima Taneja,Bridgewater Raritan AT
+ridge19,LD,Bridgewater Raritan,NJ/US,Eric Zou,Bridgewater Raritan EZ
+ridge19,LD,Bridgewater Raritan,NJ/US,Sujay Edavalapati,Bridgewater Raritan SE
+ridge19,LD,Bridgewater Raritan,NJ/US,Suhas Julapalli,Bridgewater Raritan SJ
+ridge19,LD,Byram Hills HS,NY/US,Talia Dinstein,Byram Hills TD
+ridge19,LD,CR North HS,PA/US,Angela Shen,CR North AS
+ridge19,LD,CR North HS,PA/US,Jiewei Li,CR North JL
+ridge19,LD,CR North HS,PA/US,Marguerite Speaker,CR North MS
+ridge19,LD,Catonsville HS,MD/US,Alexander Torrez,Catonsville AT
+ridge19,LD,Catonsville HS,MD/US,Nate Frenkel,Catonsville NF
+ridge19,LD,Edgemont HS,NY/US,Avik Agarwal,Edgemont AA
+ridge19,LD,Edgemont HS,NY/US,Anuj Jain,Edgemont AJ
+ridge19,LD,Harrison,NY/US,Ali Ahmad,Harrison AA
+ridge19,LD,Harrison,NY/US,Ava Zinman,Harrison AZ
+ridge19,LD,Harrison,NY/US,Elizabeth Murno,Harrison EM
+ridge19,LD,Harrison,NY/US,Giovanni Cutri,Harrison GC
+ridge19,LD,Harrison,NY/US,Molly Ryan,Harrison MR
+ridge19,LD,Harrison,NY/US,Rebecca Anderson,Harrison RA
+ridge19,LD,Hunter College,NY/US,Maximilian Dittgen,Hunter MD
+ridge19,LD,Hunter College,NY/US,Nate Kruger,Hunter NK
+ridge19,LD,Lexington HS,MA/US,Anthony The,Lexington AT
+ridge19,LD,Lexington HS,MA/US,Brett Fortier,Lexington BF
+ridge19,LD,Lexington HS,MA/US,Derek Ying,Lexington DYi
+ridge19,LD,Lexington HS,MA/US,Filip Vrancic,Lexington FVr
+ridge19,LD,Lexington HS,MA/US,Vikrant Maan,Lexington VM
+ridge19,LD,Livingston HS,NJ/US,Gene Lu,Livingston GL
+ridge19,LD,Millburn High School,NJ/US,Ethan Chan,Millburn EC
+ridge19,LD,Millburn High School,NJ/US,Hannah Rubinstein,Millburn HR
+ridge19,LD,Montville,NJ/US,Aaron Pottinger,Montville AP
+ridge19,LD,Montville,NJ/US,Nilay Patel,Montville NP
+ridge19,LD,Nashua HS South,NH/US,Enya Gu,Nashua HS South EG
+ridge19,LD,Newark Science,NJ/US,Simone Braithwaite,Newark Science SB
+ridge19,LD,Newark Science,NJ/US,Temitope Ogundare,Newark Science TO
+ridge19,LD,Princeton,NJ/US,Constantine Oskiper,Princeton CO
+ridge19,LD,Princeton,NJ/US,Rohit Lakshman,Princeton RL
+ridge19,LD,Princeton,NJ/US,Vedansh Chauhan,Princeton VC
+ridge19,LD,Richard Montgomery HS,MD/US,Uma Fox,Richard Montgomery UF
+ridge19,LD,Scarsdale HS,NY/US,Daniel Zhang,Scarsdale DZ
+ridge19,LD,Scarsdale HS,NY/US,Jonah Dichter,Scarsdale JD
+ridge19,LD,Scarsdale HS,NY/US,Shreya Barlinge,Scarsdale SB
+ridge19,LD,The Bronx High School Of Science,NY/US,Angela Phuong,Bronx Science AP
+ridge19,LD,The Bronx High School Of Science,NY/US,Hannah Bennett,Bronx Science HB
+ridge19,LD,The Bronx High School Of Science,NY/US,Noah Getz,Bronx Science NG
+ridge19,LD,The Pingry School,NJ/US,Julia Fu,Pingry JF
+ridge19,LD,University High School,NJ/US,Kennedy Onley,University KO
+ridge19,LD,University High School,NJ/US,Mercy Wah,University MW
+ridge19,LD,University High School,NJ/US,Rosalie Rodriguez,University RR
+seattle20,LD,Agoura High School,CA/US,Casey Simpson,Agoura Simpson
+seattle20,LD,BASIS Ahwatukee,AZ/,Dohyun Ku,BASIS Ahwatukee Ku
+seattle20,LD,Claudia Taylor Johnson High School,TX/US,Abhived Pulapaka,Claudia Taylor Johnson Pulapaka
+seattle20,LD,Crater High School,OR/US,Adam Moeglein,Crater Moeglein
+seattle20,LD,Eastside Catholic High School,WA/US,Grace Hopkins,Eastside Catholic Hopkins
+seattle20,LD,Fremont High School,CA/US,Apurv Gupta,Fremont Gupta
+seattle20,LD,Fremont High School,CA/US,Taran Kondamuru,Fremont Kondamuru
+seattle20,LD,Fremont High School,CA/US,Ria Maheshwari,Fremont Maheshwari
+seattle20,LD,Gig Harbor,WA/US,Will Newberg,Gig Harbor Newberg
+seattle20,LD,Gonzaga Prep High School,WA/US,Gabe Peterson,Gonzaga Prep Peterson
+seattle20,LD,Huntington High School,WV/US,Benjamin Patrick,Huntington Patrick
+seattle20,LD,Interlake HS,WA/US,Daniel Bomberger,Interlake Bomberger
+seattle20,LD,Interlake HS,WA/US,Anita Gao,Interlake Gao
+seattle20,LD,Interlake HS,WA/US,Keerthana Kompella,Interlake Kompella
+seattle20,LD,Interlake HS,WA/US,Ellie Liu,Interlake Liu
+seattle20,LD,Interlake HS,WA/US,Kevin Luo,Interlake Luo
+seattle20,LD,Interlake HS,WA/US,Andrew Shaw,Interlake Shaw
+seattle20,LD,Interlake HS,WA/US,Allen Wu,Interlake Wu
+seattle20,LD,Interlake HS,WA/US,Tanush Yadav,Interlake Yadav
+seattle20,LD,Interlake HS,WA/US,Alyssa Zhu,Interlake Zhu
+seattle20,LD,Mount Vernon High School,WA/US,Ausha Curry,Mount Vernon Curry
+seattle20,LD,Mount Vernon High School,WA/US,Emily Ney,Mount Vernon Ney
+seattle20,LD,Newport High School,WA/US,Sam Gan,Newport Gan
+seattle20,LD,Newport High School,WA/US,Katrina Li,Newport Li
+seattle20,LD,Newport High School,WA/US,Ethan Luo,Newport Luo
+seattle20,LD,Newport High School,WA/US,Jonathan Qiao,Newport Qiao
+seattle20,LD,Newport High School,WA/US,Linh Tran,Newport Tran
+seattle20,LD,Newport High School,WA/US,Henry Xue,Newport Xue
+seattle20,LD,North Central High School,WA/US,Colton Schons,North Central Schons
+seattle20,LD,Plano West Sr High School,TX/US,Janvi Garg,Plano West Garg
+seattle20,LD,Rock Springs,WY/US,Lindsey Cox,Rock Springs Cox
+seattle20,LD,Samammish HS,WA/US,Lydia Wang,Samammish Wang
+seattle20,LD,Seattle Academy,WA/US,Isaac Crane,Seattle Crane
+seattle20,LD,The Academy Of Classical Christian,OK/US,Jack Miller,Academy Of Classical Christian Studies Miller
+seattle20,LD,The Overlake School,WA/US,Griffin Hehmeyer,Overlake Hehmeyer
+seattle20,LD,The Overlake School,WA/US,Jacob Herbold,Overlake Herbold
+seattle20,LD,The Overlake School,WA/US,Anders Larson,Overlake Larson
+seattle20,LD,The Overlake School,WA/US,Felix Yuan,Overlake Yuan
+seattle20,LD,The Roeper School,MI/US,Rosalyn Li,Roeper Li
+seattle20,LD,University HS,WA/US,Alyssa Kudrna,University Kudrna
+seattle20,LD,West Ranch High School,CA/US,Shreyas Venkatsubramanian,West Ranch Venkatsubramanian
+seattle19,LD,Eastside Catholic High School,WA/US,Grace Hopkins,Eastside Catholic Hopkins
+seattle19,LD,Eastside Preparatory School,WA/US,Margaret Li,Eastside Prep Li
+seattle19,LD,Gig Harbor,WA/US,Anna Cardinal,Gig Harbor Cardinal
+seattle19,LD,Gig Harbor,WA/US,Dylan Rosenlind,Gig Harbor Rosenlind
+seattle19,LD,Gig Harbor,WA/US,Kira Rosenlind,Gig Harbor Rosenlind
+seattle19,LD,Gig Harbor,WA/US,Trevor Wyatt,Gig Harbor Wyatt
+seattle19,LD,Interlake HS,WA/US,Daniel Bomberger,Interlake Bomberger
+seattle19,LD,Interlake HS,WA/US,Ellie Liu,Interlake Liu
+seattle19,LD,Interlake HS,WA/US,Andrew Shaw,Interlake Shaw
+seattle19,LD,Interlake HS,WA/US,Tanush Yadav,Interlake Yadav
+seattle19,LD,Interlake HS,WA/US,Oliver Yun,Interlake Yun
+seattle19,LD,Mercer Island HS,WA/US,Tristan Moore,Mercer Island Moore
+seattle19,LD,Mount Vernon High School,WA/US,Ausha Macias- Curry,Mount Vernon Macias- Curry
+seattle19,LD,Mount Vernon High School,WA/US,Jaylin Talmadge,Mount Vernon Talmadge
+seattle19,LD,Newport HS,WA/US,Maggie Li,Newport Li
+seattle19,LD,Newport HS,WA/US,Jonathan Qiao,Newport Qiao
+seattle19,LD,Newport HS,WA/US,Aaron Xie,Newport Xie
+seattle19,LD,Newport HS,WA/US,Xiaofu Zhu,Newport Zhu
+seattle19,LD,Puyallup High School,WA/US,Serena Snowden,Puyallup Snowden
+seattle19,LD,Puyallup High School,WA/US,Madysyn Williams,Puyallup Williams
+seattle19,LD,Raisbeck Aviation High School,WA/US,Chloe Conrad,Raisbeck Aviation Conrad
+seattle19,LD,Raisbeck Aviation High School,WA/US,Ryan Lipour,Raisbeck Aviation Lipour
+seattle19,LD,Raisbeck Aviation High School,WA/US,Davie Anne Ross,Raisbeck Aviation Ross
+seattle19,LD,Seattle Academy,WA/US,Dylan Breslin,Seattle Breslin
+seattle19,LD,Seattle Academy,WA/US,Aliyah Lee,Seattle Lee
+seattle19,LD,Seattle Academy,WA/US,Sachin Zachariah,Seattle Zachariah
+seattle19,LD,The Overlake School,WA/US,Griffin Hehmeyer,Overlake Hehmeyer
+seattle19,LD,The Overlake School,WA/US,Anders Larson,Overlake Larson
+seattle19,LD,The Overlake School,WA/US,Joseph Zhang,Overlake Zhang
+seattle19,LD,Timberline HS,ID/US,Victoria Mort,Timberline Mort
+seattle19,LD,University HS,WA/US,Syvana Arwood,University Arwood
+seattle19,LD,University HS,WA/US,Sandra Mendez,University Mendez
+seattle19,LD,University HS,WA/US,Iman Munawar,University Munawar
+seattle19,LD,University HS,WA/US,Ashlyn O'Kert,University O'Kert
+seattle19,LD,Vashon HS,WA/US,Wendy Axtelle,Vashon Axtelle
+seattle19,LD,Vashon HS,WA/US,Stellar Bigatel,Vashon Bigatel
+seattle19,LD,Vashon HS,WA/US,Ella Halvorson,Vashon Halvorson
+seattle19,LD,Woodinville High School,WA/US,Sarah Hickey,Woodinville Hickey
+uk19,LD,"Calhoun HS - Calhoun, GA",GA/US,Anjena Duhan,"Calhoun HS - Calhoun, GA AD",In
+uk19,LD,Cape Fear Academy,NC/US,Maya Arora,Cape Fear MA,In
+uk19,LD,Cypress Bay HS,FL/US,Garrett Bishop,Cypress Bay GB,In
+uk19,LD,DebateUS!,RI/US,Andrew Tsang,DebateUS! AT,In
+uk19,LD,DuPont Manual High School,KY/US,Arthi Sundar,DuPont Manual AS,In
+uk19,LD,DuPont Manual High School,KY/US,Liam Buchanan,DuPont Manual LB,In
+uk19,LD,DuPont Manual High School,KY/US,Pranav Kanmadikar,DuPont Manual PK,In
+uk19,LD,DuPont Manual High School,KY/US,Romith Paily,DuPont Manual RP,In
+uk19,LD,Durham Academy,NC/US,Adam Astrachan,Durham AA,In
+uk19,LD,Evanston Twp HS,IL/US,Anna Lou Marty,Evanston Twp AM,In
+uk19,LD,Evanston Twp HS,IL/US,Henry Eberhart,Evanston Twp HE,In
+uk19,LD,Evanston Twp HS,IL/US,Katie Young,Evanston Twp KY,In
+uk19,LD,Evanston Twp HS,IL/US,Quinn Hughes,Evanston Twp QH,In
+uk19,LD,Evanston Twp HS,IL/US,Sabrina Barnes,Evanston Twp SB,In
+uk19,LD,Gayle Middle School,VA/US,Sebastian Rao,Gayle SR,In
+uk19,LD,Henry Clay High School,KY/US,Cole Knight,Henry Clay CK,In
+uk19,LD,Henry Clay High School,KY/US,Jack Lofwall,Henry Clay JL,In
+uk19,LD,Laurel School,OH/,Leah Honeycutt,Laurel LH,In
+uk19,LD,Little Rock Central,AR/US,David Shu,Little Rock Central DS,In
+uk19,LD,Little Rock Central,AR/US,Ellie Beam,Little Rock Central EB,In
+uk19,LD,Little Rock Central,AR/US,Glenna Ratcliff,Little Rock Central GR,In
+uk19,LD,Little Rock Central,AR/US,Jasper Potts,Little Rock Central JP,In
+uk19,LD,Little Rock Central,AR/US,Tanayia Wells,Little Rock Central TW,In
+uk19,LD,Medina Senior HS,OH/,Carlos Levine,Medina Senior CL,In
+uk19,LD,Mountain Brook HS,AL/US,Christian Glenos,Mountain Brook CG,In
+uk19,LD,Mountain Brook HS,AL/US,Evan Jack,Mountain Brook EJ,In
+uk19,LD,Mountain Brook HS,AL/US,Marielle Cornes,Mountain Brook MC,In
+uk19,LD,North Oldham High School Independen,KY/US,Aditi Kona,North Oldham HS Independent 1 AK,In
+uk19,LD,Poly Prep Country Day School,NY/US,David Bogner,Poly Prep Country Day DB,In
+uk19,LD,Sequoyah High School,GA/US,Cameron Diamond,Sequoyah CD,In
+uk19,LD,Sequoyah High School,GA/US,Marko Petrovic,Sequoyah MP,In
+uk19,LD,St Pius X Catholic High School,GA/US,Joseph Tarnowski,St Pius X Catholic JT,In
+uk19,LD,The Altamont School,AL/US,Isabella Maldia,Altamont IM,In
+uk19,LD,Trinity Independent,KY/US,Porter Hunt,Trinity Independent PH,In
+uk19,LD,University School,OH/US,Ali Gardezi,University AG,In
+uk19,LD,University School,OH/US,Aetan Parmar,University AP,In
+uk19,LD,University School,OH/US,Michael Faeges,University MF,In
+uk19,LD,University School,OH/US,Nehal Chigurupati,University NC,In
+uk19,LD,University School,OH/US,Saavan Patel,University SP,In
+uk19,LD,Vestavia Hills HS,AL/US,Jason Han,Vestavia Hills JH,In
+uk19,LD,Vestavia Hills HS,AL/US,Ryan Conn,Vestavia Hills RC,In
+uk19,LD,Walt Whitman,MD/US,Grace Zhao,Walt Whitman GZ,In
+uk19,LD,Whitmer HS,OH/US,Kathleen Inman,Whitmer KI,In
+uk19,LD,Whitmer HS,OH/US,Michelle Zheng,Whitmer MZ,In
+uk20,LD,Albuquerque Academy,NM/US,Adeeb Khan,Albuquerque AK,In
+uk20,LD,Albuquerque Academy,NM/US,Diego Sanchez,Albuquerque DS,In
+uk20,LD,Albuquerque Academy,NM/US,Lily Nakakura,Albuquerque LN,In
+uk20,LD,Albuquerque Academy,NM/US,Naima Pyarali,Albuquerque NP,In
+uk20,LD,American Heritage Plantation HS,FL/US,Asha Patra,American Heritage Plantation AP,In
+uk20,LD,American Heritage Plantation HS,FL/US,Mary Abi-Karam,American Heritage Plantation MA,In
+uk20,LD,American Heritage Plantation HS,FL/US,Mason Cheng,American Heritage Plantation MC,In
+uk20,LD,American Heritage Plantation HS,FL/US,Sarah Dufays,American Heritage Plantation SD,In
+uk20,LD,American Heritage Plantation HS,FL/US,Shania Mahmood,American Heritage Plantation SM,In
+uk20,LD,American Heritage Plantation HS,FL/US,Spencer Swickle,American Heritage Plantation SS,In
+uk20,LD,Ardsley High School,NY/US,Zafir Sayyed,Ardsley ZS,In
+uk20,LD,BASIS Peoria,AZ/US,Avi Agarwal,BASIS Peoria AA,In
+uk20,LD,BASIS Peoria,AZ/US,Philimon Yosafat,BASIS Peoria PY,In
+uk20,LD,BASIS Peoria,AZ/US,Ved Patil,BASIS Peoria VP,In
+uk20,LD,Bishop's,CA/US,Advay Chandra,Bishop's AC,In
+uk20,LD,Byram Hills High School,NY/US,Eleanor Wangensteen,Byram Hills EW,In
+uk20,LD,Catonsville High School,MD/US,Nate Frenkel,Catonsville NF,In
+uk20,LD,Centennial HS,TX/US,Nidhi Sonwalkar,Centennial NS,In
+uk20,LD,Charlotte Latin School,NC/US,Elaine Liu,Charlotte Latin EL,In
+uk20,LD,Charlotte Latin School,NC/US,Laura Han,Charlotte Latin LH,In
+uk20,LD,Charlotte Latin School,NC/US,Vikram Dhillon,Charlotte Latin VD,In
+uk20,LD,Claudia Taylor Johnson High School,TX/US,Abhived Pulapaka,Claudia Taylor Johnson AP,In
+uk20,LD,Colonial Forge High School,VA/US,Sebastian Rao,Colonial Forge SR,In
+uk20,LD,Davis High,UT/US,Bryn Montierth,Davis BM,In
+uk20,LD,Davis High,UT/US,Sugar Santillan,Davis SS,In
+uk20,LD,Desert Vista High School,AZ/US,Rhegan Crabtree,Desert Vista RC,In
+uk20,LD,Dowling Catholic High School,IA/US,James Piazza,Dowling Catholic JP,In
+uk20,LD,Durham Academy,NC/US,Chris Burkhard,Durham CB,In
+uk20,LD,Durham Academy,NC/US,Vika Wei,Durham VW,In
+uk20,LD,Edina High School,MN/US,Matt Kumar-Montei,Edina MK,In
+uk20,LD,Evanston Twp High School,IL/US,Emmet Ebels-Duggan,Evanston Twp EE,In
+uk20,LD,Evanston Twp High School,IL/US,Gabe Karsh,Evanston Twp GK,In
+uk20,LD,Fort Worth Country Day,TX/US,Tommy Weaver,Fort Worth Country Day TW,In
+uk20,LD,Fox Chapel Area High School,PA/US,Siddharth Yende,Fox Chapel Area SY,In
+uk20,LD,Hathaway Brown School,OH/,Aaryana Sethi,Hathaway Brown AS,In
+uk20,LD,Hawken,OH/US,Allie Dettelbach,Hawken AD,In
+uk20,LD,Hawken,OH/US,Emma Blemaster,Hawken EB,In
+uk20,LD,Hawken,OH/US,Jasmine Shone,Hawken JS,In
+uk20,LD,Hawken,OH/US,Luke Sweeney,Hawken LS,In
+uk20,LD,Hawken,OH/US,Owen Tritt,Hawken OT,In
+uk20,LD,Hawken,OH/US,Ryan Si,Hawken RS,In
+uk20,LD,Henry Clay High School,KY/US,Cole Knight,Henry Clay CK,In
+uk20,LD,Henry Clay High School,KY/US,Sam Merritt,Henry Clay SM,In
+uk20,LD,Honor Academy,CA/US,Andrew Park,Honor AP,In
+uk20,LD,Honor Academy,CA/US,Vaibhav Dara,Honor VD,In
+uk20,LD,La Salle College High School,PA/US,Michael Quigley,La Salle MQ,In
+uk20,LD,Lake Highland Preparatory School,FL/US,Ayman Badawy,Lake Highland Prep AB,In
+uk20,LD,Lake Highland Preparatory School,FL/US,Alec Clemens,Lake Highland Prep AC,In
+uk20,LD,Lake Highland Preparatory School,FL/US,Abby Morris,Lake Highland Prep AM,In
+uk20,LD,Lake Highland Preparatory School,FL/US,Anay Shah,Lake Highland Prep AS,In
+uk20,LD,Lake Highland Preparatory School,FL/US,Neha Patil,Lake Highland Prep NP,In
+uk20,LD,Lake Highland Preparatory School,FL/US,Prateek Seela,Lake Highland Prep PS,In
+uk20,LD,Leland High School,CA/US,Varsha Shankar,Leland VS,In
+uk20,LD,Lexington HS,MA/US,Arun Kodumuru,Lexington AK,In
+uk20,LD,Lexington HS,MA/US,Austin Li,Lexington AL,In
+uk20,LD,Lexington HS,MA/US,Anthony The,Lexington AT,In
+uk20,LD,Lexington HS,MA/US,Filip Vrancic,Lexington FV,In
+uk20,LD,Lexington HS,MA/US,Paulak Roy,Lexington PR,In
+uk20,LD,Lexington HS,MA/US,Robin Pan,Lexington RP,In
+uk20,LD,Lincoln,OR/US,Alex Wei,Lincoln AW,In
+uk20,LD,Lincoln,OR/US,Jacob Root,Lincoln JR,In
+uk20,LD,Lincoln,OR/US,William Guo,Lincoln WG,In
+uk20,LD,Little Rock Central,AR/US,David Shu,Little Rock Central DS,In
+uk20,LD,Little Rock Central,AR/US,Glenna Ratcliff,Little Rock Central GR,In
+uk20,LD,Loyola Blakefield,MD/US,Thomas McNulty,Loyola Blakefield TM,In
+uk20,LD,Lynbrook HS,CA/US,Arnav Jain,Lynbrook AJ,In
+uk20,LD,Milpitas High School,CA/US,Disha Yadav,Milpitas DY,In
+uk20,LD,Milton Academy,MA/US,Andrew Tsang,Milton Acad AT,In
+uk20,LD,Mountain Brook High School,AL/US,Evan Jack,Mountain Brook EJ,In
+uk20,LD,Mountain Brook High School,AL/US,Marielle Cornes,Mountain Brook MC,In
+uk20,LD,Mountain Brook High School,AL/US,Wells Finch,Mountain Brook WF,In
+uk20,LD,Northern Valley HS Independent,NJ/US,James Song,Northern Valley HS Independent JS,In
+uk20,LD,Park City,UT/US,Noam Levinsky,Park City NL,In
+uk20,LD,Princeton,NJ/US,Christopher Bao,Princeton CB,In
+uk20,LD,Princeton,NJ/US,Junkai Gong,Princeton JG,In
+uk20,LD,Princeton,NJ/US,Maya Lerman,Princeton ML,In
+uk20,LD,Princeton,NJ/US,Nivan Dhamija,Princeton ND,In
+uk20,LD,Redlands High School,CA/US,Eric Chen,Redlands EC,In
+uk20,LD,Ridgevue High School,ID/US,Taylor Jepson,Ridgevue TJ,In
+uk20,LD,Riverside HS,SC/US,Kritika Sethi,Riverside KS,In
+uk20,LD,RockBridge HS,MO/US,Shruti Gautam,RockBridge SG,In
+uk20,LD,St Michael Albertville High School,MN/US,Cobin Szymanski,St Michael Albertville CS,In
+uk20,LD,Strake Jesuit College Preparatory,TX/US,Karan Shah,Strake Jesuit  KS,In
+uk20,LD,Strath Haven,PA/US,Ava Manaker,Strath Haven AM,In
+uk20,LD,Teurlings Catholic High School,LA/US,Cade Savoy,Teurlings Catholic CS,In
+uk20,LD,The Bronx High School Of Science,NY/US,Sophia Augustin,Bronx Science SA,In
+uk20,LD,The Bronx High School Of Science,NY/US,Yona Litwin,Bronx Science YL,In
+uk20,LD,Unionville,PA/US,Devin Jiang,Unionville DJ,In
+uk20,LD,Unionville,PA/US,Ibraheem Qureshi,Unionville IQ,In
+uk20,LD,Unionville,PA/US,Phillis Wan,Unionville PW,In
+uk20,LD,University School,OH/US,Arveen Alaedinni,University AA,In
+uk20,LD,University School,OH/US,Aetan Parmar,University AP,In
+uk20,LD,University School,OH/US,Jeremy Battle,University JB,In
+uk20,LD,University School,OH/US,Michael Faeges,University MF,In
+uk20,LD,University School,OH/US,Steven Kim,University SK,In
+uk20,LD,Walt Whitman,MD/US,Toby Goldberg,Walt Whitman TG,In
+uk20,LD,William Mason High School,OH/US,Bhuvan Meruga,William Mason BM,In
+uk20,LD,William Tennent High School,PA/US,Sierra Marelia,William Tennent SM,In
+uk20,LD,Woodrow Wilson High School,DC/US,Chris O'Brien,Woodrow Wilson CO,In
+uk20,LD,Woodrow Wilson High School,DC/US,Emmett Brosowsky,Woodrow Wilson EB,In
+uk20,LD,Woodrow Wilson High School,DC/US,Sophie Reeves,Woodrow Wilson SR,In
+uk20,LD,Woodrow Wilson High School,DC/US,Tristan May,Woodrow Wilson TM,In
+blake19,LD,Apple Valley HS,MN/US,Dawit Gebremaryam,Apple Valley DG,In
+blake19,LD,Apple Valley HS,MN/US,John Schwartz,Apple Valley JS,In
+blake19,LD,Apple Valley HS,MN/US,Kacee Wells,Apple Valley KW,In
+blake19,LD,Apple Valley HS,MN/US,Morgen Allen,Apple Valley MA,In
+blake19,LD,Apple Valley HS,MN/US,Nora Bolsoni,Apple Valley NB,In
+blake19,LD,Apple Valley HS,MN/US,Rogelio Lopez,Apple Valley RL,In
+blake19,LD,Appleton East HS,WI/US,Sophia Mast,Appleton East SM,In
+blake19,LD,Cypress Bay HS,FL/US,Isabella Mason,Cypress Bay IM,In
+blake19,LD,Eagan HS,MN/,Ashley Chen,Eagan AC,In
+blake19,LD,Eagan HS,MN/,Arush Iyer,Eagan AI,In
+blake19,LD,Eagan HS,MN/,Ankitha Kumar,Eagan AK,In
+blake19,LD,Eagan HS,MN/,Julia Schowalter,Eagan JS,In
+blake19,LD,Eden Prairie HS,MN/US,Akshitha Ginuga,Eden Prairie AG,In
+blake19,LD,Edgemont HS,NY/US,Jade Jang,Edgemont JJ,In
+blake19,LD,Edina HS,MN/US,Ananth Veluvali,Edina AV,In
+blake19,LD,Edina HS,MN/US,Leo Hickey,Edina LH,In
+blake19,LD,Edina HS,MN/US,Matt Kumar-Montei,Edina MK,In
+blake19,LD,Evanston Twp HS,IL/US,Anna Lou Marty,Evanston Twp AM,In
+blake19,LD,Evanston Twp HS,IL/US,Callie Stolar,Evanston Twp CS,In
+blake19,LD,Evanston Twp HS,IL/US,Gabe Karsh,Evanston Twp GK,In
+blake19,LD,Evanston Twp HS,IL/US,Henry Eberhart,Evanston Twp HE,In
+blake19,LD,Evanston Twp HS,IL/US,Quinn Hughes,Evanston Twp QH,In
+blake19,LD,Evanston Twp HS,IL/US,Sabrina Barnes,Evanston Twp SB,In
+blake19,LD,Fargo Shanley HS,ND/US,Jacob Dosch,Fargo Shanley JD,In
+blake19,LD,Gayle Middle School,VA/US,Sebastian Rao,Gayle SR,In
+blake19,LD,Greenhill School,TX/US,Arush Adabala,Greenhill AA,In
+blake19,LD,Greenhill School,TX/US,Anais Zhang,Greenhill AZ,In
+blake19,LD,Greenhill School,TX/US,Krutin Devesh,Greenhill KD,In
+blake19,LD,Homewood-Flossmoor High School,IL/US,Alexandria Porter,Homewood-Flossmoor AP,In
+blake19,LD,Homewood-Flossmoor High School,IL/US,Evelyn Middleton,Homewood-Flossmoor EM,In
+blake19,LD,Homewood-Flossmoor High School,IL/US,Hailey Lunceford,Homewood-Flossmoor HL,In
+blake19,LD,Homewood-Flossmoor High School,IL/US,Justen Pippens,Homewood-Flossmoor JP,In
+blake19,LD,Interlake HS,WA/US,Andrew Shaw,Interlake AS,In
+blake19,LD,Iowa City West,IA/US,M.C. (Mengcheng) Guo,Iowa City West MG,In
+blake19,LD,Lake Highland Preparatory,FL/US,Krithik Seela,Lake Highland Prep KS,In
+blake19,LD,Lake Highland Preparatory,FL/US,Meghana Srinivasa,Lake Highland Prep MS,In
+blake19,LD,Lakeville,MN/US,Josiah Thompson,Lakeville JT,In
+blake19,LD,Lakeville,MN/US,Kristin Neary,Lakeville KN,In
+blake19,LD,Lakeville,MN/US,Logan Stenzel,Lakeville LS,In
+blake19,LD,Lexington HS,MA/US,Archit Kumar,Lexington AK,In
+blake19,LD,Lexington HS,MA/US,Ava Kam,Lexington AKa,In
+blake19,LD,Lexington HS,MA/US,Christian Han,Lexington CH,In
+blake19,LD,Lexington HS,MA/US,Christina Li,Lexington CL,In
+blake19,LD,Lexington HS,MA/US,Jeong-Wan Choi,Lexington JC,In
+blake19,LD,Lexington HS,MA/US,Robin Pan,Lexington RP,In
+blake19,LD,Lincoln East HS,NE/US,Elena Belashchenko,Lincoln East EB,In
+blake19,LD,Lincoln East HS,NE/US,Lily Zeleny,Lincoln East LZ,In
+blake19,LD,Lincoln East HS,NE/US,Pratham Soni,Lincoln East PS,In
+blake19,LD,Lincoln HS,NE/US,Isza Strong,Lincoln IS,In
+blake19,LD,Lincoln North Star,NE/US,Azza Elhaj,Lincoln North Star AE,In
+blake19,LD,Lincoln North Star,NE/US,Mary Kate Boyle,Lincoln North Star MB,In
+blake19,LD,Lincoln Southeast HS,NE/US,Amber Tannehill,Lincoln Southeast AT,In
+blake19,LD,Live Oak,CA/US,Ritvik Sriram,Live Oak RS,In
+blake19,LD,Minnetonka HS,MN/US,Abdulkhani Abdi,Minnetonka AA,In
+blake19,LD,Minnetonka HS,MN/US,Ahlaam Abdulwali,Minnetonka AAb,In
+blake19,LD,Minnetonka HS,MN/US,Aleen Jude,Minnetonka AJ,In
+blake19,LD,Minnetonka HS,MN/US,Chaehyun Lee,Minnetonka CL,In
+blake19,LD,Minnetonka HS,MN/US,Molly Welch,Minnetonka MW,In
+blake19,LD,Minnetonka HS,MN/US,Nolan Trinh,Minnetonka NT,In
+blake19,LD,Minnetonka HS,MN/US,Priscilla Bunday,Minnetonka PB,In
+blake19,LD,Minnetonka HS,MN/US,Saloni Somia,Minnetonka SS,In
+blake19,LD,Minnetonka HS,MN/US,Steven Wang,Minnetonka SW,In
+blake19,LD,Montgomery Blair,MD/US,Peter Zhang,Montgomery Blair PZ,In
+blake19,LD,New Trier High School,IL/US,Caroline Siebert,New Trier CS,In
+blake19,LD,New Trier High School,IL/US,Izaak Van Til,New Trier IV,In
+blake19,LD,New Trier High School,IL/US,Thomas Serrino,New Trier TS,In
+blake19,LD,Newark Science,NJ/US,Simone Braithwaite,Newark Science SB,In
+blake19,LD,Newark Science,NJ/US,Temitope Ogundare,Newark Science TO,In
+blake19,LD,Newark Science,NJ/US,Victoria Ajayi,Newark Science VA,In
+blake19,LD,Okoboji,IA/US,TJ Ascherl,Okoboji TA,In
+blake19,LD,Peninsula High School,CA/US,Anish Ramireddy,Peninsula AR,In
+blake19,LD,Peninsula High School,CA/US,Henry Chung,Peninsula HC,In
+blake19,LD,Peninsula High School,CA/US,Jacob Namgung,Peninsula JN,In
+blake19,LD,Poly Prep Country Day School,NY/US,Gabrielle Perry,Poly Prep Country Day GP,In
+blake19,LD,Rosemount Sr HS,MN/US,Alexander Owens,Rosemount AO,In
+blake19,LD,Rosemount Sr HS,MN/US,Cierra Phillips,Rosemount CP,In
+blake19,LD,Rosemount Sr HS,MN/US,Laila Campeau,Rosemount LC,In
+blake19,LD,Scarsdale HS,NY/US,Bohan Ma,Scarsdale BM,In
+blake19,LD,Scarsdale HS,NY/US,Curtis Chang,Scarsdale CC,In
+blake19,LD,Scarsdale HS,NY/US,Caroline Shi,Scarsdale CS,In
+blake19,LD,Scarsdale HS,NY/US,Daniel Zhang,Scarsdale DZ,In
+blake19,LD,Scarsdale HS,NY/US,Karen Lee,Scarsdale KL,In
+blake19,LD,Scarsdale HS,NY/US,Vivian Guo,Scarsdale VG,In
+blake19,LD,Scarsdale HS,NY/US,Wolf Cukier,Scarsdale WC,In
+blake19,LD,Scarsdale HS,NY/US,Zachary Siegel,Scarsdale ZS,In
+blake19,LD,Seriös Academy,WA/US,Alexander Batt,Seriös AB,In
+blake19,LD,Sioux Falls Lincoln,SD/US,Areej Nazir,Sioux Falls Lincoln AN,In
+blake19,LD,Sioux Falls Lincoln,SD/US,Rachel Overstreet,Sioux Falls Lincoln RO,In
+blake19,LD,St Michael Albertville HS,MN/US,Ryan Davis,St Michael Albertville RD,In
+blake19,LD,St. Louis Park,MN/US,Julian Rohweder,St. Louis Park JR,In
+blake19,LD,St.Petersburg High School,FL/US,Jack McKyton,St.Petersburg JM,In
+blake19,LD,Strath Haven,PA/US,William Lee,Strath Haven WL,In
+blake19,LD,Stuyvesant HS,NY/US,Gallo Patel,Stuyvesant GP,In
+blake19,LD,Success Academy Manhattan HS,NY/US,Tajaih Robinson,Success Academy Manhattan TR,In
+blake19,LD,Vestavia Hills HS,AL/US,Jason Han,Vestavia Hills JH,In
+blake19,LD,Vestavia Hills HS,AL/US,Ryan Conn,Vestavia Hills RC,In
+blake19,LD,Walt Whitman,MD/US,Benjamin Waldman,Walt Whitman BW,In
+blake19,LD,West Des Moines Valley HS,IA/US,Alyssa Ashmore,West Des Moines Valley AA,In
+blake19,LD,West Des Moines Valley HS,IA/US,Animesh Joshi,West Des Moines Valley AJ,In
+blake19,LD,West Des Moines Valley HS,IA/US,Claire Gilbert,West Des Moines Valley CG,In
+blake19,LD,West Des Moines Valley HS,IA/US,Isabella Nadel,West Des Moines Valley IN,In
+blake19,LD,West Des Moines Valley HS,IA/US,Jalyn Wu,West Des Moines Valley JW,In
+blake19,LD,West Des Moines Valley HS,IA/US,Kauai Cua,West Des Moines Valley KC,In
+blake19,LD,West Des Moines Valley HS,IA/US,Lauren Gilbert,West Des Moines Valley LG,In
+blake19,LD,West Des Moines Valley HS,IA/US,Mia Dukle,West Des Moines Valley MD,In
+blake19,LD,West Des Moines Valley HS,IA/US,Risha Shetye,West Des Moines Valley RS,In
+blake19,LD,West Des Moines Valley HS,IA/US,Samuel Gibson,West Des Moines Valley SG,In
+blake19,LD,West Des Moines Valley HS,IA/US,Thomas Knudsen,West Des Moines Valley TK,In
+blake20,LD,Acton-Boxborough Regional High Scho,MA/US,Bellerina Hu,Acton-Boxborough BH,In
+blake20,LD,Apple Valley High School,MN/US,Alharith Dameh,Apple Valley AD,In
+blake20,LD,Apple Valley High School,MN/US,John Schwartz,Apple Valley JS,In
+blake20,LD,Apple Valley High School,MN/US,Kacee Wells,Apple Valley KW,In
+blake20,LD,Apple Valley High School,MN/US,Morgen Allen,Apple Valley MA,In
+blake20,LD,Apple Valley High School,MN/US,Nora Bolsoni,Apple Valley NB,In
+blake20,LD,Appleton North High School,WI/US,Mihir Uberoi,Appleton North MU,In
+blake20,LD,BASIS Peoria,AZ/US,Philimon Yosafat,BASIS Peoria PY,In
+blake20,LD,Coppell High School,TX/US,Hunniya Ahmad,Coppell HA,In
+blake20,LD,Coppell High School,TX/US,Siya Sangani,Coppell SS,In
+blake20,LD,Coppell High School,TX/US,Vishal Sivamani,Coppell VS,In
+blake20,LD,Eagan High School,MN/,Ashley Chen,Eagan AC,In
+blake20,LD,Eagan High School,MN/,Arush Iyer,Eagan AI,In
+blake20,LD,Eagan High School,MN/,Julia Schowalter,Eagan JS,In
+blake20,LD,Eden Prairie High School,MN/US,Avik Garg,Eden Prairie AG,In
+blake20,LD,Edina High School,MN/US,Ananth Veluvali,Edina AV,In
+blake20,LD,Edina High School,MN/US,Jonah	 Sher,Edina JS,In
+blake20,LD,Edina High School,MN/US,Leo Hickey,Edina LH,In
+blake20,LD,Edina High School,MN/US,Matt Kumar-Montei,Edina MK,In
+blake20,LD,Evergreen Valley HS,CA/US,Saurish Srivastava,Evergreen Valley SS,In
+blake20,LD,Greenhill School,TX/US,Arush Adabala,Greenhill AA,In
+blake20,LD,Greenhill School,TX/US,Krutin Devesh,Greenhill KD,In
+blake20,LD,Greenhill School,TX/US,Nikitha Thoduguli,Greenhill NT,In
+blake20,LD,Greenhill School,TX/US,Ramateja Mettu,Greenhill RM,In
+blake20,LD,Greenhill School,TX/US,Varsha Gande,Greenhill VG,In
+blake20,LD,Greenhill School,TX/US,Valerie Xu,Greenhill VX,In
+blake20,LD,Gulliver Prep,FL/US,Ivan Pankov,Gulliver Prep IP,In
+blake20,LD,Harrison,NY/US,Ali Ahmad,Harrison AA,In
+blake20,LD,Harrison,NY/US,Annie Chen,Harrison AC,In
+blake20,LD,Harrison,NY/US,Giovanni Cutri,Harrison GC,In
+blake20,LD,Harrison,NY/US,Mai Blaustein,Harrison MB,In
+blake20,LD,Harrison,NY/US,Rebecca Anderson,Harrison RA,In
+blake20,LD,Immaculate Heart High School,CA/US,Shaina Sanchez,Immaculate Heart SS,In
+blake20,LD,Immaculate Heart High School,CA/US,Zofia Barr,Immaculate Heart ZB,In
+blake20,LD,Interlake HS,WA/US,Anita Gao,Interlake AG,In
+blake20,LD,Interlake HS,WA/US,Andrew Shaw,Interlake AS,In
+blake20,LD,Interlake HS,WA/US,Hayun Bae,Interlake HB,In
+blake20,LD,Iowa City West,IA/US,Jayden Shin,Iowa City West JS,In
+blake20,LD,Iowa City West,IA/US,Nathan Weimar,Iowa City West NW,In
+blake20,LD,Lexington HS,MA/US,Ariv Ahuja,Lexington AA,In
+blake20,LD,Lexington HS,MA/US,Archit Kumar,Lexington AK,In
+blake20,LD,Lexington HS,MA/US,Arun Kodumuru,Lexington AKo,In
+blake20,LD,Lexington HS,MA/US,Austin Li,Lexington AL,In
+blake20,LD,Lexington HS,MA/US,Aavedon Roy,Lexington AR,In
+blake20,LD,Lexington HS,MA/US,Anthony The,Lexington AT,In
+blake20,LD,Lexington HS,MA/US,Brett Fortier,Lexington BF,In
+blake20,LD,Lexington HS,MA/US,Christian Han,Lexington CH,In
+blake20,LD,Lexington HS,MA/US,Derek Ying,Lexington DY,In
+blake20,LD,Lexington HS,MA/US,Jeong-Wan Choi,Lexington JC,In
+blake20,LD,Lexington HS,MA/US,Vikrant Maan,Lexington VM,In
+blake20,LD,Lincoln,OR/US,Alex Wei,Lincoln AW,In
+blake20,LD,Lincoln,OR/US,Jacob Root,Lincoln JR,In
+blake20,LD,Lincoln,OR/US,Samantha Block,Lincoln SB,In
+blake20,LD,Lincoln,OR/US,William Guo,Lincoln WG,In
+blake20,LD,Lincoln East High School,NE/US,Elena Belashchenko,Lincoln East EB,In
+blake20,LD,Lincoln East High School,NE/US,Lily Zeleny,Lincoln East LZ,In
+blake20,LD,Lincoln East High School,NE/US,Pratham Soni,Lincoln East PS,In
+blake20,LD,Milton Academy,MA/US,Andrew Tsang,Milton AT,In
+blake20,LD,Minnetonka High School,MN/US,Aleen Jude,Minnetonka AJ,In
+blake20,LD,Minnetonka High School,MN/US,Brock Dodds,Minnetonka BD,In
+blake20,LD,Minnetonka High School,MN/US,Chaehyun Lee,Minnetonka CL,In
+blake20,LD,Minnetonka High School,MN/US,Jin Bang,Minnetonka JB,In
+blake20,LD,Minnetonka High School,MN/US,Molly Welch,Minnetonka MW,In
+blake20,LD,Minnetonka High School,MN/US,Steven Wang,Minnetonka SW,In
+blake20,LD,Mount Vernon High School,WA/US,Ausha Curry,Mount Vernon AC,In
+blake20,LD,NSU University School,FL/US,Sebastian Frazier,NSU SF,In
+blake20,LD,Neenah High School,WI/US,Isabel Hoffman,Neenah IH,In
+blake20,LD,Neenah High School,WI/US,Megan O'Keefe,Neenah MO,In
+blake20,LD,Neenah High School,WI/US,Sarah Hoffman,Neenah SH,In
+blake20,LD,New Trier High School,IL/US,Caroline Siebert,New Trier CS,In
+blake20,LD,New Trier High School,IL/US,Izaak Van Til,New Trier IV,In
+blake20,LD,Northview High School,GA/US,Sreyaash Das,Northview SD,In
+blake20,LD,Northview High School,GA/US,Yasmin Shalim,Northview YS,In
+blake20,LD,Presentation High School,CA/US,Monica Schneck,Presentation MS,In
+blake20,LD,Presentation High School,CA/US,Niha Bozza,Presentation NB,In
+blake20,LD,Presentation High School,CA/US,Nikita Raman,Presentation NR,In
+blake20,LD,Rosemount Sr High School,MN/US,Alex Owens,Rosemount Sr AO,In
+blake20,LD,Rosemount Sr High School,MN/US,Cierra Phillips,Rosemount Sr CP,In
+blake20,LD,Rosemount Sr High School,MN/US,Tanvi Adige,Rosemount Sr TA,In
+blake20,LD,Scarsdale High School,NY/US,Alex Kahn,Scarsdale AK,In
+blake20,LD,Scarsdale High School,NY/US,Bryan Shi,Scarsdale BS,In
+blake20,LD,Scarsdale High School,NY/US,Jaden Tepper,Scarsdale JT,In
+blake20,LD,Scarsdale High School,NY/US,Katherine Shi,Scarsdale KS,In
+blake20,LD,Scarsdale High School,NY/US,Mia Frishberg,Scarsdale MF,In
+blake20,LD,Scarsdale High School,NY/US,Sebastian Verrelli,Scarsdale SV,In
+blake20,LD,Sioux Falls Lincoln,SD/US,Areej Nazir,Sioux Falls Lincoln AN,In
+blake20,LD,Sioux Falls Lincoln,SD/US,Harrison Olson,Sioux Falls Lincoln HO,In
+blake20,LD,Sioux Falls Lincoln,SD/US,Katherine Mickelson,Sioux Falls Lincoln KM,In
+blake20,LD,St Michael Albertville High School,MN/US,Cobin Szymanski,St Michael Albertville CS,In
+blake20,LD,Stuyvesant High School,NY/US,Maxwell Zen,Stuyvesant MZ,In
+blake20,LD,Stuyvesant High School,NY/US,Sarai Pridgen,Stuyvesant SP,In
+blake20,LD,Success Academy HS - Liberal Arts,NY/US,Silma Bathily,Success Academy Liberal Arts SB,In
+blake20,LD,Summit HS,NJ/US,Mabel Rieger,Summit MR,In
+blake20,LD,The Bronx High School Of Science,NY/US,Joleen Chen,Bronx Science JC,In
+blake20,LD,The Bronx High School Of Science,NY/US,Nicolas Kim,Bronx Science NK,In
+blake20,LD,The Bronx High School Of Science,NY/US,Rory An,Bronx Science RA,In
+blake20,LD,The Roeper School,MI/US,Rosalyn Li,Roeper RL,In
+blake20,LD,Torrey Pines High School,CA/US,Jungwoo Seo,Torrey Pines JS,In
+blake20,LD,Torrey Pines High School,CA/US,Kas Nguyen,Torrey Pines KN,In
+blake20,LD,West Des Moines Valley High School,IA/US,Alyssa Makena,West Des Moines Valley AM,In
+blake20,LD,West Des Moines Valley High School,IA/US,Connor Fogarty,West Des Moines Valley CF,In
+blake20,LD,West Des Moines Valley High School,IA/US,Joe Su,West Des Moines Valley JS,In
+blake20,LD,West Des Moines Valley High School,IA/US,Kauai Cua,West Des Moines Valley KC,In
+blake20,LD,West Des Moines Valley High School,IA/US,Landon Stull,West Des Moines Valley LS,In
+blake20,LD,West Des Moines Valley High School,IA/US,Michael Meng,West Des Moines Valley MM,In
+blake20,LD,West Des Moines Valley High School,IA/US,Shreya Joshi,West Des Moines Valley SJ,In
+blake20,LD,West Fargo Sheyenne High School,ND/US,Joyli Kamau,West Fargo Sheyenne JK,In
+blake20,LD,West Fargo Sheyenne High School,ND/US,Keona Munowenyu,West Fargo Sheyenne KM,In
+blake20,LD,West Ranch High School,CA/US,Shreyas Venkatsubramanian,West Ranch SV,In
+blake20,LD,Westwood,TX/US,Anoop Rachakonda,Westwood AR,In
+blake20,LD,Westwood,TX/US,Brian Jeon,Westwood BJ,In
+blake20,LD,Westwood,TX/US,Pranav Medikonduru,Westwood PM,In
+collegeprep19,LD,AHS Independent,CA/US,Grant Aung,Grant Aung GA,In
+collegeprep19,LD,American High,CA/US,Kavin Goyal,American KG,In
+collegeprep19,LD,American High,CA/US,Krish Parikh,American KP,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Arnav Simha,Archbishop Mitty AS,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Jessica Hsu,Archbishop Mitty JH,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,John Lee,Archbishop Mitty JL,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Joanne Park,Archbishop Mitty JP,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Lukas Krause,Archbishop Mitty LK,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Mohul Aggarwal,Archbishop Mitty MA,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Priscilla Kim,Archbishop Mitty PK,In
+collegeprep19,LD,Archbishop Mitty High School,CA/US,Rohan Ray,Archbishop Mitty RR,In
+collegeprep19,LD,BASIS San Antonio Shavano,TX/,Pranavkrishna Kandikayala,BASIS San Antonio Shavano PK,In
+collegeprep19,LD,Bergen County Academies,NJ/US,Maria Savransky,Bergen County Academies MS,In
+collegeprep19,LD,Bishop's Independent,CA/US,Advay Chandra,Bishop's Independent AC,In
+collegeprep19,LD,Branham,CA/US,Alexander Goldberg,Branham AG,In
+collegeprep19,LD,Branham,CA/US,Callum Wooster,Branham CW,In
+collegeprep19,LD,Brentwood School,CA/US,Alex Lowe,Brentwood AL,In
+collegeprep19,LD,Brentwood School,CA/US,Dylan Liu,Brentwood DL,In
+collegeprep19,LD,Brentwood School,CA/US,Hannah Taheri,Brentwood HT,In
+collegeprep19,LD,Brentwood School,CA/US,Jessica Korobkin,Brentwood JK,In
+collegeprep19,LD,Brentwood School,CA/US,Linus Epstein,Brentwood LE,In
+collegeprep19,LD,Brentwood School,CA/US,Rahul Yates,Brentwood RY,In
+collegeprep19,LD,Brentwood School,CA/US,Sam Drake,Brentwood SD,In
+collegeprep19,LD,Carmel Valley Independent,CA/US,Eric Park,Carmel Valley Independent EP,In
+collegeprep19,LD,Carmel Valley Independent,CA/US,Jacob Spiegelman,Carmel Valley Independent JS,In
+collegeprep19,LD,Crescenta Valley HS,CA/US,Asher Towner,Crescenta Valley AT,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Arjun Garg,Dougherty Valley AG,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Arya Goel,Dougherty Valley AGo,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Anish Maram,Dougherty Valley AM,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Dhruv Channa,Dougherty Valley DCh,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Kabir Dubey,Dougherty Valley KD,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Kavin Kumaravel,Dougherty Valley KK,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Krish Kapoor,Dougherty Valley KKa,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Mishka Narasimhan,Dougherty Valley MN,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Neda Bahrani,Dougherty Valley NBa,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Savit Bhat,Dougherty Valley SBh,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Saketh Kotapati,Dougherty Valley SKo,In
+collegeprep19,LD,Dougherty Valley High School,CA/US,Sohum Tiwary,Dougherty Valley STi,In
+collegeprep19,LD,Evergreen Valley,CA/US,Duc Than,Evergreen Valley DT,In
+collegeprep19,LD,Evergreen Valley,CA/US,Saurish Srivastava,Evergreen Valley SS,In
+collegeprep19,LD,Evergreen Valley,CA/US,Yuvraj Virk,Evergreen Valley YV,In
+collegeprep19,LD,Fremont Mission Debate,CA/US,Advika Bhike,Fremont Mission AB,In
+collegeprep19,LD,H.B. Plant High School,FL/US,Taman Kanchanapalli,H.B. Plant TK,In
+collegeprep19,LD,Hopkins Debate,CA/US,Shrey Raju,Hopkins SR,In
+collegeprep19,LD,Hopkins Debate,CA/US,Saranya Singh,Hopkins SS,In
+collegeprep19,LD,Immaculate Heart High School,CA/US,Beatrice Culligan,Immaculate Heart BC,In
+collegeprep19,LD,Immaculate Heart High School,CA/US,Felicity Park,Immaculate Heart FP,In
+collegeprep19,LD,Immaculate Heart High School,CA/US,Jane Lichtman,Immaculate Heart JL,In
+collegeprep19,LD,Immaculate Heart High School,CA/US,Riley Rees,Immaculate Heart RR,In
+collegeprep19,LD,Leland High School,CA/US,Varsha Shankar,Leland VS,In
+collegeprep19,LD,Los Osos High School,CA/US,Ron Nath,Los Osos RN,In
+collegeprep19,LD,Loyola High School,CA/US,Andrew Pribe,Loyola AP,In
+collegeprep19,LD,Loyola High School,CA/US,Braden Masih,Loyola BM,In
+collegeprep19,LD,Loyola High School,CA/US,Jared Aimone,Loyola JA,In
+collegeprep19,LD,Lynbrook HS,CA/US,Arnav Dixit,Lynbrook AD,In
+collegeprep19,LD,Lynbrook HS,CA/US,Ayush Mishra,Lynbrook AM,In
+collegeprep19,LD,Lynbrook HS,CA/US,Krishna Ajjarapu,Lynbrook KA,In
+collegeprep19,LD,Lynbrook HS,CA/US,Keshav Dandu,Lynbrook KD,In
+collegeprep19,LD,Lynbrook HS,CA/US,Oviya Seeniraj,Lynbrook OS,WL
+collegeprep19,LD,Lynbrook HS,CA/US,Siddharth Chattoraj,Lynbrook SC,In
+collegeprep19,LD,Lynbrook HS,CA/US,Shreya Chilukuri,Lynbrook SCh,WL
+collegeprep19,LD,Lynbrook HS,CA/US,Sidarth Kannan,Lynbrook SK,In
+collegeprep19,LD,Lynbrook HS,CA/US,Shreeram Modi,Lynbrook SM,In
+collegeprep19,LD,Lynbrook HS,CA/US,Soohyuk Yoon,Lynbrook SY,In
+collegeprep19,LD,Lynbrook HS,CA/US,Yash Mishra,Lynbrook YM,In
+collegeprep19,LD,Lynbrook HS,CA/US,Zach Uriarte,Lynbrook ZU,In
+collegeprep19,LD,Moreland middle school Independent,CA/US,Sophia Tian,Moreland middle school Independent ST,In
+collegeprep19,LD,Mountain House HS,CA/US,Aashril Shazar,Mountain House AS,In
+collegeprep19,LD,Mountain House HS,CA/US,Immanuel Victor,Mountain House IV,In
+collegeprep19,LD,Northview High School,GA/US,Sreyaash Das,Northview SD,In
+collegeprep19,LD,Orange Lutheran,CA/US,Aaron Zhang,Orange Lutheran AZ,In
+collegeprep19,LD,Palo Alto High School Independent,CA/US,Ethan Hwang,Palo Alto HS Independent EH,In
+collegeprep19,LD,Portola Bulldogs,CA/US,Amitoj Singh,Portola Bulldogs AS,In
+collegeprep19,LD,Rancho Bernardo High School,CA/US,Jonathan Jeong,Rancho Bernardo JJ,In
+collegeprep19,LD,S. Eugene H. S.,OR/US,Kendra Schmidt,S. Eugene H. S KS,In
+collegeprep19,LD,S. Eugene H. S.,OR/US,Noa Ablow,S. Eugene H. S NA,In
+collegeprep19,LD,S. Eugene H. S.,OR/US,Naomi Saenger,S. Eugene H. S NS,In
+collegeprep19,LD,S. Eugene H. S.,OR/US,Wiley Kohler,S. Eugene H. S WK,In
+collegeprep19,LD,Saratoga HS,CA/US,Arnav Garg,Saratoga AG,In
+collegeprep19,LD,Segerstrom High School,CA/US,Avery Ngo,Segerstrom AN,In
+collegeprep19,LD,Sequoia High School,CA/US,Alyssa Sawyer,Sequoia AS,In
+collegeprep19,LD,The Golden State Academy,CA/US,Allison Wang,Golden State AW,In
+collegeprep19,LD,The Golden State Academy,CA/US,Ethan Chang,Golden State EC,In
+collegeprep19,LD,The Golden State Academy,CA/US,Keith Maben,Golden State KM,In
+collegeprep19,LD,The Golden State Academy,CA/US,Sanjith Shanmugavel,Golden State SS,In
+collegeprep19,LD,The Harker School,CA/US,Arnav Dani,Harker AD,In
+collegeprep19,LD,The Harker School,CA/US,Angela Gao,Harker AG,In
+collegeprep19,LD,The Harker School,CA/US,Akshay Manglik,Harker AM,In
+collegeprep19,LD,The Harker School,CA/US,Anshul Reddy,Harker AR,In
+collegeprep19,LD,The Harker School,CA/US,Ansh Sheth,Harker AS,In
+collegeprep19,LD,The Harker School,CA/US,Aditya Tadimeti,Harker AT,In
+collegeprep19,LD,The Harker School,CA/US,Deven Shah,Harker DS,In
+collegeprep19,LD,The Harker School,CA/US,Deeya Viradia,Harker DV,In
+collegeprep19,LD,The Harker School,CA/US,Krishay Mukhija,Harker KM,In
+collegeprep19,LD,The Harker School,CA/US,Krish Maniar,Harker KMa,In
+collegeprep19,LD,The Harker School,CA/US,Krishna Mysoor,Harker KMy,In
+collegeprep19,LD,The Harker School,CA/US,Quentin Clark,Harker QC,In
+collegeprep19,LD,The Harker School,CA/US,Rahul Mulpuri,Harker RM,In
+collegeprep19,LD,The Harker School,CA/US,Sachin Shah,Harker SS,In
+collegeprep19,LD,The Hill School,PA/US,Nethmin Liyanage,Hill NL,In
+collegeprep19,LD,The Quarry Lane School,CA/US,Mackenzie Davis,Quarry Lane MD,In
+collegeprep19,LD,The Quarry Lane School,CA/US,Meera Sehgal,Quarry Lane MS,In
+collegeprep19,LD,Torrey Pines High School,CA/US,Jungwoo Seo,Torrey Pines JS,In
+collegeprep19,LD,WHS Independent,OR/US,Anwesha Mukherjee,WHS Independent AM,In
+collegeprep19,LD,Westlake High School,CA/US,Ethan Elasky,Westlake EE,In
+collegeprep20,LD,American High,CA/US,Kavin Goyal,American KG,In
+collegeprep20,LD,Archbishop Mitty,CA/US,Alex Ali,Archbishop Mitty AA,In
+collegeprep20,LD,Archbishop Mitty,CA/US,Arnav Simha,Archbishop Mitty AS,In
+collegeprep20,LD,Archbishop Mitty,CA/US,Jessica Hsu,Archbishop Mitty JH,In
+collegeprep20,LD,Archbishop Mitty,CA/US,Lukas Krause,Archbishop Mitty LK,In
+collegeprep20,LD,Archbishop Mitty,CA/US,Raunak Dua,Archbishop Mitty RD,In
+collegeprep20,LD,BASIS Independent Silicon Valley In,CA/US,Shreyas Kapavarapu,BASIS Independent Silicon Valley Independent SK,In
+collegeprep20,LD,Bishop's,CA/US,Advay Chandra,Bishop's AC,In
+collegeprep20,LD,Bishop's,CA/US,Shea Rueda,Bishop's SR,In
+collegeprep20,LD,Branham,CA/US,Alexander Goldberg,Branham AG,In
+collegeprep20,LD,Brentwood School,CA/US,Dylan Liu,Brentwood DL,In
+collegeprep20,LD,Brentwood School,CA/US,John Chung,Brentwood JC,In
+collegeprep20,LD,Brentwood School,CA/US,Jessica Korobkin,Brentwood JK,In
+collegeprep20,LD,Brentwood School,CA/US,Mika McCaffrey,Brentwood MM,In
+collegeprep20,LD,Brentwood School,CA/US,Rahul Yates,Brentwood RYa,In
+collegeprep20,LD,Carmel Valley Independent,CA/US,Andrew Kang,Carmel Valley Independent AK,In
+collegeprep20,LD,Carmel Valley Independent,CA/US,Eric Park,Carmel Valley Independent EP,In
+collegeprep20,LD,Carmel Valley Independent,CA/US,Katie Wang,Carmel Valley Independent KW,In
+collegeprep20,LD,Carmel Valley Independent,CA/US,Max Norman,Carmel Valley Independent MN,In
+collegeprep20,LD,Carmel Valley Independent,CA/US,Sarah Zhou,Carmel Valley Independent SZ,In
+collegeprep20,LD,Catonsville High School,MD/US,Alexander Torrez,Catonsville AT,In
+collegeprep20,LD,Crater High School,OR/US,Adam Moeglein,Crater AM,In
+collegeprep20,LD,Diamond Bar High School,CA/US,Nathan Chu,Diamond Bar NC,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Arjun Garg,Dougherty Valley AG,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Aditya Madaraju,Dougherty Valley AM,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Dhruv Channa,Dougherty Valley DC,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Krish Kapoor,Dougherty Valley KK,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Neda Bahrani,Dougherty Valley NB,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Savit Bhat,Dougherty Valley SB,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Saketh Kotapati,Dougherty Valley SK,In
+collegeprep20,LD,Dougherty Valley High School,CA/US,Tarpan Mishra,Dougherty Valley TM,In
+collegeprep20,LD,Dutchtown High School,LA/US,Sheel Shah,Dutchtown SS,In
+collegeprep20,LD,Eastside Independent,WA/US,Margaret Li,Eastside Independent ML,In
+collegeprep20,LD,Elkins High School,TX/US,Ayush Manoj,Elkins AM,In
+collegeprep20,LD,Flintridge Preparatory,CA/US,Thomas Vandenburg,Flintridge Prep TV,In
+collegeprep20,LD,Hamilton High Independent,AZ/US,Michael Randolph,Hamilton High Independent MR,In
+collegeprep20,LD,Hamilton High Independent,AZ/US,Nolan Burke,Hamilton High Independent NB,In
+collegeprep20,LD,Harvard-Westlake School,CA/US,Alex Lee,Harvard-Westlake AL,In
+collegeprep20,LD,Harvard-Westlake School,CA/US,Iris Chen,Harvard-Westlake IC,In
+collegeprep20,LD,Harvard-Westlake School,CA/US,Olivia Feldman,Harvard-Westlake OF,In
+collegeprep20,LD,Harvard-Westlake School,CA/US,Samantha McLoughlin,Harvard-Westlake SM,In
+collegeprep20,LD,Immaculate Heart High School,CA/US,Beatrice Culligan,Immaculate Heart BC,In
+collegeprep20,LD,Immaculate Heart High School,CA/US,Felicity Park,Immaculate Heart FP,In
+collegeprep20,LD,Immaculate Heart High School,CA/US,Jane Lichtman,Immaculate Heart JL,In
+collegeprep20,LD,Immaculate Heart High School,CA/US,Riley Rees,Immaculate Heart RR,In
+collegeprep20,LD,Irvington HS,CA/US,Alisha Bhat,Irvington AB,In
+collegeprep20,LD,Irvington HS,CA/US,Vivian Nguyen,Irvington VN,In
+collegeprep20,LD,Kennedy,CA/US,Arnav Aggarwal,Kennedy AA,In
+collegeprep20,LD,Kennedy,CA/US,Keshav Rastogi,Kennedy KR,In
+collegeprep20,LD,La Costa Canyon High School,CA/US,Isobel Ramos,La Costa Canyon IR,In
+collegeprep20,LD,La Costa Canyon High School,CA/US,Jai Arcot,La Costa Canyon JA,In
+collegeprep20,LD,La Costa Canyon High School,CA/US,Jeremy Wilkins,La Costa Canyon JW,In
+collegeprep20,LD,Loyola High School,CA/US,Andrew Pribe,Loyola AP,In
+collegeprep20,LD,Loyola High School,CA/US,Ian Brown,Loyola IB,In
+collegeprep20,LD,Loyola High School,CA/US,Lucas Hunter,Loyola LH,In
+collegeprep20,LD,Loyola High School,CA/US,Suraj Gajula,Loyola SG,In
+collegeprep20,LD,Lynbrook HS,CA/US,Aakash Gupta,Lynbrook AG,In
+collegeprep20,LD,Lynbrook HS,CA/US,Allison Hsu,Lynbrook AH,In
+collegeprep20,LD,Lynbrook HS,CA/US,Ayush Mishra,Lynbrook AM,In
+collegeprep20,LD,Lynbrook HS,CA/US,Keshav Dandu,Lynbrook KD,In
+collegeprep20,LD,Lynbrook HS,CA/US,Siddharth Chattoraj,Lynbrook SC,In
+collegeprep20,LD,Lynbrook HS,CA/US,Sidarth Kannan,Lynbrook SK,In
+collegeprep20,LD,Lynbrook HS,CA/US,Shreeram Modi,Lynbrook SM,In
+collegeprep20,LD,Lynbrook HS,CA/US,Soohyuk Yoon,Lynbrook SY,In
+collegeprep20,LD,Mission San Jose High School,CA/US,Allison Wang,Mission San Jose AW,In
+collegeprep20,LD,Mission San Jose High School,CA/US,Sanah Bhardwaj,Mission San Jose SB,In
+collegeprep20,LD,Mission San Jose High School,CA/US,Shrey Raju,Mission San Jose SR,In
+collegeprep20,LD,Mission San Jose High School,CA/US,Saranya Singh,Mission San Jose SS,In
+collegeprep20,LD,ModernBrain,CA/US,Annabelle Kim,ModernBrain AK,In
+collegeprep20,LD,ModernBrain,CA/US,Zhian Xu,ModernBrain ZX,In
+collegeprep20,LD,Monta Vista High School,CA/US,Philip Chiu,Monta Vista PC,In
+collegeprep20,LD,Monta Vista High School,CA/US,Rohit Dayanand,Monta Vista RD,In
+collegeprep20,LD,Nashua HS South,NH/US,Enya Gu,Nashua HS South EG,In
+collegeprep20,LD,New Jersey Independent,NJ/US,Ananya Natchukuri,New Jersey Independent AN,In
+collegeprep20,LD,New Jersey Independent,NJ/US,Amulya Natchukuri,New Jersey Independent ANa,In
+collegeprep20,LD,North Mecklenburg High School,NC/US,Patrick Mays,North Mecklenburg PM,In
+collegeprep20,LD,Northern Valley HS Independent,NJ/US,Jing Li,Northern Valley HS Independent JL,In
+collegeprep20,LD,Orange Lutheran,CA/US,Aaron Zhang,Orange Lutheran AZ,In
+collegeprep20,LD,Peachtree Ridge High School,GA/US,Roy Lee,Peachtree Ridge RL,In
+collegeprep20,LD,Peninsula High School,CA/US,Alex Borgas,Peninsula AB,In
+collegeprep20,LD,Peninsula High School,CA/US,Anna Kim,Peninsula AK,In
+collegeprep20,LD,Peninsula High School,CA/US,Anish Ramireddy,Peninsula AR,In
+collegeprep20,LD,Peninsula High School,CA/US,Christopher Chiu,Peninsula CC,In
+collegeprep20,LD,Peninsula High School,CA/US,Eleanor Hsu,Peninsula EH,In
+collegeprep20,LD,Portola Bulldogs,CA/US,Amitoj Singh,Portola Bulldogs AS,In
+collegeprep20,LD,Princeton Independent,ME/US,Tanish Kothari,Princeton Independent TK,In
+collegeprep20,LD,Proof School,CA/US,Dhruv Raghavan,Proof DR,In
+collegeprep20,LD,Ridgevue High School,ID/US,Taylor Jepson,Ridgevue TJ,In
+collegeprep20,LD,S. Eugene H. S.,OR/US,Jason Chinitz-Mital,S. Eugene H. S JC,In
+collegeprep20,LD,Sage Independent,CA/US,Ali Ansari,Sage Independent AA,In
+collegeprep20,LD,San Mateo High,CA/US,Yesh Rao,San Mateo YR,In
+collegeprep20,LD,Saratoga,CA/US,Arnav Garg,Saratoga AG,In
+collegeprep20,LD,Sequoia High School,CA/US,Alyssa Sawyer,Sequoia AS,In
+collegeprep20,LD,Sidwell,DC/US,Sean Wallace,Sidwell SW,In
+collegeprep20,LD,Southlake Carroll,TX/US,Pranav Kaginele,Southlake Carroll PK,In
+collegeprep20,LD,The Harker School,CA/US,Arnav Dani,Harker AD,In
+collegeprep20,LD,The Harker School,CA/US,Angela Gao,Harker AG,In
+collegeprep20,LD,The Harker School,CA/US,Alexander Lan,Harker AL,In
+collegeprep20,LD,The Harker School,CA/US,Arjun Moogimane,Harker AM,In
+collegeprep20,LD,The Harker School,CA/US,Anshul Reddy,Harker AR,In
+collegeprep20,LD,The Harker School,CA/US,Ansh Sheth,Harker AS,In
+collegeprep20,LD,The Harker School,CA/US,Deven Shah,Harker DS,In
+collegeprep20,LD,The Harker School,CA/US,Deeya Viradia,Harker DV,In
+collegeprep20,LD,The Harker School,CA/US,Gordy Sun,Harker GS,In
+collegeprep20,LD,The Harker School,CA/US,Kabir Buch,Harker KB,In
+collegeprep20,LD,The Harker School,CA/US,Krish Maniar,Harker KM,In
+collegeprep20,LD,The Harker School,CA/US,Mir Bahri,Harker MB,In
+collegeprep20,LD,The Harker School,CA/US,Muzzi Khan,Harker MK,In
+collegeprep20,LD,The Harker School,CA/US,Neo Alpha,Harker NA,In
+collegeprep20,LD,The Harker School,CA/US,Panav Gogte,Harker PG,In
+collegeprep20,LD,The Harker School,CA/US,Rahul Mulpuri,Harker RM,In
+collegeprep20,LD,The Harker School,CA/US,Rohan Thakur,Harker RT,In
+collegeprep20,LD,The Hill School,PA/US,Corbin Cartagine,Hill CC,In
+collegeprep20,LD,The Oxford Academy,CA/US,Vaibhav Dara,Oxford VD,In
+collegeprep20,LD,The Oxford Academy,CA/US,Viren Mehta,Oxford VM,In
+collegeprep20,LD,The Woodlands High School,TX/US,Allison Aldridge,Woodlands AA,In
+collegeprep20,LD,The Woodlands High School,TX/US,Lulu Whitson,Woodlands LW,In
+collegeprep20,LD,Thomas Horace Rogers,TX/US,Justin Wen,Thomas Horace Rogers JW,In
+collegeprep20,LD,Troy Independent,CA/US,Andrew Park,Troy Independent AP,In
+collegeprep20,LD,Unionville,PA/US,Medha Patel,Unionville MP,In
+collegeprep20,LD,Unionville,PA/US,Phillis Wan,Unionville PW,In
+collegeprep20,LD,Valor Christian High School,CO/US,Lucy Sarkissian,Valor Christian LS,In
+collegeprep20,LD,West High School SLC,UT/US,Taisei Summerhays,West HS SLC TS,In
+collegeprep20,LD,Wilcox Independent,CA/US,Keith Maben,Wilcox Independent KM,In
+usc20,LD,Ayala High School,CA/US,Adam Mimou,Ayala AM
+usc20,LD,Bravo High School,CA/US,Kastella Nguyen,Bravo KN
+usc20,LD,Cardinal Gibbons,FL/US,Roberto Sosa,Cardinal Gibbons RS
+usc20,LD,Carmel Valley Independent,CA/US,Elaine Dong,Carmel Valley Independent ED
+usc20,LD,Carmel Valley Independent,CA/US,Max Norman,Carmel Valley Independent MN
+usc20,LD,Davidson Academy,NV/US,Caitlin Hamilton,Davidson CH
+usc20,LD,Diamond Bar High School,CA/US,Nathan Chu,Diamond Bar NC
+usc20,LD,Harvard-Westlake School,CA/US,Alex Lee,Harvard-Westlake AL
+usc20,LD,Harvard-Westlake School,CA/US,Claire Conner,Harvard-Westlake CC
+usc20,LD,Harvard-Westlake School,CA/US,Carina Villalona,Harvard-Westlake CV
+usc20,LD,Harvard-Westlake School,CA/US,Iris Chen,Harvard-Westlake IC
+usc20,LD,Harvard-Westlake School,CA/US,Kriste An,Harvard-Westlake KA
+usc20,LD,Harvard-Westlake School,CA/US,Maxwell Lee,Harvard-Westlake ML
+usc20,LD,Harvard-Westlake School,CA/US,Olivia Feldman,Harvard-Westlake OF
+usc20,LD,Huntington High School,WV/US,Benjamin Patrick,Huntington BP
+usc20,LD,Livingston High School,NJ/US,Raina Batra,Livingston RB
+usc20,LD,Loyola High School,CA/US,Andrew Pribe,Loyola AP
+usc20,LD,Loyola High School,CA/US,Braden Masih,Loyola BM
+usc20,LD,Loyola High School,CA/US,Daniel Beck,Loyola DB
+usc20,LD,Loyola High School,CA/US,Ian Brown,Loyola IB
+usc20,LD,Loyola High School,CA/US,Lucas Hunter,Loyola LH
+usc20,LD,Loyola High School,CA/US,Lukas Roybal,Loyola LR
+usc20,LD,Loyola High School,CA/US,Suraj Gajula,Loyola SG
+usc20,LD,Loyola High School,CA/US,Sameer Nayyar,Loyola SN
+usc20,LD,Loyola High School,CA/US,Samuel Salseda,Loyola SS
+usc20,LD,North Mecklenburg High School,NC/US,Patrick Mays,North Mecklenburg PM
+usc20,LD,Oxford Academy,CA/US,Vaibhav Dara,Oxford VD
+usc20,LD,Oxford Academy,CA/US,Viren Mehta,Oxford VM
+usc20,LD,Sage,CA/US,Max Perin,Sage MP
+usc20,LD,Sequoia High School,CA/US,Alyssa Sawyer,Sequoia AS
+usc20,LD,Southlake Carroll,TX/US,Enya Pinjani,Southlake Carroll EP
+usc20,LD,Southlake Carroll,TX/US,Pranav Kaginele,Southlake Carroll PK
+usc20,LD,Southlake Carroll,TX/US,Samhith Dharani,Southlake Carroll SD
+usc20,LD,Thomas Horace Rogers,TX/US,Justin Wen,Thomas Horace Rogers JW
+usc20,LD,Troy Independent,CA/US,Andrew Park,Troy Independent AP
+usc19,LD,Beckman High School,CA/US,April Wang,Beckma AW,In
+usc19,LD,Beckman High School,CA/US,Bryan Choi,Beckma BC,In
+usc19,LD,Beckman High School,CA/US,Kenichi Matsuo,Beckma KM,In
+usc19,LD,Beckman High School,CA/US,Ruby Choi,Beckma RC,In
+usc19,LD,Beckman High School,CA/US,Sameer Ghai,Beckma SG,In
+usc19,LD,Brentwood School,CA/US,Katie Raphaelson,Brentw KR,In
+usc19,LD,Carmel Valley Independent,CA/US,Edward Li,CarVal EL,In
+usc19,LD,Carmel Valley Independent,CA/US,Samuel Xiong,CarVal SX,In
+usc19,LD,Crescenta Valley HS,CA/US,Asher Towner,CreVal AT,In
+usc19,LD,Flintridge Preparatory,CA/US,Aaron Lee,FliPre AL,In
+usc19,LD,Harvard-Westlake,CA/US,Ben Weinberg,Harvard-Westlake BW,In
+usc19,LD,Harvard-Westlake,CA/US,George Zhang,Harvard-Westlake GZ,In
+usc19,LD,Harvard-Westlake,CA/US,Jonathan Cosgrove,Harvard-Westlake JC,In
+usc19,LD,Harvard-Westlake,CA/US,Jessa Glassman,Harvard-Westlake JG,In
+usc19,LD,Harvard-Westlake,CA/US,Joie Zhang,Harvard-Westlake JZ,In
+usc19,LD,Harvard-Westlake,CA/US,Landon Poon,Harvard-Westlake LP,In
+usc19,LD,Harvard-Westlake,CA/US,Matthew Gross,Harvard-Westlake MG,In
+usc19,LD,Harvard-Westlake,CA/US,Matthew Paul,Harvard-Westlake MP,In
+usc19,LD,Harvard-Westlake,CA/US,Olivia Feldman,Harvard-Westlake OF,In
+usc19,LD,Harvard-Westlake,CA/US,Will Berlin,Harvard-Westlake WB,In
+usc19,LD,Immaculate Heart High School,CA/US,Felicity Park,ImmHea FP,In
+usc19,LD,Immaculate Heart High School,CA/US,Lena Mizrahi,ImmHea LM,In
+usc19,LD,Immaculate Heart High School,CA/US,Madeleine Conrad-Mogin,ImmHea MC,In
+usc19,LD,Independent,WA/US,Sarah Xu,Indepe SX,In
+usc19,LD,Independent,WA/US,Vanessa Chen,Indepe VC,In
+usc19,LD,Interlake,WA/US,Michele Tang,Interl MT,In
+usc19,LD,Interlake,WA/US,Megan Wu,Interl MW,In
+usc19,LD,Kamiak High School,WA/US,Niko Battle,Kamiak NB,In
+usc19,LD,Loyola High School,CA/US,Andrew Overing,Loyola AO,In
+usc19,LD,Loyola High School,CA/US,Benjamin Cortez,Loyola BC,In
+usc19,LD,Loyola High School,CA/US,Braden Masih,Loyola BM,In
+usc19,LD,Loyola High School,CA/US,Connor Lindquist,Loyola CL,In
+usc19,LD,Loyola High School,CA/US,John Choi,Loyola JC,In
+usc19,LD,Loyola High School,CA/US,John Soza,Loyola JS,In
+usc19,LD,Loyola High School,CA/US,Lucas Hunter,Loyola LH,In
+usc19,LD,Marlborough School,CA/US,Amy Jarkow,Marlbo AJ,In
+usc19,LD,Marlborough School,CA/US,Cameron Lange,Marlbo CL,In
+usc19,LD,Marlborough School,CA/US,Eva Rodriguez,Marlbo ER,In
+usc19,LD,Marlborough School,CA/US,Emma Yanai,Marlbo EY,In
+usc19,LD,Marlborough School,CA/US,Grace Nelson,Marlbo GN,In
+usc19,LD,Marlborough School,CA/US,Isabella Whitney,Marlbo IW,In
+usc19,LD,Marlborough School,CA/US,Julianne Hannon,Marlbo JH,In
+usc19,LD,Marlborough School,CA/US,Jocelyn Shek,Marlbo JSh,In
+usc19,LD,Marlborough School,CA/US,Lydia Dimsu,Marlbo LD,In
+usc19,LD,Marlborough School,CA/US,Lily Kinnear,Marlbo LK,In
+usc19,LD,Marlborough School,CA/US,Macy Lerner,Marlbo ML,In
+usc19,LD,Marlborough School,CA/US,SarahMae Tuohy,Marlbo ST,In
+usc19,LD,Millburn High School,NJ/US,Arthur Wayne,Millbu AW,In
+usc19,LD,ModernBrain,CA/US,Aidan Chung,Modern AC,In
+usc19,LD,ModernBrain,CA/US,Devin Lai,Modern DL,In
+usc19,LD,ModernBrain,CA/US,Kevin Lai,Modern KL,In
+usc19,LD,Mountain View High School,CA/US,Varun Paranjpe,MountVie VP,In
+usc19,LD,Nova 42 Academy,CA/US,Thomas Vandenburg,Nov42 TV,In
+usc19,LD,OCSA Independent,CA/US,Nihar Abhyankar,OCSInd NA,In
+usc19,LD,Orange Lutheran,CA/US,Aaron Zhang,OraLut AZ,In
+usc19,LD,Peninsula High School,CA/US,Anish Ramireddy,Penins AR,In
+usc19,LD,Peninsula High School,CA/US,Darin Park,Penins DP,In
+usc19,LD,Peninsula High School,CA/US,Jacob Namgung,Penins JN,In
+usc19,LD,Peninsula High School,CA/US,Nathan Wang,Penins NW,In
+usc19,LD,Peninsula High School,CA/US,Rhys Moon,Penins RM,In
+usc19,LD,Pinnacle,AZ/US,Kristen Arnold,Pinnac KA,In
+usc19,LD,San Marino HS,CA/US,Vincent Liu,SanMar VL,In
+usc19,LD,Saratoga (Independent),CA/US,Ujjwal Krishnamurthi,Sar(In UK,In
+usc19,LD,The Meadows School,NV/US,Ilana Cohen,Meadow IC,In
+usc19,LD,The Meadows School,NV/US,Julien Lara,Meadow JL,In
+usc19,LD,The Meadows School,NV/US,Kobby Sarfo,Meadow KS,In
+usc19,LD,Westlake High School,CA/US,Ethan Elasky,Westla EE,In
+usc19,LD,Whatcom Independent,WA/US,Alexander Batt,Whatcom AB,In

@@ -17,3 +17,7 @@ Championship L-D
 Open - Lincoln-Douglas
 Lincoln Douglas Debate Varsity
 Open Lincoln-Douglas - TOC
+McCabe Varsity Lincoln Douglas
+LD - Varsity
+TOC LD
+OLD
