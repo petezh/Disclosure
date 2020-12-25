@@ -19,5 +19,41 @@
       1. overall participation
       2. local participation
 
-   
 
+
+
+
+
+
+
+*ignored*
+
+ignore sunvite
+
+ignore scarsdalee
+
+
+
+*plots*
+
+change in entries
+
+change in avg distance
+
+
+
+- prevalence of lone wolves
+- 
+
+
+
+https://www.statista.com/statistics/233170/median-household-income-in-the-united-states-by-state/
+
+https://www.statista.com/statistics/305987/us-average-act-scores-by-state/
+
+https://worldpopulationreview.com/states/state-abbreviations
+
+
+
+- num distinct competitors
+- 
