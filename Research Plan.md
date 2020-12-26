@@ -20,7 +20,7 @@
       2. local participation
 
 
-
+check 2018
 
 
 
@@ -43,13 +43,14 @@ change in avg distance
 
 
 - prevalence of lone wolves
-- 
+- include oder hting
+- wiki
 
 
 
 https://www.statista.com/statistics/233170/median-household-income-in-the-united-states-by-state/
 
-https://www.statista.com/statistics/305987/us-average-act-scores-by-state/
+
 
 https://worldpopulationreview.com/states/state-abbreviations
 
@@ -57,3 +58,6 @@ https://worldpopulationreview.com/states/state-abbreviations
 
 - num distinct competitors
 - 
+
+
+
