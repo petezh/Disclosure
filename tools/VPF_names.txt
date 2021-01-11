@@ -2,7 +2,7 @@ PF
 PFD
 VPF
 Varsity PF
-Pubilc Forum
+Public Forum
 Public Forum Debate
 Varsity Public Forum
 Varsity Public Forum Debate
@@ -11,3 +11,6 @@ Open PF
 Open Public Forum
 Championship Public Forum Debate
 Open - Public Forum Debate
+Public Forum Varsity
+Public Forum Debate Varsity
+Public Forum - Varsity
