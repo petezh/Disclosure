@@ -21,3 +21,5 @@ McCabe Varsity Lincoln Douglas
 LD - Varsity
 TOC LD
 OLD
+VAR Lincoln Douglas
+LD Open
