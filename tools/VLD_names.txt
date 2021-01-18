@@ -2,6 +2,7 @@ LD
 VLD
 Varsity LD
 LD Varsity
+LD Debate
 Lincoln Douglas
 Lincoln-Douglas
 Varsity Lincoln Douglas
@@ -23,3 +24,8 @@ TOC LD
 OLD
 VAR Lincoln Douglas
 LD Open
+Championship LD
+Open LD
+Varsity LD (Main Tournament)
+Lincoln Douglas Varsity
+Lincoln Douglas - Varsity
