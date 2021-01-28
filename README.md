@@ -12,7 +12,7 @@ The wiki scraper gathers information on the disclosure practices and position na
 
 The text of the cites were not collected because of encoding errors. This may be added in a future edition.
 
-Each wiki page has a couple hundred schools and a few thousand teams. To scrape a new wiki page, add a new URL to the `tools/wiki_pages.csv` document. Then, specify the target pages in the settings of the 
+Each wiki page has a couple hundred schools and a few thousand teams. To scrape a new wiki page, add a new URL to the `tools/wiki_pages.csv` document. Then, specify the target pages in the settings of the `Wiki_Scraper.ipynb` notebook.
 
 The Tabroom scraper collects the entries from each tournament. It iterates through the posted divisions and categorizes them according to the event name lists in the `tools` folder. It then collects all the available information from each page of entries and stores these in `wiki_data`.
 
